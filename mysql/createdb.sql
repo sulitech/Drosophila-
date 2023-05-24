@@ -2,6 +2,7 @@
 CREATE DATABASE drosphila DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 -- create user root/admin
+create user 'root'@'localhost' identified by 'admin';
 
 --data import to mysql
 
