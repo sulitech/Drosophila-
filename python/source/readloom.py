@@ -10,18 +10,10 @@ import scipy
 #import matplotlib.pyplot as plt
 #import seaborn as sns
 
-filepath="D:/project/python/bioinfo/data/loom"
-#filepath="D:/project/python/bioinfo/data/graph/gpcr"
+# this page contains handling loom file
+
 filepath="D:/project/python/bioinfo/data"
-#filepath="D:/project/python/bioinfo/data/h5ad"
 filename="r_fca_biohub_testis_10x.loom"
-filename="s_fca_biohub_antenna_10x.loom"
-filename="s_fca_biohub_body_10x.loom"
-filename="s_fca_biohub_head_10x.loom"
-#filename="Gr5a_leg_10x.loom"
-filename="s_fca_biohub_haltere_10x.loom"
-filename="Abdominal_ganglion_cluster_circle.loom"
-#filename ="r_fca_biohub_testis_10x.loom"
 
 partid = 8
 #filename="s_fca_biohub_head_10x.h5ad"
@@ -32,12 +24,6 @@ elif partid==8:
     clockpath = "D:/project/python/bioinfo/data/graph/clock/head/"
 
 
-#filename="s_fca_biohub_head_10x.h5ad"
-#filename="s_fca_biohub_head_10x.loom"
-#filename="s_fca_biohub_head_10x_.loom"
-#filename="fca_biohub_fat_body_ss2.loom"
-#filename="s_fca_biohub_head_10x.h5ad"
-#filename="s_fca_biohub_heart_10x.loom"
 
 filedir= os.path.join(filepath,filename)
 
@@ -78,8 +64,7 @@ print("=============h5ad anndataadata.shape======================")
 
 print(anndataX.shape)
 
-#0,0 로 나온다 하지만 mtx로 변경할때 1,1로 넣어줘야 한다..
-
+#0,0 are data, if change to mtx  1,1 
 
 totals = ds.map([np.sum], axis=1)[0]  # Calculate the total molecule count for each cell
 print("total==>",totals)
@@ -117,18 +102,18 @@ print(ds.col_attrs['CellID'])
 print(len(ds.col_attrs['CellID']))
 print("===========annontation===========")
 print(ds.col_attrs['annotation'])
-print(len(ds.col_attrs['annotation']))  #유전자별로..
+print(len(ds.col_attrs['annotation']))  
 
 print("===========MotifRegulons================")
 print(ds.row_attrs['MotifRegulons'])
-print(len(ds.row_attrs['MotifRegulons']))  #유전자별로..
+print(len(ds.row_attrs['MotifRegulons'])) .
 
 print(ds.row_attrs['MotifRegulons'])
-print(len(ds.row_attrs['MotifRegulons']))  #유전자별로..
+print(len(ds.row_attrs['MotifRegulons']))  
 
 print("===========MotifRegulons= Abd-B_(+)-motif MotifRegulons===============")
-print(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif'])  #유전자별로..
-print(ds.row_attrs['MotifRegulons'].dtype)  #314개가 존재한다.
+print(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif'])  
+print(ds.row_attrs['MotifRegulons'].dtype)  #314
 
 print("===========MotifRegulons dtype==============")
 #print(ds.row_attrs['MotifRegulons'].dtype)
@@ -140,11 +125,11 @@ print(tf[0])  #motif full name
 print(tf[0].index('_('))
 print(tf[0][:tf[0].index('_(')])  #motif gene name
 #'MotifRegulonGeneWeights
-print(ds.row_attrs['MotifRegulons'][tf[0]]) #matrix를 가져온다..
+print(ds.row_attrs['MotifRegulons'][tf[0]]) #matrix
 
 #순서
-print(ds.row_attrs['MotifRegulons'][tf[0]][20]) #matrix를 가져온다..
-print(ds.row_attrs['MotifRegulonGeneWeights'][tf[0]][20]) #matrix를 가져온다..
+print(ds.row_attrs['MotifRegulons'][tf[0]][20]) #matrix
+print(ds.row_attrs['MotifRegulonGeneWeights'][tf[0]][20]) 
 print(ds.row_attrs['MotifRegulonGeneOccurrences']['Abd-B_(+)-motif'][12094])
 
 motifregeulons = np.transpose(np.nonzero(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif']))
@@ -169,8 +154,8 @@ print(MotifRegulonGeneOccurrences[0][0])
 
 
 print(ds.row_attrs['MotifRegulonGeneOccurrences']['Abd-B_(+)-motif'][12094])
-print(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif'][12094]) #matrix를 가져온다..
-print(ds.row_attrs['MotifRegulonGeneWeights']['Abd-B_(+)-motif'][12094]) #matrix를 가져온다..
+print(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif'][12094]) 
+print(ds.row_attrs['MotifRegulonGeneWeights']['Abd-B_(+)-motif'][12094]) 
 
 print(ds.col_attrs['MotifRegulonsAUC'].dtype)
 print(ds.col_attrs['MotifRegulonsAUC'].shape)
@@ -179,35 +164,12 @@ tfauc = [x for x,y in ds.col_attrs['MotifRegulonsAUC'].dtype.fields.items()]
 print(len(tfauc)) #314
 MotifRegulontfauc = np.transpose(np.nonzero(ds.col_attrs['MotifRegulonsAUC']['Abd-B_(+)-motif']))
 print(ds.col_attrs['MotifRegulonsAUC']['Abd-B_(+)-motif'][0])
-#6517개가 반복된다..
+#6517
 print(len(MotifRegulontfauc))
 print(len(ds.col_attrs['MotifRegulonsAUC']['Abd-B_(+)-motif']))
 print(len(ds.col_attrs['MotifRegulonsAUC']))
 #6527
 
-
-'''
-for regrow in motifregeulons:
-    print(regrow[0])
-
-    for generow in motifregeulons:
-        print(generow[0])  # gene matrix
-        print(ds.row_attrs['MotifRegulonGeneOccurrences']['Abd-B_(+)-motif'][generow[0]])
-        print(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif'][generow[0]])  # matrix를 가져온다..
-        print(ds.row_attrs['MotifRegulonGeneWeights']['Abd-B_(+)-motif'][generow[0]])  # matrix를 가져온다..
-
-'''
-
-#MotifRegulonGeneOccurrences
-#MotifRegulonGeneWeights
-#MotifRegulons
-'''
-for i in np.transpose(np.nonzero(ds.row_attrs['MotifRegulons']['Abd-B_(+)-motif'])):
-    print(i[0])
-    print(gene[i[0]].decode('utf8'))  #genename->
-'''
-
-#314개..
 
 #adata =anndata.AnnData(anndataX.T,obs=ds.col_attrs , var = ds.row_attr)
 
