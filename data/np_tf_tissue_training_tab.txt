@@ -1,0 +1,416 @@
+rgenename	tgenename
+AstA	bru3	CG16779	CG44247	dimm	hth	Lim3	Rx	Tet	TfAP-2	Vsx1	Vsx2
+AstC	CG16779	CG44247	dimm	E2f1	Mnt	Rfx	Six4	sr
+CCHa1	CG44247	Drgx	hth	Lim3	Ptx1	sr
+CCHa2	bab1	CG16779	CG32532	croc	crp	luna	Mef2	onecut	sr	Tet
+CNMa	CG44247	cyc	dimm	Myc	Rfx	srp	sug
+Capa	ftz-f1	scrt	SREBP
+Crz	dimm
+Dh31	Cf2	CG16779	CG44247	CrebB	crp	CycT	E2f1	fkh	Hr3	Hsf	hth	Mef2	Mnt	onecut	Psi	Ptx1	Rfx	sr	Tet	Trf2	trx	Usf
+Dh44	Argk	bru3	BtbVII	CG16779	CG44247	crol	crp	CycT	dimm	E2f1	hth	Kr	Lim1	Mef2	nej	onecut	otp	Psi	Rbp6	Rfx	sd	sr	svp	Tet	Trf2	trx	unc-4
+Dsk	E2f1	hth
+FMRFa	CG44247	nub	Scr	sr
+Gpb5	sqz
+Hug	bru3	hth	opa	otp	Ptx1
+Ilp2	Blimp-1
+Ilp6	Atf3	cnc	Hnf4	kay	Rel	repo	sima	slp1	srp	svp	Xbp1
+Ilp7	bsh	CG16779	Psi
+Lst	cnc	srp	Xbp1
+Mip	bru3	cg	CG16779	dimm	onecut	Ptx1	sr
+Ms	CG44247	dimm	Ptx1
+NPF	dimm	Ets96B	Rfx	Rx
+Nplp1	bigmax	bru3	BtbVII	CG16779	CG44247	crc	crp	D	dimm	E2f1	HLH4C	Mef2	onecut	Rbp6	sr	svp	Tet	Trf2
+Proc	bru3	bs	BtbVII	Cf2	CG16779	CG44247	CG7368	CG9609	crc	CrebB	crol	E2f1	gt	hth	Kr	Max	Mef2	Mondo	onecut	Psi	Rbp6	REPTOR-BP	Rfx	Scr	sr	Tet	Trf2	trx	Usf	usp
+Ptth	crc
+SIFa	CG32532
+Tk	acj6	aop	bru3	BtbVII	C15	Cf2	CG16779	CG32532	CG44247	crp	fkh	FoxK	HLH4C	Hr3	Hsf	hth	Kdm4B	Mef2	Oli	onecut	Ptx1	Rbp6	rump	sd	sima	sr	toy	trx
+Trissin	dimm
+natalisin	dimm
+sNPF	Atac3	BtbVII	Cf2	CG16779	CG44247	Clk	CrebB	crp	cyc	dimm	E2f1	ey	fkh	Hr38	hth	Kdm4B	Lim3	luna	Mef2	onecut	pb	Psi	Rbp6	Rfx	sima	Six4	slou	Sox21a	sr	svp	Tet	toy	Trf2
+Acp26Aa	Atf6	crc	cwo
+Akh	dimm
+AstA	CG16779	CG44247	dimm	hbn	Lim3	onecut
+AstC	dimm	exex	Lmx1a	Ptx1
+Burs	Hr78	Mef2
+CCAP	opa
+CCHa1	CG44247	dimm	EcR	grh	Hr39	Lim3	otp
+CCHa2	Atf3	Cf2	CHES-1-like	cnc	crc	Dif	dimm	foxo	hbn	Hnf4	Hr78	Hsf	Mitf	Mondo	Myc	srp	svp	Trf2	Xbp1
+CNMa	Atf3	BtbVII	CHES-1-like	ci	cnc	crc	CrebA	CrebB	cwo	CycT	Dif	E2f1	Eip74EF	foxo	Hnf4	hth	Mef2	Mitf	Mondo	Myc	Rel	REPTOR-BP	SREBP	srp	svp	Trf2	Xbp1
+Crz	sv
+Dh31	acj6	CG12605	CG16779	CG44247	dimm	kn	Lim3	onecut	pdm3	sr	tup
+Dh44	Atf6	CG16779	CG4328	jim	Lim3	onecut	otp	Psi	sr
+ETH	dimm
+FMRFa	CG12605	onecut	otp	sr
+Gpb5	Atf6
+Hug	CG16779	EcR	onecut	Rfx	Trf2
+Ilp2	pdm3
+Ilp4	oc
+Ilp6	Cf2	CHES-1-like	cnc	crc	CrebB	foxo	ftz-f1	Hnf4	kay	Myc	Rel	srp	svp	Trf2
+Ilp8	cg	CrebB	kay	REPTOR-BP
+Lk	dimm
+Lst	Cf2	cnc	CrebB	cwo	foxo	Hnf4	Max	Mondo	REPTOR-BP	SREBP	srp	svp	Trf2	trx
+Ms	Atf6	crc	CrebA
+NPF	dimm
+Nplp1	Atf6	CG16779	CG44247	dimm	EcR	kn	slp1	sr
+Proc	Abl	Atf6	bi	BtbVII	CG16779	CG44247	CHES-1-like	crc	E2f1	Ets65A	ewg	ftz-f1	Hr38	jim	Lim3	Mnt	NfI	onecut	pdm3	pho	Psi	sr	sv	Trf2
+Ptth	cnc	Dif	Dp	Rel	Xbp1
+Tk	dimm	ind
+natalisin	Atf3	cnc	crc	CrebB	E2f1	foxo	GATAe	ham	Hnf4	kay	Mitf	pnt	Sox14	SREBP	vri	Xbp1
+sNPF	acj6	Atf6	CG16779	CG44247	dimm	EcR	Ets65A	ftz-f1	HGTX	Hr39	hth	kn	Lim3	onecut	otp	pb	pdm3	sr	sv	wor	zld
+AstA	dysf	E5	Jra
+CCAP	lz	sv
+CCHa1	Atf3	cnc	Drgx	dve	ems	kay	pnt	repo	shn
+CCHa2	E2f1	foxo	H15	Hnf4	hth	mid	Mitf	scrt	Sox14
+Crz	grh
+Dh31	Atf6	bru3	CHES-1-like	FoxP	Lim3	NFAT	onecut	Rfx	Trf2
+Dh44	bru3	CHES-1-like	Dll	E2f1	Ets98B	FoxK	hth	Myc	onecut	ovo	Rbp6	Rfx	Trf2	trx	Ubc4
+Gpb5	CG44247	run
+Hug	bru3	CG9609	EcR	foxo	Hr3	hth	Kdm4B	Mef2	Mondo	Myc	nej	onecut	otp	peb	Rfx	ro
+Ilp6	bs	kay	Mitf	repo	slp1	sr	svp
+Ilp7	FoxP	Lim3	Rfx
+Ilp8	grh	NFAT
+Lst	Atf3	sug	vvl
+Ms	crc
+NPF	Doc3
+Nplp1	bru3	CG16779	CG44247	Lim3	Mef2	onecut	Rbp6	Rfx	toy	trx
+Proc	Abl	Atf6	bru3	BtbVII	CG14667	Dif	E2f1	Fer1	jim	Max	nej	onecut	peb	pnt	Rbp6	Rfx	run	Rx	sr	Trf2	vri
+RYa	H15
+Tk	HDAC1	Poxm	Rfx
+natalisin	cnc	dysf	foxo	grh	Hnf4	Mitf	NFAT	pnt	Rfx	scrt	sv
+sNPF	aop	bbx	CG44247	CHES-1-like	crc	CrebB	Eip74EF	Fer1	fkh	Hr3	Hr38	Kdm4B	klu	Max	Mef2	Mondo	Myc	onecut	peb	pnt	Rbp6	Rfx	sr	Stat92E	Trf2	trx	Xbp1
+Acp26Aa	CG6638
+Akh	CG5245
+AstA	Hr78	lbl	nonA-l	Oli	onecut	pho	RunxA	Vsx1
+AstC	Rbf2
+CCHa1	grh	otp
+CCHa2	bigmax	CG16779	CHES-1-like	CrebA	foxo	Hr78	Mef2	Mondo	Pdp1	Rel	sd	sr	SREBP	srp	Trf2
+CNMa	abd-A	Fer1	otp	sim	srp	Sry-delta
+Crz	grh
+Dh31	bbx	E2f1	ey	FoxK	FoxP	oc	Tbp
+Dh44	Dp	Lim3	Max	onecut	Ptx1	Rbf2	Vsx1
+ETH	foxo	grh	Mef2
+FMRFa	acj6	CG3065	mor	Vsx1
+Ilp4	CG2116	D	zld
+Ilp5	CG2116	gt
+Ilp6	bs	Cf2	CG16779	CG7101	CHES-1-like	CrebB	E2f2	foxo	jim	Kdm4B	Mef2	Mondo	Pdp1	Rel	SREBP	srp	svp	Trf2	Xbp1
+Ilp8	EcR	GATAd	kay	mid
+Lst	CHES-1-like	CrebB	foxo	grh	Mef2	Pdp1	sd	srp	Trf2
+Ms	Atf6	Nf-YB
+Nplp1	sr
+Proc	B-H1	cg	CG16779	D	E5	jim	NfI	Rfx
+Ptth	Rbf2
+Tk	bon	RunxA
+natalisin	CHES-1-like	CrebB	E5	Hr4	jim
+sNPF	CG16779	Ets21C	Lim1	onecut	pdm3	sr	toy
+Acp26Aa	da	Ets96B	hng1	Jra
+Akh	BtbVII	Cf2	CG3065	crc	CrebB	da	Dif	E2f2	Hsf	pho	Rel	slou	Trf2	Zif
+AstA	ato	Dbx	dimm	eve	GATAe	gcm2	kay	slbo	slou	vri
+AstC	bs	CG5245	crc	dimm	ftz-f1	hbn	kay	Scr	slbo	slou	vnd	vri
+CCAP	BtbVII	CG5245	E2f2	Jra	slou	trx	Xbp1	Zif
+CCHa1	Doc3	grh	gsb-n	Hsf	Jra	ken	Vsx1
+CCHa2	Atf3	bigmax	Cf2	CHES-1-like	ci	Cnot4	cwo	da	Dif	Dp	foxo	Hsf	Mef2	Mondo	Myc	pnr	Rel	REPTOR-BP	sr	srp	Tet	Trf2	vri	Xbp1
+CNMa	Atf3	BEAF-32	bigmax	BtbVII	Cf2	ci	crc	CrebA	cwo	cyc	Dif	Dp	EcR	foxo	Hsf	hth	jim	Jra	maf-S	Mef2	Mondo	Myc	NFAT	pita	pnr	REPTOR-BP	SREBP	srp	sug	Trf2	vri	Xbp1
+Crz	grh	Hsf
+Dh31	BEAF-32	bs	BtbVII	cg	CG17829	CG4730	crc	Dp	Gsc	Hsf	Jra	maf-S	Max	slou	Trf2
+Dh44	Atf3	BEAF-32	BtbVII	Cf2	Cnot4	crc	CrebA	CrebB	Dif	ftz-f1	Hsf	Jra	kay	Mef2	pho	phol	Pph13	Rel	Rfx	slou	SREBP	srp	svp	tgo	Trf2	trx	vri	Xbp1
+FMRFa	cg	CG17802	CG4730	Dp	Gsc	Hsf	Jra	Kah	kay	pita	Rfx	Trf2
+Gpb5	CrebB	REPTOR-BP	Xbp1
+Hug	crc	eve	FoxP	Hr3	Jra	kay	Lmx1a	maf-S	Max	pdm2
+Ilp5	Jra	slou	vri
+Ilp6	Atf3	BtbVII	Cf2	CG16779	CHES-1-like	Cnot4	crc	Dif	foxo	Hnf4	jim	Mef2	Mondo	Myc	SREBP	srp	svp	Trf2	vri	Xbp1
+Ilp7	Abl	bin	kay	Pph13	slou	Trf2
+Ilp8	E2f2	Hsf	Jra	NFAT
+Lk	Myc
+Lst	Cf2	CHES-1-like	Cnot4	CrebA	CrebB	foxo	kay	Mef2	srp	Stat92E	Tet	trx	vri	Xbp1
+Mip	al	BEAF-32	cg	E2f2	ey	fd59A	Gsc	hbn	HDAC1	Kah	Oli	pho	Rfx	Trf2	Zif
+Ms	pdm2
+NPF	Antp	exex	onecut	Sry-delta
+Nplp1	Atf6	Cf2	CG44247	CrebB	Dif	Mef2	Tet	Trf2	trx	Xbp1
+Pdf	Trf2	Zif
+Proc	Abl	CG5245	crc	Dll	esg	ftz-f1	hbn	Jra	kay	ken	maf-S	Med	Myc	slbo	slou	Trf2	trx	vri	Vsx1
+Ptth	Rbf
+Tk	al	CG4730	FoxP	ftz-f1	kay	pdm2	slou	vri
+natalisin	Atf3	Cf2	CrebA	da	Dll	Dref	Drgx	E2f2	foxo	FoxP	Gsc	hng1	Hsf	jim	Mef2	Mondo	Myc	pho	Trf2	Vsx1	Xbp1	Zif
+sNPF	Dref	Myc
+Acp26Aa	CG3065	CG3847	E2f2	FoxK	ham	lms	Myc	pdm3
+Akh	Atf3	BtbVII	Cf2	Cnot4	CrebB	Dp	esg	fkh	kay	Myc	otp	Rel	Sox14	Tet	Trf2
+AstA	bi	CG44247	dimm	ey	hbn	ind	onecut	run
+AstC	Abd-B	dimm	FoxP	hbn	ind	onecut	pnr	sim	tap	vvl
+Burs	CG34367	Rel
+CCAP	Atf3	br	BtbVII	Cf2	cnc	CrebB	Dif	E2f1	ERR	GATAd	Hr51	kay	Mef2	phol	Rel	Sox14	trx	Xbp1
+CCHa1	dimm	hbn	ind	Taf7
+CCHa2	dimm	her	ind	onecut
+CNMa	Atf3	bigmax	cad	Cf2	Clk	cnc	CrebB	cwo	Dp	E2f1	ERR	foxo	FoxP	GATAd	GATAe	Hnf4	Hsf	Jra	kay	maf-S	Mef2	Mitf	Optix	pdm3	Pdp1	Sox14	trx	Usf	Xbp1
+Crz	lov	svp
+Dh31	Atf3	Atf6	bbx	BtbVII	Cf2	CHES-1-like	Clk	cnc	Cnot4	CrebA	CrebB	cwo	cyc	dimm	Dp	E2f1	exex	foxo	GATAe	HDAC1	HLH54F	Hnf4	hng1	Hr39	Hr78	Hsf	kay	Mitf	Myc	pb	pdm3	Pdp1	pnt	Rel	sd	Sox14	Trf2	trx	Usf	Xbp1
+Dh44	Atf3	Atf6	BtbVII	Cf2	CHES-1-like	cnc	Cnot4	CrebA	CrebB	cwo	Dif	E2f1	ERR	foxo	Hnf4	Hr78	Hsf	Jra	kay	Mef2	Rel	SREBP	Trf2	trx	tup	Usf	vri	Xbp1
+ETH	Ptx1
+Gpb5	ERR	GATAe	peng
+Ilp6	Atf3	BtbVII	Cf2	CHES-1-like	cnc	Cnot4	CrebB	Dp	ERR	foxo	GATAd	GATAe	Hnf4	Hr78	Hsf	Jra	kay	Mef2	Myc	Pdp1	Ptx1	Rel	Sox100B	svp	Trf2	Trl	usp	Xbp1
+Ilp7	Tbp
+Ilp8	grh	svp
+Lst	BtbVII	Cf2	cnc	Cnot4	CrebB	cwo	cyc	Dp	foxo	Hsf	Mef2	Myc	Pdp1	Ptx1	Rel	svp	Tet	Trf2
+Ms	Cf2	CG5846	E2f2	Max	Myc
+NPF	HLH54F	odd
+Nplp1	Cf2	crp	Doc2	Hr51	Mef2	Sox14	Trf2	trx
+Pdf	Hsf	Jra	kay
+Tk	ara	CrebA	cyc	dimm	Dref	Ets96B	Ets97D	Hr78	ind	Lim3	ro	Vsx2
+natalisin	Atf3	Cf2	cnc	CrebB	Dp	dsx	ERR	exd	foxo	GATAe	Hnf4	Hsf	kay	luna	maf-S	Mef2	Myc	Pdp1	Ptx1	Pur-alpha	Sox14	Xbp1
+sNPF	Cf2	CG44247	CHES-1-like	CrebA	cwo	dimm	E2f1	foxo	gsb-n	ham	hbn	Myc	onecut	Poxn	Trf2	twi
+Akh	esg
+AstA	Lim1	otp
+AstC	abd-A	BtbVII	pdm3
+CCHa1	al	grh	Rel
+CCHa2	Cf2	CG5245	CG8319	CHES-1-like	Chrac-14	ERR	foxo	grn	hng1	klu	Max	Mef2	Mondo	Nf-YA	Optix	Pdp1	scrt	srp	svp	usp	vri	Xbp1
+Crz	E5	pdm3	twin
+Dh31	CHES-1-like	CycT	da	ftz-f1	gl	mor	oc	onecut	SMC3
+Dh44	CG7386	cyc	Jra	orb	Usf
+ETH	ERR	srp
+Hug	achi	CG3407	CycT	Dp	Met	peb	Rfx	tra2	Xbp1
+Ilp6	Abl	Atf3	Cf2	CHES-1-like	cwo	CycT	foxo	grn	Hnf4	Hr78	jim	Jra	Kdm4B	Mondo	Pdp1	Rel	rump	Sox100B	srp	svp	Trf2	usp	vri
+Ilp8	CG17829	CrebB	hng1	Jra	mor	repo	REPTOR-BP	Taf1
+Lst	Atf3	CHES-1-like	CycT	grn	kay	Mondo	ovo	Pdp1	REPTOR-BP	scrt	srp	svp	trx	unc-4	Xbp1
+Nplp1	exd	GATAe	maf-S	mid
+Proc	Abl	aop	Atf6	bbx	BEAF-32	bru3	CG11294	Cnot4	CrebA	Dif	Dp	ERR	ftz-f1	gt	jim	Mef2	Mnt	nej	peb	Psi	REPTOR-BP	Rfx	Trf	Trf2
+Ptth	E2f1	RpII215	Tbp	Xbp1
+Tk	da	exex	kn
+natalisin	Atf3	cg	ems	Hnf4	hng1	kay	sd	Sox15
+sNPF	Abd-B	CG12605	CG8319	ey	Scr	scro	Taf1	Trf
+Akh	Atf3	Cf2	cg	CHES-1-like	Cnot4	crc	Dif	E2f1	E2f2	foxo	FoxP	Hr39	Jra	kay	Mef2	Rel	RpII215	sug	Trf2	trx
+AstA	Atf3	Atf6	Cnot4	CrebB	dve	E2f1	GATAd	Myc	SREBP	TfIIB
+CCAP	CHES-1-like	Drgx	ftz-f1	GATAd	net	Rel	repo	trx
+CCHa1	abd-A	Abd-B	Dll	grh	ovo	Sox15	ss
+CCHa2	Atf3	BEAF-32	cbt	Cf2	CG17829	CG9609	CHES-1-like	Cnot4	crc	crp	CycT	da	Dp	Ets98B	exd	Jra	Mef2	Mitf	Mondo	Myc	Pdp1	peng	Rel	salm	srp	Stat92E	sug	sv	Trf2	vri	Xbp1
+CNMa	Cf2	CHES-1-like	crc	crp	Dif	Dp	E2f1	ftz-f1	GATAd	hth	maf-S	Mef2	Mitf	Mondo	Myc	nej	Pdp1	Rel	SREBP	srp	sug	trx
+Dh31	Atf3	Atf6	BtbVII	Cf2	cg	CHES-1-like	Cnot4	crc	CrebB	CycT	da	E2f1	Ets21C	Hnf4	kay	Myc	Pdp1	retn	SREBP	svp	Trf2	trx	vri	Vsx2	Xbp1
+Dh44	Atf3	br	bs	cg	CG9650	crc	CrebA	CrebB	Doc1	Doc2	emc	GATAe	Gsc	HHEX	Hr39	kay	OdsH	vri	Xbp1
+ETH	Atf3	crc	CrebB	ftz-f1	GATAd	Jra	kay	Rel	srp
+Gpb5	Jra	Xbp1
+Hug	E2f2
+Ilp5	bs	cg	CG9609	CrebA	CrebB	GATAe	kay
+Ilp6	br	cbt	Cf2	CHES-1-like	GATAd	Hr39	kay	Mef2	Mitf	Pdp1	Rel	rump	srp	svp
+Ilp7	Dll	Drgx	tj
+Ilp8	Atf-2	Atf3	cbt	cg	CG17829	CG9609	CHES-1-like	crc	CrebB	Dp	E2f1	E2f2	gt	Jra	kay	lbe	Pdp1	Rfx	RpII215	vri	Xbp1
+Lst	Cf2	CHES-1-like	crc	CrebB	Jra	kay	Mef2	Myc	Pdp1	srp	sug	trx
+Ms	aop	Atf-2	Atf3	crc	CrebB	kay	Med	Myc	vri	Xbp1
+NPF	drm	Hr38
+Nplp1	aop	Atf-2	cbt	CG44247	Dif	Nf-YA	Pdp1	RpII215	srp	Stat92E	sug	Taf1	trx	usp
+Pdf	bs	Jra	RpII215	Trf2
+Proc	ash2	Atf3	Atf6	BEAF-32	bs	Cf2	CG17829	CHES-1-like	Cnot4	crc	CrebA	CrebB	crp	da	Dif	Dp	E2f1	emc	foxo	ftz-f1	GATAd	GATAe	Hr39	Jra	kay	Mef2	Mnt	Myc	Pdp1	Rel	run	Sin3A	sug	Trf2	trx	vri	Xbp1
+Ptth	Cf2	Dif	Mef2	Rel
+Tk	crp	CTCF	Dif	Ets21C	Jra	kay	Nf-YA	Rel	svp	trx
+natalisin	Atf3	Awh	bs	CG9650	crc	CrebA	CrebB	crp	Dp	E2f1	FoxK	foxo	ftz-f1	GATAd	GATAe	Hnf4	Hr38	Iswi	Jra	kay	Myc	NfI	Pdp1	Rel	Sox14	sr	srp	sug	usp
+sNPF	cg	Cnot4	crc	CrebB	crp	da	E2f1	Hnf4	kay	Lim3	mirr	Nf-YA	nub	peng	Rbf	ro	RpII215	Sin3A	ttk	vri	Xbp1
+Acp26Aa	al	grh
+Akh	dysf	lms
+AstA	inv
+CCAP	sr
+CCHa1	Atf3	crp	da	jim	Max	pb	sr	Xrp1
+CCHa2	CrebA	cwo	foxo	Hnf4	hth	Mitf	Mondo	srp	sug	svp
+Dh31	en	lmd	pb	Pur-alpha
+Dh44	Atf6	CG34031	Lim1	Rbp6	Rfx	Rx
+Gpb5	Atf6	Rfx
+Hug	CG3065	ftz-f1	onecut	peb	Rfx	Sidpn
+Ilp6	Atf3	kay	Mef2	Rbp6	repo	slp1	slp2	svp	Xbp1
+Ilp7	HGTX	Rx
+Ilp8	mid	svp
+Lst	Atf3	crc	dysf	Hnf4	Nf-YB	pb	srp	trx
+NPF	grh
+Nplp1	da	onecut	Poxn	scro	Xbp1
+Proc	Abl	CG7368	cnc	CrebB	Dif	Dp	E2f1	exd	fkh	ftz-f1	onecut	peb	pho	Rbp6	Rx	so	ss	vnd
+natalisin	cnc	CrebA	cwo	Dll	dysf	foxo	grh	Hnf4	Hr38	Jra	Mondo	Rel
+sNPF	Atac3	FoxP	kn	onecut	peb	svp
+Acp26Aa	Abd-B	Clk	cnc	disco	drm	dsx	E2f1	EcR	Eip75B	lbl	maf-S	NFAT	retn	unc-4	vvl	Xbp1
+Akh	Atf3	Atf6	Cf2	E2f1	Hnf4
+AstA	Abd-B	Abl	Atf3	Atf6	Cf2	CrebA	Dbx	Ets98B	Hr78	lbe	lbl	Mitf	run	svp	Usf	Vsx1
+CCHa1	Atf3	cnc	crp	D	grh	Hnf4	Hsf	kay	Mef2	ovo	Pdp1	Rel	vri
+CCHa2	Cf2	CHES-1-like	Clk	crp	foxo	Hnf4	Jra	Mondo	Pdp1	Rel	Sox14	SREBP	srp	sug	TFAM	Trf2
+CNMa	cwo	hth	Mondo	Rel	Sox102F	sug
+Dh44	Ets21C
+Gpb5	Hnf4	svp
+Ilp4	svp
+Ilp6	BtbVII	Cf2	CHES-1-like	Clk	crp	CTCF	foxo	Hnf4	Hsf	jim	Jra	kay	Mef2	Mondo	Pdp1	Rel	srp	Trf2
+Ilp8	aop	Atf3	Cf2	crc	E2f1	EcR	Hsf	Mondo	Pdp1	REPTOR-BP	rump	vri
+Lst	Atf3	Cf2	cnc	crp	Drgx	foxo	grh	Hnf4	Jra	kay	Mef2	Mitf	Mondo	Pdp1	REPTOR-BP	Sox14	srp	svp	TFAM	Trf2	trx	vri	Xbp1
+Ms	Atf3	Cnx99A	crc	CrebB	da	prd	REPTOR-BP	vri	Xbp1
+Nplp1	Atf3	Cf2	cnc	CrebB	crp	foxo	grh	Hnf4	Oli	ovo	Sox14	svp	Trf2
+Proc	Cnot4	Dbx	hng1
+Ptth	cad	kay
+Tk	Hr4
+natalisin	Abd-B	Atf3	Cf2	Clk	crp	E2f1	EcR	Eip74EF	foxo	grh	gsb	Hnf4	Hr78	kay	lbl	Mef2	OdsH	pho	sob	SREBP	svp	Trf2
+sNPF	Atf6	Cf2	crc	E2f1	EcR	Eip74EF	foxo	gsb	gsb-n	Hnf4	Hr78	Mondo	prd	Psi	Trf2	trx	tx	unc-4
+Akh	Atf3	CrebB	Dp	E2f1	ERR	fkh	foxo	GATAe	Jra	kay	Mef2	Rel	SREBP	Tet	Trf2
+AstA	CG44247
+AstC	nau	ro
+Burs	bs	Rfx
+CCAP	Doc3	H15	Tbp	toy
+CCHa2	Dif	Ets97D	Myc	Nf-YB	srp	sv	Tbp	tj	Ubx	unc-4	Zif
+CNMa	Atf3	Dif	Dr	Myc	net	oc	Rel	SREBP	srp	svp	tj	Ubx
+Dh31	Atf3	cnc	CrebB	Dif	fkh	GATAd	kay	pnr	sd
+Dh44	Atf6	bin	bsh	BtbVII	Cf2	cg	cnc	CrebA	CrebB	Dp	fkh	kay	Mondo	pho	sd	Sox14	SREBP	tgo	Topors	vtd	Xbp1
+ETH	gcm
+Gpb5	Dp	ERR	Hnf4	kay	sqz	Xbp1
+Hug	bsh	CG9609	CrebB	Hr51	Hr78	Jra	Max	Myc	slou	srp	tgo	toy	Trf2
+Ilp4	CHES-1-like	CrebA	Dif	foxo	GATAe	kay
+Ilp5	cg	cnc	CrebA	CrebB	Doc3	E2f1	ey	GATAd	GATAe	Hnf4	Pdp1	Rel	srp	Xbp1
+Ilp6	Atf3	BtbVII	Cf2	CHES-1-like	Cnot4	CrebA	CrebB	crp	Dp	fkh	FoxK	foxo	GATAd	GATAe	grh	Hnf4	jim	Jra	kay	Mef2	Myc	Rfx	srp	Trf2	Xbp1
+Ilp7	slou
+Lk	Hr3
+Lst	Ets98B	Myc	Rel	srp	sv	svp	Ubx
+Ms	Asciz	CTCF
+NPF	lab
+Nplp1	CTCF	slou	Stat92E
+Pdf	Xbp1
+Proc	Antp	Kr	Myc	Ubx
+Ptth	Cf2	Dp	kay	Mef2	run	Xbp1
+natalisin	Atf3	Cf2	CrebA	CrebB	Dp	E2f1	E2f2	ERR	FoxK	GATAd	GATAe	gcm2	Hnf4	Hsf	jim	kay	Myc	Pdp1	sqz	srp	Stat92E	Tob	Xbp1
+sNPF	Kr	ovo
+Acp26Aa	crc	ham	Hr78	lms
+Akh	Atf3	Atf6	BtbVII	Cf2	Dif	Mef2	Myc	srp	Trf2	Xbp1
+AstA	Atf3	Atf6	dimm	hbn	Trf2	Xbp1
+AstC	dimm	GATAe	hbn	pita
+Burs	Lim3
+CCAP	achi	CG3065	ftz	repo	slp2
+CCHa1	ara	dimm	ftz	grh	hbn	oc
+CCHa2	Cf2	CrebA	exd	foxo	klu	Mitf	Mondo	salm	srp	unc-4	Xbp1
+CNMa	Atf3	Atf6	bigmax	BtbVII	Cf2	CHES-1-like	ci	crc	CTCF	CycT	Dif	Dp	EcR	GATAd	jim	Jra	Kdm4B	Mef2	Mitf	Mondo	Myc	Rel	srp	sug	tj	Trf2	trx
+Crz	grh	run
+Dh44	abd-A	kay	Lim1	Lim3	Poxm	vnd
+Dsk	achi	CrebB
+FMRFa	kay
+Gpb5	Hnf4
+Ilp6	Cf2	CHES-1-like	ci	Cnot4	CycT	grh	Jra	klu	Mef2	Mondo	Myc	Rel	srp	svp
+Ilp8	cg	CG17829
+Lk	bs	crc	Dif	Mef2	Rel	srp
+Lst	BtbVII	Cf2	CHES-1-like	crc	CrebA	E2f1	srp	trx
+Ms	Hr78	Hsf
+NPF	byn	E5	otp
+Nplp1	CG16779	phol
+Proc	CG16779	Eip78C	NfI	repo	Rx
+Ptth	CrebB	D	Jra
+Trissin	hng1
+natalisin	Atf3	bs	crc	CrebA	CrebB	crp	da	E2f1	EcR	ERR	ftz-f1	Hr39	Hsf	Mef2	Xbp1	zfh2
+sNPF	Atf6	BtbVII	Cf2	CHES-1-like	ci	Cnot4	crc	CrebB	crp	Dif	Dp	E2f1	fd102C	foxo	GATAd	Hr78	Jra	klu	Mef2	Mitf	Mondo	Myc	pita	pnt	Rel	REPTOR-BP	salm	srp	sug	tin	Trf2	trx	vnd
+Acp26Aa	CG42741
+AstA	Abl	Atf3	Atf6	cnc	CrebB	sd	Trf2
+CCHa1	CG11294	CG34367	Ubx
+CCHa2	Abd-B	Atf3	Lim1	Sox21b	Xbp1
+CNMa	cnc	kay	Mad	Mef2	MTF-1	sima
+Dh31	Cnx99A	ovo	Trf2	trx	Xbp1
+ETH	cnc	Dp	ovo	Rbf	Trf2
+Hug	sd	zfh2
+Ilp6	Abl	CHES-1-like	cnc	Cnot4	Cnx99A	CrebA	Eip75B	foxo	jim	kay	Mef2	Myc	Trf2	Xbp1
+Ilp7	Cf2	Cnot4	FoxK	foxo	Trf2
+Ilp8	Atf3	cnc	CrebA	CrebB	Hr4	kay	Pdp1	Rel	REPTOR-BP	sd	tj	vri
+Lst	CrebB	Dp	Ubx
+Nplp1	CrebB	sob	Trf2	vri
+Ptth	Tbp
+SIFa	CG42741
+Tk	Atf3	bbx	cnc	kay	REPTOR-BP	Sox14	srp
+natalisin	Atf3	Cf2	cnc	CrebB	DNApol-iota	Dp	foxo	kay	Mef2	Rel	REPTOR-BP	Sox14	Trf2	vri	Xbp1
+Akh	dimm
+AstA	Atf-2	bru3	Lim3	TfAP-2
+AstC	CG16779	CG9650	dimm	onecut	RunxB	sr	unc-4
+CCAP	H15
+CCHa1	Atf3	cnc	crc	CrebB	crp	CycT	Dif	grh	Hnf4	kay	Mef2	nej	pb	Pdp1	Rel	unpg	Xbp1
+CCHa2	Atf3	bab1	Cf2	CG17802	CHES-1-like	CrebA	CrebB	crp	cwo	CycT	da	FoxK	foxo	Hnf4	kn	Mef2	Mitf	Mondo	Myc	Sox102F	SREBP	srp	svp	TFAM	Trf2	Xbp1
+CNMa	E2f1	fkh	grn	Hr3	Hsf	ind	Kr	mio	Mitf	Mondo	nej	Sox14	srp	sug	Vsx2
+Crz	REPTOR-BP
+Dh31	Atf6	C15	CG16779	exex	Hr3	kn	Lim3	NfI	onecut	pad	sr	vtd
+Dh44	Atf6	bru3	cg	CG16779	da	E2f1	onecut	pdm2	pho	Rbp6	Rx	S2P	sr
+ETH	Xbp1
+FMRFa	Lim1	onecut	pho	Rx	Sox102F
+Gpb5	Abd-B	Rfx
+Hug	Atf6	bru3	byn	CG16779	CG17802	CG2116	E2f1	EcR	NK7.1	onecut	opa	otp	Ptx1	RunxB	Sidpn
+Ilp1	gl	toy
+Ilp2	sr
+Ilp4	SoxN
+Ilp6	cbt	Cf2	CHES-1-like	CrebA	crp	E2f1	FoxK	foxo	Hnf4	kay	Mef2	Mitf	Mondo	Myc	srp	svp
+Ilp7	bsh	CG16779	lms	Rfx	zfh2
+Ilp8	croc	fkh	H15
+Lk	ewg	Mondo
+Lst	Atf3	CHES-1-like	crc	CrebB	crp	Doc1	E2f1	foxo	Mef2	Myc	NK7.1	Pdp1	Sox14	srp	svp	TFAM	Trf2	trx	Xbp1
+Mip	Awh	bru3	caup	Ets65A	ewg	kn	onecut	ss	zfh2
+Ms	da
+NPF	Ets96B	Lim1	Rx
+Nplp1	Atf6	BtbVII	CG16779	cnc	crp	Ets98B	fkh	foxo	HLH3B	Mef2	onecut	ovo	pho	Rbp6	Rx	sr	Trf2
+Pdf	Rel
+Proc	Abl	Atf6	Blimp-1	bru3	bs	BtbVII	CG16779	CHES-1-like	Cnot4	CTCF	E2f1	hth	Kr	Mef2	nej	NfI	onecut	Rbp6	Rfx	rn	SoxN	ss	Trf2	vri	vtd
+Tk	bru3	bsh	BtbVII	byn	CG16779	Dbx	fkh	Hnf4	Mef2	NfI	Rbp6	scro	TfAP-2
+Trissin	Tbp	toy
+natalisin	Atf3	bowl	Cf2	CHES-1-like	crc	CrebA	CrebB	Dif	dysf	emc	foxo	grh	Hnf4	kay	Mef2	pb	Pdp1	Rel	Xbp1
+sNPF	aop	bs	BtbVII	cg	CG16779	CG17802	CG5245	CHES-1-like	cnc	CrebA	Dfd	dimm	Ets98B	ey	foxo	Hnf4	Hsf	inv	Mef2	NfI	onecut	pb	peb	pnt	Rbp6	REPTOR-BP	Rfx	slp1	slp2	sr	ss	Trf2	vri
+Acp26Aa	Xbp1
+Akh	Dp	Trf2
+AstA	Dp	Trf2	Xbp1
+CCAP	slp2
+CCHa1	org-1
+CCHa2	Rel	Xbp1
+CNMa	Cnx99A	REPTOR-BP
+Dh31	cnc	Trf2
+Dh44	CG11294	Trf2
+FMRFa	Trf2
+Hug	Cnx99A
+Ilp3	slp1	slp2
+Ilp6	bin	srp
+Ilp7	Abl
+Ilp8	Mef2
+Lst	Atf3	Mef2	Mondo	Xbp1
+Mip	Cnx99A	Trf2	Xbp1
+Pdf	Mef2	Trf2
+Tk	Mef2
+natalisin	Atf3	Dll	Hr78	kay	Sox14	srp	Xbp1
+sNPF	Rel	srp	Trf2
+Acp26Aa	lbl	sd	zen
+Akh	CG14667
+AstA	Lim3	NfI	onecut	Vsx1
+AstC	CG16779	SoxN
+CCAP	crc	oc
+CCHa1	abd-A	Atf3	Dif	Doc1	Doc2	grh	Hnf4
+CCHa2	Cf2	CHES-1-like	Dif	foxo	Pdp1	Sox14	SREBP	srp	svp
+CNMa	abd-A	sug	svp
+Capa	oc
+Dh31	acj6	CG16779	onecut	SoxN	sr
+Dh44	acj6	B-H2	CG16779	CG8319	croc	gt	onecut
+Dsk	Atf3
+ETH	CrebB	Dref	E2f1	E2f2	Rbf
+FMRFa	onecut	slou
+Hug	CG16779
+Ilp4	ro
+Ilp6	Abl	BtbVII	Cf2	CHES-1-like	crp	foxo	Hnf4	jim	Mef2	srp	svp	Trf2
+Ilp7	Abl	Cf2	CHES-1-like	crc	jim	Mef2
+Ilp8	CG42741	CrebB	Dp	grh	kay	mor	Myc	pnt	sd	srp
+Lst	Cf2	Pdp1	ro	srp	svp
+Mip	CG11294	CG16779	onecut	pb	sr
+Nplp1	CG16779	NfI	Six4	zfh1
+Proc	bs	CG16779	NfI	onecut	slou
+Ptth	Mef2	Mitf	Sox21b
+Tk	acj6	NfI
+natalisin	Atf3	Cf2	CHES-1-like	crc	CrebB	crp	Dp	E2f1	kay	Mef2	pnt	REPTOR-BP	Sox100B	Sox14	srp	vri
+sNPF	acj6	CG11294	Ets96B	ey	NfI	onecut	Optix	sr
+Acp26Aa	abd-A	Coop	lms	pnt	prd	srp
+Akh	Atf3	Cf2	CHES-1-like	crc	CrebB	grh	Hnf4	Jra	kay	mid	Rel	RpII215	Trf2	Xbp1
+AstA	E5	en	Optix
+CCAP	Atf3	cad	cg	CG11294	grh	grn	Jra	kay	Mef2	Pdp1	REPTOR-BP	sd	Sox14	trx
+CCHa1	CG9727	ci	cnc	Dr	eve	grh	Hnf4	kay	Mef2	Rel	RpII215	schlank	Sox14	ss	svp	vri	vtd
+CCHa2	CG9727	foxo	Hnf4	Mitf	Mondo	Sox14	SoxN	srp	svp	tj	Trf2	vtd
+Crz	Abl	Blimp-1	Eip74EF	grh	HLH54F	Hr78	kay	RpII215
+Dh31	BEAF-32	D	onecut	Rx
+Dh44	dar1	gt	Lim3	onecut	Trf2	tup
+Dsk	crp	kay	RpII215	Xbp1
+ETH	Atf3	grh	kay
+Gpb5	Atf3	E2f2	kay	Xbp1
+Hug	da	fkh	OdsH	onecut	peb	Sidpn	ss	svp
+Ilp2	en	kay	Lim3	RpII215	usp
+Ilp6	Atf3	Cf2	Mondo	repo	slp1	slp2	srp	svp	twi
+Ilp7	emc	fkh	jim	svp	Trf2
+Ilp8	Atf6	ci	CrebA	Eip74EF	grh	HGTX	kay	lbl	Myc	Rel	RpII215	sd	vri	Xbp1
+Lst	Cf2	CHES-1-like	crp	ERR	Hnf4	Mitf	Mondo	srp	svp	Trf2
+Ms	abd-A	Kah	pnt	prd	twi
+NPF	Atf3	bs	CG6769	crc	CrebA	CrebB	Dr	grh	kay	kni	Mef2	mid	Mondo	mor	Myc	NFAT	Rel	REPTOR-BP	Sox14	Xbp1
+Nplp1	crc	CrebB	Lim3	Mef2	onecut	Pdp1	sr	ss	Trf2	Xbp1
+Pdf	cad
+Proc	Abl	Atf3	BEAF-32	Blimp-1	bs	crc	CrebB	crp	E2f1	fkh	Hsf	jim	Jra	kay	Mef2	mor	onecut	peb	REPTOR-BP	Trf2	tup	Usf	usp	vnd	Xbp1
+Tk	BEAF-32	Dlip3	onecut	peb
+natalisin	Atf6	bs	Clk	cnc	CrebA	dysf	en	grh	Hnf4	Hr78	kay	Mad	Mef2	Mitf	Myc	NFAT	Pc	Rel	Trf2	vri	Xbp1
+sNPF	Atf6	cg	CG11294	CG44247	CHES-1-like	CrebB	crp	da	emc	grn	Lim1	Lim3	lmd	NfI	OdsH	onecut	Pdp1	peb	sr	Trf2
