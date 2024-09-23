@@ -1,0 +1,658 @@
+tname	rgenename	tgenename
+Head	AkhR	Atf3,CrebA,Hnf4,hth,Rel,sima,SREBP,srp,svp
+Head	AstA-R1	aop,bru3,bs,bsh,CG16779,CHES-1-like,Clk,crp,cwo,dsx,ey,FoxP,grn,hth,luna,Mef2,onecut,otp,pan,pros,Psi,Rbp6,Rx,sd,sima,sr,Tet,tj
+Head	AstA-R2	pan,slp1,Tet,tj,zfh2
+Head	AstC-R1	Argk,bru3,Eip74EF,Ets65A,FoxP,kay,oc,onecut,peb,Psi,Rbp6,Sox102F,SoxN,Vsx1
+Head	AstC-R2	achi,bru3,CG32532,CHES-1-like,crp,dimm,E2f1,Ets65A,hth,Kr,luna,onecut,pho,Psi,Rbp6,Rfx,slou,Tet,Trf2
+Head	CCAP-R	aop,Argk,bru3,bs,BtbVII,Cf2,CG16779,CG4328,CG44247,CHES-1-like,Clk,CrebB,crp,dimm,Dp,E2f1,Ets65A,FoxK,FoxP,HLH4C,Hr38,hth,Kdm4B,Lim1,luna,Mef2,nej,Oli,onecut,otp,pb,Rbp6,REPTOR-BP,Rfx,rn,Rx,sr,Tet,Trf2,trx,vtd,vvl
+Head	CCHa1-R	bru3,BtbVII,Cf2,CG16779,CG5946,CHES-1-like,crol,crp,CycT,dimm,FoxK,FoxP,hth,Kr,luna,Mef2,onecut,Ptx1,Rfx,Sox102F,sr,Tet,Trf2,trx,Usf
+Head	CCHa2-R	BtbVII,CG16779,crp,dimm,E2f1,FoxK,HLH4C,Hr38,otp,Ptx1,REPTOR-BP,sd,sr,unc-4
+Head	CCKLR-17D1	hth,onecut,sr,ss
+Head	CCKLR-17D3	bru3,CG16779,CG32532,CrebB,Max,Mef2,sr
+Head	CNMaR	bru3,CHES-1-like,Drgx,fkh,FoxP,Lim1,onecut,Psi,Ptx1,Rfx,Rx,Sox102F,Sox21b,SoxN,sr,toy
+Head	CapaR	bru3
+Head	CrzR	B-H2,bru3,cnc,Dif,Dll,E5,ems,grh,Hnf4,hth,klu,pb,Rel,Scr,Xbp1
+Head	Dh31-R	bru3,bs,BtbVII,CG16779,CG9727,cnc,CrebB,Dbx,Dp,E2f1,Eip74EF,ey,FoxP,Hr38,Hr78,hth,lbe,Mef2,onecut,pan,pb,Psi,Rfx,sd,sr,Tet,Trf2,Usf,Vsx2,vvl,Xbp1
+Head	Dh44-R1	Blimp-1,bru3,CG16779,CG44247,CHES-1-like,Clk,crol,crp,Dbx,Ets65A,FoxK,FoxP,hth,Kdm4B,Lim3,luna,Max,Mef2,nej,onecut,pb,Psi,Rbp6,RunxB,sima,sr,Trf2
+Head	Dh44-R2	bru3,CG16779,CG34367,CrebB,ey,Hnf4,Hsf,hth,Kdm4B,Mef2,pan,Psi,repo,sima,sr,svp,Tet,Trf2,trx
+Head	ETHR	Eip74EF,Ets65A,lz,Rbp6,sima,Sox102F
+Head	FMRFaR	bru3,CG44247,CHES-1-like,Clk,CycT,Dbx,FoxP,Hr38,hth,Kdm4B,Kr,pan,Psi,Rbp6,sima,sr
+Head	InR	aop,Atac3,Atf3,Blimp-1,bru3,BtbVII,CG16779,CHES-1-like,cnc,CrebA,crol,crp,cwo,dysf,E2f1,Eip74EF,Ets21C,grh,Hnf4,hth,kay,luna,Mef2,Mnt,nej,NFAT,pan,peb,pnt,Psi,Rbp6,Rel,sd,sima,SoxN,srp,Stat92E,svp,Tet,Trf2,trx
+Head	Lgr1	Atf3,cnc,Mef2,sr
+Head	Lgr3	br,bru3,Cf2,CG16779,CG44247,CHES-1-like,crp,ey,fkh,FoxK,FoxP,Hr39,onecut,pho,Psi,Ptx1,sd,sr,Tet,toy,unpg
+Head	Lgr4	bru3,Cf2,CG16779,CrebB,crp,dimm,Dp,fkh,Kdm4B,Lim1,Mef2,onecut,Psi,Rbp6,Rfx,RunxA,SoxN,sr,svp,Tet,toy,Trf2,trx,Usf
+Head	Lkr	BtbVII,crp,dve,FoxK,FoxP,hth,luna,onecut,Psi,sr,svp,Tet,trx,vvl
+Head	MsR1	CG16779,crol,crp,CycT,FoxK,Hr3,hth,Lim3,luna,onecut,Rbp6,Rfx,sima,slou,SoxN,sr,svp,Tet,trx,vvl
+Head	MsR2	bru3,CHES-1-like,CrebB,crp,fkh,FoxP,Kdm4B,Lim3,onecut,pan,Psi,Rbp6,Rfx,sima,sqz,sr,tj
+Head	NPFR	Clk,dimm,hth,Mef2,onecut,Psi,Rfx,sr,Stat92E,svp,Tet,TfAP-2
+Head	PK1-R	CrebA,grh,Rel,ss
+Head	PK2-R1	acj6,CG16779,CG44247,CHES-1-like,crp,da,E2f1,Mef2,REPTOR-BP,sr,Tet
+Head	PK2-R2	BtbVII,CG16779,CG44247,CHES-1-like,crp,E2f1,FoxK,Mef2,sr,Tet,toy,trx,vvl
+Head	Pdfr	bru3,BtbVII,CG16779,CG44247,CrebB,D,hth,Kdm4B,luna,Mef2,Mondo,onecut,pan,Rbp6,Rfx,sima,Sox21b,SoxN,Spps,sr,sv,svp,Trf2
+Head	Proc-R	CG12605,CG44247,ci,cwo,Drgx,EcR,FoxP,Hnf4,kay,onecut,opa,pnt,repo,scrt,sima,toy,vvl,zfh1,zfh2
+Head	RYa-R	Bgb,bru3,BtbVII,Cf2,CG16779,CG44247,crol,Dbx,dimm,E2f1,hth,luna,MTF-1,nej,onecut,pros,Psi,Rbp6,Rfx,RunxA,sr,svp,Trf2,vvl,yps
+Head	SIFaR	Argk,BEAF-32,bru3,BtbVII,Cf2,CG16779,CG44247,Clk,Dp,E2f1,Eip74EF,Ets65A,exd,fkh,FoxK,Hr3,hth,Kdm4B,luna,Mef2,nej,oc,onecut,Psi,Rbp6,rump,SoxN,sr,Tet,Trf2,trx,vri
+Head	SPR	Blimp-1,bru3,bs,CG16779,CG9609,E2f1,FoxK,FoxP,hth,jigr1,Kdm4B,Lim3,luna,Mef2,nej,onecut,pan,peb,Psi,Rbp6,REPTOR-BP,rump,RunxB,sima,SoxN,sr,Trf2,vri,vvl
+Head	TkR86C	crp,fkh,jigr1,luna,Mef2,Oli,onecut,pros,Psi,Rbp6,Rfx,Six4,sr,Trf2
+Head	TkR99D	CHES-1-like,Clk,crp,D,FoxP,onecut,pan,Psi,Sox102F,SoxN,svp,Trf2,trx
+Head	Tor	CG16779,crp,Dp,onecut,Tet,trx
+Head	TrissinR	acj6,crc,CrebB,da,Lim3,luna,Max,onecut,pho,Rfx,slou,sr,svp,Tet,trx
+Head	hec	acj6,BtbVII,CG16779,CG32532,crp,Mef2,Rfx,Rx
+Head	rk	bru3,bs,BtbVII,Cf2,CG16779,CG32532,CG44247,CHES-1-like,crp,Dbx,dimm,Dp,E2f1,Ets65A,ey,fkh,FoxP,hth,Kdm4B,Kr,Lim3,luna,Mef2,onecut,pb,pros,Psi,Rbp6,Rfx,sd,sima,Six4,SoxN,sr,Tet,Trf2,Vsx1,vvl
+Head	sNPF-R	acj6,Atac3,bigmax,bru3,Cf2,CG16779,CG44247,CG9727,cnc,CrebB,crp,hth,Kr,Lmx1a,luna,maf-S,Mef2,nej,onecut,Psi,Rbp6,Rfx,sima,sr,svp,Tet,Trf2,trx,usp,vvl,Xbp1
+Body	AkhR	Atf6,Cf2,ct,Dif,foxo,Hnf4,Hr39,Mitf,Mondo,Sox14,srp,svp,Trf2,trx
+Body	AstA-R1	Abl,acj6,Atf6,bs,CG16779,CHES-1-like,crc,E2f1,esg,ewg,ey,fkh,FoxK,ftz-f1,Hr39,jim,jumu,Lim3,lov,Myc,onecut,pho,Psi,Ptx1,Sox100B,ss,Trf2,trx,tup,vnd,zfh2
+Body	AstA-R2	abd-A,bin,Dif,Hand,Hr39,jim,Mef2,org-1,trx
+Body	AstC-R1	Abl,bin,Dif,dimm,ftz-f1,hb,hbn,Hr39,hth,jim,Mef2,NfI,oc,onecut,org-1,otp,pdm3,Psi,sr,sv
+Body	AstC-R2	bin,Dif,dimm,Hand,hb,hth,Mef2,onecut,org-1,pdm3
+Body	CCAP-R	aop,bin,CG16779,croc,Dif,emc,Hand,Hr39,hth,onecut,org-1,pnt,vtd
+Body	CCHa1-R	bin,CG16779,Dif,dimm,Hand,Lim3,Mef2,NfI,onecut,sr,trx
+Body	CCHa2-R	acj6,CG16779,ewg,ftz-f1,sr
+Body	CCKLR-17D1	acj6,CG12605,grn,Lim3,onecut,Rfx,ss
+Body	CCKLR-17D3	acj6,CG16779,jim,Lim3,onecut,Rfx
+Body	CNMaR	Atf3,Atf6,bs,CHES-1-like,cnc,crc,CrebB,dimm,E2f1,fkh,foxo,GATAe,ham,Hnf4,Jra,kay,Lim3,Mef2,NfI,otp,Psi,REPTOR-BP,sr,SREBP,svp,Trf2,vri,Xbp1
+Body	CrzR	Atf3,Atf6,cnc,CrebB,ct,foxo,Hnf4,Mef2,Mondo,svp,Trf2,Xbp1
+Body	Dh31-R	Atf6,bs,BtbVII,CG16779,CG32532,CHES-1-like,Dif,dimm,Doc1,E2f1,E5,ewg,FoxK,GATAe,Hand,kay,Lim3,Mef2,Mitf,NfI,onecut,Ptx1,shn,SoxN,sr,tin,Trf2,tup
+Body	Dh44-R1	acj6,bi,CG12605,CG16779,CG4328,CG9650,ewg,ey,ftz,Lim3,nej,NfI,onecut,otp,pdm3,Psi,Rfx,SoxN,sr,tup,wor
+Body	Dh44-R2	Atf3,bin,Cf2,CHES-1-like,cnc,CrebA,CrebB,cwo,Dif,E2f1,foxo,GATAe,ham,Hand,Hnf4,Hsf,kay,Lim3,Mef2,Mitf,Poxm,scro,sim,SREBP,srp,svp,Trf2,tup,Xbp1
+Body	ETHR	abd-A,bs,dimm,E5,Hand,hbn,Mef2,onecut,pdm3,Ubx
+Body	FMRFaR	CHES-1-like,E2f1,emc,Ets65A,klu,lola,Mef2,Myc,sr,svp,tj,Xbp1
+Body	Gyc76C	BtbVII,CHES-1-like,cnc,CrebB,da,Dp,E2f1,foxo,Hnf4,kay,Mitf,nej,salm,SREBP,trx
+Body	InR	Atf3,Atf6,bs,CG12605,CHES-1-like,Clk,cnc,crc,CrebA,CrebB,cwo,da,E2f1,Eip74EF,emc,foxo,GATAe,Hnf4,hth,kay,Mondo,Pdp1,scrt,Sox102F,Sox14,srp,ss,svp,Trf2,trx,vri,Xbp1
+Body	Lgr1	Atf3,Awh,Blimp-1,crc,CrebB,dysf,foxo,Mef2,otp,Xbp1
+Body	Lgr3	CG44247,EcR,jim,Lim3,onecut
+Body	Lgr4	bin,CG16779,Dif,dimm,Drgx,Hand,jim,Mef2,NfI,org-1,pho,repo,so,sr
+Body	Lkr	Doc1,Doc2,EcR,Ets65A,fkh,ftz-f1,Lim3,onecut,pb,pdm3
+Body	MsR1	bin,dimm,hb,hth,Mef2,onecut,pnt
+Body	MsR2	abd-A,dimm,dve,hth,Mef2,org-1
+Body	NPFR	bin,ham,Hand,Mef2,NfI,pdm3,Rfx,vtd
+Body	PK1-R	CrebA,Dif,dysf,foxo,grh,Hnf4
+Body	PK2-R1	bi,Ets65A,grn,Lim3,Rfx,Ubx
+Body	PK2-R2	bin,Mef2,Poxm
+Body	Pdfr	Atf3,bin,BtbVII,Cf2,CHES-1-like,cnc,CrebA,CrebB,Dif,foxo,ham,Hand,hb,Hnf4,jim,kay,Mef2,Myc,nej,REPTOR-BP,sim,so,SREBP,srp,svp,Trf2
+Body	Proc-R	Atf6,bin,br,CG12605,CG16779,CG44247,CHES-1-like,crc,CrebA,E2f1,emc,grn,H15,Hnf4,Hrb87F,Hrb98DE,hth,klu,lola,Mef2,Mitf,Myc,nau,NfI,org-1,scrt,sr,sug,tin,tj,vri,Xbp1
+Body	RYa-R	Atf3,Atf6,bs,BtbVII,byn,Cf2,CHES-1-like,cnc,crc,CrebB,cwo,da,Dif,dimm,Doc1,dysf,E2f1,ewg,FoxK,foxo,Hnf4,kay,Mef2,Mitf,nej,onecut,otp,ovo,Pdp1,Psi,Ptx1,Rfx,Trf2,trx,vri,Vsx2,vtd,Xbp1
+Body	SIFaR	Abl,CG16779,CG4328,Ets65A,ftz-f1,gsb,hbn,Lmx1a,Oli,onecut,pb,sr
+Body	SPR	abd-A,Abl,Atf3,BtbVII,Cnx99A,Dif,Dll,Drgx,E2f1,E5,ems,hth,jim,onecut,pdm3,repo,REPTOR-BP,retn,rn,sob,SoxN
+Body	TkR86C	acj6,Ets65A,fd102C,ftz-f1,Lim3,onecut,Rfx,sr
+Body	TkR99D	bin,CG4328,Dif,Hand,Hr39,jim,kn,Lim3,Lmx1a,Mef2,onecut,scro,SoxN
+Body	Tor	Atf3,byn,crc,CrebA,CrebB,CTCF,cwo,foxo,kay,Mef2,Rel,Trf2
+Body	TrissinR	CG4328,Dif,E2f1,ewg,ham,hbn,Lmx1a,Mef2,NfI,onecut,pho,sim,sr,svp
+Body	hec	acj6,CG16779,CG4328,Lim3
+Body	rk	abd-A,Abl,CG16779,CG4328,ftz-f1,hth,jim,lbl,Lim1,lz,onecut,pdm3,Psi,sim,srp,vtd
+Body	sNPF-R	abd-A,acj6,Atf6,BtbVII,CG16779,CG4328,CG9650,dimm,ewg,FoxK,ftz-f1,ham,HGTX,jim,kn,Lim3,Lmx1a,Mef2,NfI,onecut,pdm3,Poxm,Rfx,Rx,sr,Trf2,trx,Vsx2,vtd
+Antenna	AkhR	bowl,foxo,grh,hth,lbl,Xrp1
+Antenna	AstA-R1	Abl,bru3,bs,CG16779,CHES-1-like,CrebB,da,Ets98B,Fer1,FoxP,Hnf4,hth,jim,Kdm4B,Lim3,Mef2,onecut,ovo,pan,peb,pnt,Rbp6,Rel,Rfx,rn,Rx,Sox14,sr,sv,Trf2,trx,tup,Xbp1
+Antenna	AstA-R2	CG9876,mid
+Antenna	AstC-R1	bru3,fkh,FoxP,onecut,peb,Rbp6,Rfx
+Antenna	AstC-R2	Atf6,bru3,CG44247,CHES-1-like,crc,da,E2f1,fkh,Lim3,Max,Mef2,Mondo,Myc,onecut,orb,Rbp6,Rfx,sd,sr,Trf2,unpg,vtd
+Antenna	CCAP-R	CG10431,CHES-1-like,Hr3,jim,run,scro,Sox21b
+Antenna	CCHa1-R	bru3,Fer1,ftz-f1,Hmx,Hnf4,Hr3,jim,Lim3,Mef2,onecut,peb,Rfx,slp1,SMC3,Stat92E,Trf2
+Antenna	CCHa2-R	CHES-1-like,CrebB,da,Dif,Fer1,fkh,FoxK,inv,Myc,onecut,Rfx
+Antenna	CCKLR-17D1	CG12605,ERR,ftz-f1,grh,H15,Hnf4,kay,Mef2,mid,Rel,scrt,sv
+Antenna	CCKLR-17D3	bru3,CrebA,Hr3,jim,Mef2,nej,onecut,Rfx,Trf2
+Antenna	CNMaR	bru3,Cnx99A,inv,Lim3,Max,onecut,Rfx,Xbp1
+Antenna	CrzR	bi,CG10348,CG12605,E5,ems,grh,Hnf4,hth,kay,lbl,Rel,scrt,Sox102F,Xbp1,zfh2
+Antenna	Dh31-R	Abl,Atf3,bbx,bru3,BtbVII,Cf2,CG44247,Cnx99A,crc,CrebB,cwo,Dp,Ets98B,Fer1,FoxP,GATAd,Hnf4,Hr3,jim,nub,onecut,pan,pb,peb,pnt,Sox15,sr,SREBP,Trf2,tup,Xbp1
+Antenna	Dh44-R1	bbx,bru3,BtbVII,Cf2,CG44247,CHES-1-like,crc,CrebB,crp,cwo,da,Dif,E2f1,Hr3,Hsf,jim,Kdm4B,Max,Mef2,Myc,onecut,peb,pnt,Rbp6,Rfx,sage,Trf2,tup,Xbp1
+Antenna	Dh44-R2	Cf2,cnc,dve,E2f1,grn,pnt,repo,svp,Trf2,trx
+Antenna	ETHR	Atf3,BtbVII,Cf2,CG44247,CHES-1-like,crc,CrebB,Dif,dysf,E5,Ets98B,FoxP,Hnf4,Hr3,Hsf,jim,Mef2,Myc,onecut,pan,peb,Rbp6,sr,Trf2,trx,Xbp1
+Antenna	FMRFaR	Atf3,bru3,ftz-f1,Hnf4,jim,Kdm4B,klu,Myc,nej,NfI,onecut,pan,peb,Rbp6,Rel,Rfx,sr,Stat92E
+Antenna	Gyc76C	grn
+Antenna	InR	Abl,Atf3,Blimp-1,cnc,dysf,foxo,grh,Hnf4,hth,kay,Myc,nej,NFAT,oc,pan,pnt,Rbp6,shn,sv,TfAP-2,trx,Xbp1,Xrp1
+Antenna	Lgr1	CG44247,Fer1,Max,onecut,pnt,Rfx,Sox14,sr
+Antenna	Lgr3	toy
+Antenna	Lgr4	FoxP,jim,Rbp6,Rfx
+Antenna	Lkr	Atf6,BtbVII,CG44247,CHES-1-like,crc,da,E2f1,FoxK,inv,jim,Mef2,Mondo,Myc,Not3,Oli,onecut,Rfx,trx,Usf
+Antenna	MsR1	Abl,CHES-1-like,crc,CrebB,crp,da,Dr,exd,Fer1,fkh,ftz-f1,Hnf4,Hr3,Mef2,Mondo,Myc,onecut,ovo,pho,pnt,Rbp6,Rfx,Sox14,sr,Stat92E,Trf2,trx
+Antenna	MsR2	bru3,CG12605,CHES-1-like,crp,da,Ets65A,FoxP,Kdm4B,onecut,pan,pho,pnr,Rbp6,Rfx,srp
+Antenna	NPFR	Atf3,byn,CG44247,crp,Fer1,Mef2,onecut,Rfx,rump,Trf2,trx,ttk
+Antenna	PK1-R	B-H1,grh,Hnf4,pnt
+Antenna	PK2-R1	Awh
+Antenna	PK2-R2	Awh,bru3,Oli,Sox102F
+Antenna	Pdfr	Atf3,bru3,BtbVII,Cf2,CG44247,CHES-1-like,crc,CrebB,crp,Drgx,ERR,grn,hth,jim,Kdm4B,Mef2,Myc,onecut,pan,pnt,Rbp6,repo,Rfx,sr,Trf2
+Antenna	Proc-R	Atf3,CG16779,ci,Drgx,FoxP,grn,kay,pnt,repo,scrt,Sox102F,zfh2
+Antenna	RYa-R	bru3,BtbVII,CG44247,CrebB,E2f1,Fer1,Mef2,onecut,pb,peb,Rbp6,Rfx,sr,Trf2,trx,Xbp1
+Antenna	SIFaR	Abl,BtbVII,Cf2,CHES-1-like,crc,CrebA,CrebB,E2f1,Ets98B,Fer1,foxo,Hnf4,Hr3,Kdm4B,Mef2,nej,onecut,ovo,peb,pho,pnt,Rbp6,Rfx,rump,Sox14,SREBP,Trf2,trx,ttk,vis,vri,Xbp1
+Antenna	SPR	Abl,BtbVII,cad,Cf2,CG44247,E2f1,ERR,exd,Fer1,grn,jim,Mef2,Myc,nej,onecut,ovo,pho,pnt,Rbp6,repo,rn,Rx,sr,sv,Trf2
+Antenna	TkR86C	Cf2,ci,CTCF,Dll,Kdm4B,klu,Mef2,onecut,peb,Rbp6,Rfx,sr,vvl
+Antenna	TkR99D	CHES-1-like,jim,Lim3,Mnt,NFAT,onecut,pan,pho,Rfx,Trf2
+Antenna	Tor	Cf2,CrebB,crp,H15,jim,Mef2,sv,Trf2,trx,Xbp1
+Antenna	TrissinR	da,Fer1,FoxK,foxo,Nf-YA,NfI,onecut,peb,Rfx,SoxN,sr,ss,Stat92E,Xbp1
+Antenna	hec	BtbVII,cad,CHES-1-like,Ets98B,Hsf,sv,Trf2,Xbp1
+Antenna	rk	Awh,CHES-1-like,cnc,hth,jim,mid,Rbp6,Rx,sr
+Antenna	sNPF-R	Atf3,Atf6,BtbVII,Cf2,CHES-1-like,crc,crp,E2f1,E5,exd,Fer1,FoxK,Hsf,inv,jim,Kdm4B,Max,Mef2,Myc,nej,onecut,ovo,pan,peb,pho,pnt,Rbp6,Rfx,sr,Stat92E,sv,Trf2,trx,Usf,vtd,Xbp1
+Body wall	AkhR	Atf6,Cf2,Dp,E2f1,foxo,Mef2,Mondo,pan,sd,SREBP,srp,svp,trx,Usf,Xbp1
+Body wall	AstA-R1	Abl,acj6,Lim1,lz,nej,oc,onecut,pdm3,Rfx,sqz,sr,ss
+Body wall	AstA-R2	CHES-1-like,croc,Dbx,NfI,onecut,pan
+Body wall	AstC-R1	acj6,croc,Drgx,HGTX,onecut,otp,pb,tup
+Body wall	AstC-R2	Adf1,bbx,croc,onecut,Ptx1
+Body wall	CCAP-R	Atf3,Atf6,bs,BtbVII,Cf2,cg,CG17802,CHES-1-like,Cnot4,CrebB,da,E2f1,FoxK,foxo,Hr78,Hsf,inv,kay,Kdm4B,Mad,Mef2,mirr,Mondo,nej,Pc,Poxn,sima,Sox14,SREBP,svp,Trf2,trx,tup,Xbp1,ZIPIC
+Body wall	CCHa1-R	CG16779,Ets21C,HGTX,onecut,pdm3,tin,tup
+Body wall	CCHa2-R	acj6,Antp,CG17802,HGTX,Lmx1a,otp,pdm3,Ptx1,Sox21a
+Body wall	CCKLR-17D1	Abd-B,acj6,onecut,Rfx,ss
+Body wall	CCKLR-17D3	CG16779,tup
+Body wall	CNMaR	Atf3,CHES-1-like,crc,CrebB,ERR,foxo,kay,Mef2,mirr,NfI,Sox14,SREBP,Trf2,vri,Xbp1
+Body wall	CrzR	Atf3,BtbVII,crc,ERR,foxo,Hsf,Mef2,mirr,Mondo,Sox102F,Trf2,Ubx,vvl,Xbp1
+Body wall	Dh31-R	Antp,CG16779,EcR,lbl,mid,pan,pdm3,sqz,sr,tup,twi
+Body wall	Dh44-R1	CG16779,CG4328,en,ey,pdm3,RunxA
+Body wall	Dh44-R2	Cf2,CrebA,cyc,Dp,foxo,Hr96,hth,Mef2,Mondo,MTF-1,pan,Sox100B,SREBP,srp,Trf2,trx,Usf,Xbp1
+Body wall	ETHR	Antp,bs,croc,nau,pdm3,sd
+Body wall	FMRFaR	BtbVII,Cf2,CHES-1-like,crp,Dr,EcR,Hnf4,Hr78,jim,kay,Mef2,net,pan,pnt,sr,svp,vri
+Body wall	Gyc76C	BtbVII,Cf2,CG9609,CHES-1-like,crc,da,FoxK,foxo,Hsf,Mad,Mef2,mirr,Myb,nej,pan,pnt,SREBP,Trf2,trx,vri,Xbp1
+Body wall	InR	Abl,Atf3,Atf6,Cf2,CG16779,CHES-1-like,cnc,CrebB,crp,dysf,E2f1,foxo,grh,Hsf,kay,lola,Mef2,mirr,Mnt,Mondo,mor,nej,pnr,pnt,Rel,sima,srp,sug,Trf2,trx,vri,Xbp1
+Body wall	Lgr1	pdm3
+Body wall	Lgr3	B-H2,HGTX,peng
+Body wall	Lgr4	CG16779,CG34367,Drgx,HGTX,Max
+Body wall	Lkr	Drgx,Lim1,onecut,pb,pdm3,repo,slp1
+Body wall	MsR1	Abl,byn,CG3065,CG42741,onecut,ovo,pdm3,RunxB,SoxN
+Body wall	MsR2	Atf3,Blimp-1,CHES-1-like,CrebA,crp,da,Dif,Dp,Ets98B,foxo,kay,klu,Mef2,Myc,NfI,pan,Rbp6,Sox14,svp,twi
+Body wall	NPFR	CG8281,jim,sr
+Body wall	PK1-R	CG34367,grh,pdm3
+Body wall	PK2-R2	hb,Rfx,sd,sim,trx
+Body wall	Pdfr	BtbVII,Cf2,CG16779,CHES-1-like,Dif,EcR,foxo,jim,Mef2,nej,ovo,pan,Pdp1,Rel,sd,Sox102F,srp,Trf2
+Body wall	Proc-R	Atf6,bi,BtbVII,Cf2,CG12605,CG16779,CG3328,CHES-1-like,Clk,cnc,crc,CrebB,E2f1,EcR,FoxK,H15,Hr4,hth,kay,klu,lola,Mef2,NfI,so,Sox102F,sr,trx,vri,Xbp1
+Body wall	RYa-R	BtbVII,byn,Cf2,E2f1,exd,foxo,GATAd,Mef2,onecut,pb,srp
+Body wall	SIFaR	bab1,CG16779,CG34367,Drgx,FoxP,HGTX,onecut,repo,vnd,Vsx1
+Body wall	SPR	abd-A,Abd-B,Abl,cg,CG8319,dar1,Drgx,E5,ems,exd,jim,lbe,Lim1,Nf-YB,nonA-l,ovo,Pc,pdm3,phol,REPTOR-BP,sd,sim,sob,SoxN,Tbp
+Body wall	TkR86C	H15,HGTX,onecut,pdm3,TfAP-2
+Body wall	TkR99D	Lim1,onecut
+Body wall	Tor	Atf3,crc,CrebB,E2f2,kay,Mef2,mirr,Poxn,Rel,srp,Trf2,trx,vtd,Xbp1
+Body wall	TrissinR	Atf3,Blimp-1,Cf2,CHES-1-like,CrebA,foxo,kay,Mef2,Myc,onecut,sr,trx,Vsx1,Vsx2
+Body wall	hec	acj6,gt,Lim1,OdsH,sim
+Body wall	rk	abd-A,Abd-B,Abl,bon,CG8281,CG9609,crc,E2f1,hng1,Hr78,hth,jim,lbl,Lim1,lz,usp
+Body wall	sNPF-R	acj6,C15,CG16779,Drgx,Ets65A,FoxP,NfI,onecut,pan,repo,Rx,sr,tin,toy,tup,vnd,Vsx1
+Fat body	AkhR	Atf6,Cf2,CHES-1-like,cwo,Dif,foxo,ftz-f1,Hnf4,kay,Mondo,Myc,pan,sr,srp,svp,Tet,trx
+Fat body	AstA-R1	al,Atf3,bs,BtbVII,Cf2,cg,CHES-1-like,Cnot4,crc,CrebA,dmrt11E,EcR,foxo,ftz-f1,GATAd,kay,ken,maf-S,Max,Mef2,Myc,Nf-YA,NK7.1,OdsH,Pph13,REPTOR-BP,slou,Sox14,srp,Tet,trx,vri,Xbp1,Zif
+Fat body	AstA-R2	Abd-B,bab1,Cf2,Dif,FoxP,Jra,NfI,pan,Scr,sr
+Fat body	AstC-R1	Drgx,E2f2,Rfx,slp1
+Fat body	AstC-R2	bab1,bin,BtbVII,CG17829,croc,E2f2,hng1,Jra,Kah,ken,Max,pita,Trf2,Zif
+Fat body	CCAP-R	achi,al,cg,da,E2f2,ey,GATAe,grn,Gsc,Jra,ken,Oli,Rfx,Trf2,tup,Vsx2,Zif
+Fat body	CCHa1-R	ato,CG16779,croc,disco-r,FoxP,kay,NfI,pdm2,Poxm,Vsx1
+Fat body	CCHa2-R	BtbVII,Cf2,CG16779,crc,gt,hng1,Jra,kay,ken,sc,slou
+Fat body	CCKLR-17D1	achi,exex,Max,Scr
+Fat body	CCKLR-17D3	bap,eve,kay,nub
+Fat body	CNMaR	Atf3,Atf6,bin,BtbVII,CG17802,CHES-1-like,crc,CrebA,CrebB,da,Dp,E2f2,foxo,Hnf4,Hsf,Jra,kay,Mef2,Myc,Nf-YA,pita,Rbf,REPTOR-BP,Rfx,SREBP,Trf2,vri,Xbp1,Zif
+Fat body	CapaR	CG3065,da,E2f2,Hsf,ken,Spps,tgo
+Fat body	CrzR	Atf3,CG16779,Cnot4,Dr,ERR,foxo,Hnf4,Hr78,kay,sqz,SREBP,Trf2,vri,vvl,Xbp1
+Fat body	Dh31-R	al,Atf3,bs,BtbVII,Cf2,cg,CHES-1-like,CrebA,CrebB,da,Dbx,Dif,E2f1,ERR,fkh,FoxK,foxo,ftz-f1,GATAe,Hsf,hth,jim,kay,Mef2,Mondo,Myc,NFAT,NK7.1,pdm2,Ptx1,Rel,srp,svp,Tet,Trf2,vnd,vri,Xbp1
+Fat body	Dh44-R1	al,CG4328,CG5245,Dbx,E2f2,eve,fd59A,FoxP,GATAe,kay,ken,Med,pdm2,PHDP,Scr,slou,SREBP,Trf2,Vsx2,Zif
+Fat body	Dh44-R2	Atf3,Cf2,CHES-1-like,Cnot4,CrebA,Dif,fkh,foxo,GATAe,kay,Mef2,Mondo,Myc,pan,Rfx,Stat92E,Tet,Trf2
+Fat body	ETHR	Abl,al,Antp,bs,CG16779,CG4328,Dbx,ftz-f1,GATAe,H15,kay,ken,onecut,Pbp95,pdm2,Poxm,Scr,slbo,slou,sv,trx,tup,vri,Vsx1,Vsx2
+Fat body	FMRFaR	bin,croc,Hand,Kah,Mef2,pan,sr,tup
+Fat body	Gyc76C	Abl,BtbVII,Cf2,CHES-1-like,ci,CrebB,cwo,E2f1,foxo,ftz-f1,Hnf4,jim,Mef2,pho,Sox14,Stat92E,Trf2
+Fat body	InR	Abd-B,Abl,Atf3,Atf6,Blimp-1,BtbVII,Cf2,CHES-1-like,crc,CrebA,CrebB,Dif,Dref,E2f1,Eip74EF,ERR,foxo,ftz-f1,Hnf4,jim,kay,Mef2,Mnt,Mondo,Myc,pan,pnt,Rel,Rfx,slou,Sox102F,Sox14,srp,Tet,Trf2,trx,vri,Xbp1
+Fat body	Lgr1	byn,cg,E2f2
+Fat body	Lgr3	cg,da,Dref,E2f2,ftz-f1,HLH3B,Hsf,kay,ken,maf-S,Scr,tgo,Trf2,vri,Zif
+Fat body	Lgr4	bin,cg,CG32532,CG4730,croc,da,FoxP,ftz-f1,Hand,Kah,kay,Rbf,Rfx,Trf2,trx,vri
+Fat body	Lkr	BtbVII,croc,da,fkh,Jra,maf-S,Max,Zif
+Fat body	MsR1	CG11294,E2f2,E5,tup
+Fat body	MsR2	Atf6,Blimp-1,cnc,Dad,EcR,Eip74EF,Eip75B,Ets98B,foxo,Hnf4,hth,Kah,NFAT,NfI,onecut,org-1,pan,sr,Stat92E,svp
+Fat body	NPFR	disco-r,Hand,Kah
+Fat body	PK1-R	E2f2,grh,Gsc,Jra
+Fat body	PK2-R1	Abd-B,ato,slbo,Vsx1
+Fat body	PK2-R2	kay,Poxm
+Fat body	Pdfr	Abd-B,Cf2,CHES-1-like,Dif,Dp,foxo,jim,Mef2,Mondo,Myc,pan,Sox102F,Trf2,vri
+Fat body	Proc-R	Antp,bs,CG16779,crc,H15,hth,Jra,kay,ken,NFAT,NfI,onecut,org-1,PHDP,sr,SREBP,Stat92E,tgo,trx,tup,vri
+Fat body	RYa-R	Abl,achi,Atf3,BEAF-32,bs,BtbVII,byn,Cf2,CG3065,CHES-1-like,crc,CrebA,CrebB,Dif,Dp,foxo,Hey,Hsf,kay,ken,lz,Max,Mondo,Myc,OdsH,Oli,Rbf,Rel,slou,SREBP,srp,svp,Trf2,trx,vri,Vsx1,Xbp1,Zif
+Fat body	SIFaR	Abl,achi,bab1,CG16779,CG17829,CG4730,crc,Ets96B,Gsc,hng1,Hsf,Jra,maf-S,Max,Oli,Rfx,Trf2,Vsx2,Zif
+Fat body	SPR	ato,CG13775,CG5245,crc,Dbx,dimm,Drgx,E5,fd59A,kay,lz,pdm2,rn,slbo,slp1,Spps,vnd,Vsx1,Vsx2
+Fat body	TkR86C	bs,Cf2,CG34367,Cnot4,slou,Trf2,Zif
+Fat body	TkR99D	Antp,ato,BtbVII,cg,crc,da,eve,FoxK,FoxP,GATAe,gcm2,HLH3B,Hsf,Jra,kay,ken,kn,Trf2,vri
+Fat body	Tor	Atf3,Cf2,cg,jim,maf-S,Max,Mef2,srp,Trf2,trx,Xbp1
+Fat body	TrissinR	gsb-n,kay,Mef2,NfI,sr,Tet,tup,Zif
+Fat body	hec	BtbVII,CG16779,CG17829,CG42741,E2f2,hng1,Hsf,Trf2,Zif
+Fat body	rk	Abl,Atf6,Blimp-1,cbt,CG16779,cnc,Dad,Dif,Dr,dsx,EcR,Eip75B,en,Ets98B,foxo,ftz-f1,Hnf4,Hr3,Kah,kay,NFAT,NfI,org-1,Pdp1,pnt,sima,sr,Stat92E,svp,Trf2,Xrp1
+Fat body	sNPF-R	abd-A,CG16779,disco-r,ey,GATAe,Gsc,gt,kay,kn,NK7.1,onecut,pnt,slp1,Trf2,tup,Vsx1,Vsx2
+Gut	AkhR	Atf6,bi,bowl,Cf2,CHES-1-like,Clk,Cnot4,CrebB,CTCF,cwo,Dp,EcR,foxo,GATAe,grh,HDAC1,Hnf4,Hr78,Hsf,Jra,Mef2,Mitf,Mondo,Myc,OdsH,pdm3,Ptx1,Rel,Sox14,svp,Tet,Trf2,trx,unc-4,usp,Xbp1
+Gut	AstA-R1	Abl,Atf3,BtbVII,Cf2,CG10431,CHES-1-like,cnc,Cnot4,CrebB,cwo,cyc,Dp,dpn,esg,fkh,foxo,GATAe,HLH4C,Hr4,Hsf,jigr1,jim,Jra,kay,klu,Mef2,Mitf,mor,Myc,onecut,Pdp1,peng,pnt,Rbf,Rel,Rx,sc,sna,Tet,Trf2,trx,usp,Xbp1,zfh2
+Gut	AstA-R2	abd-A,acj6,bin,crp,Dif,FoxP,Hand,hth,Mef2,Myc,NfI,sr
+Gut	AstC-R1	bin,cnc,fkh,FoxP,Hnf4,hth,NfI,org-1,slp1,slp2,sr,Xrp1
+Gut	AstC-R2	amos,bin,croc,Hand,hth,lbl,Mef2,org-1
+Gut	CCAP-R	abd-A,bin,cnc,croc,fkh,FoxP,Hnf4,NfI,org-1,slp2,Smr,sr,tup
+Gut	CCHa1-R	Abd-B,acj6,bin,Dif,en,fkh,FoxP,Hand,hth,lbl,Myc,NfI,svp,unc-4
+Gut	CCHa2-R	Atac3,bin,Cf2,croc,CTCF,Dif,Dp,E2f1,Hsf,peng,phol,TfAP-2
+Gut	CCKLR-17D3	CG9727,luna,Rbf,Sox14,SREBP
+Gut	CNMaR	Atf3,BtbVII,cnc,CrebB,CTCF,cwo,E2f1,fkh,foxo,GATAd,ham,Hnf4,Hsf,hth,Jra,kay,Mef2,Myc,org-1,Pdp1,Rel,Sox102F,Trf2,Xbp1
+Gut	CapaR	ken
+Gut	CrzR	br,CG18599,CG34367,CrebA,Doc3,Hr4,lov,oc,org-1,Rel,Sox14,Sox21b
+Gut	Dh31-R	Atf3,caup,Cf2,CG9650,Clk,cnc,Cnot4,CrebA,CrebB,cwo,Dp,ERR,Ets96B,foxo,Hnf4,hth,inv,jim,Jra,kay,Lim3,maf-S,Mef2,Myc,Pdp1,peng,Ptx1,svp,Tet,Trf2,tup,twi,vnd,zfh2
+Gut	Dh44-R2	Atf3,Cf2,CHES-1-like,cnc,cwo,cyc,fkh,GATAe,grh,Hnf4,Hr78,Lim3,Mitf,Myc,Pdp1,svp,Tet,Trf2,Xbp1
+Gut	ETHR	amos,bin,br,BtbVII,Cf2,CG10431,CG34367,CG9727,cnc,Cnot4,dimm,Dp,ERR,foxo,HLH54F,Hr78,jim,Jra,lov,Mef2,Pdp1,pho,Poxn,Rbf,Rel,slou,Smox,Sox14,trx,Usf
+Gut	FMRFaR	Abd-B,amos,bin,croc,Dif,fkh,FoxP,hth,Rfx,slp1,slp2,sr
+Gut	Gyc76C	Atf3,Blimp-1,br,BtbVII,byn,Cf2,CHES-1-like,cnc,Cnot4,CrebB,Eip74EF,fkh,foxo,GATAe,Hnf4,Hsf,kay,Mef2,nej,otp,Pdp1,Smox,Sox14,sug,Trf2,Xbp1
+Gut	InR	ara,Atf3,Atf6,br,BtbVII,Cf2,CHES-1-like,cnc,CrebA,CrebB,cwo,Dif,dimm,Dll,Dp,E2f1,E2f2,ewg,fkh,foxo,GATAe,ham,Hnf4,Hr78,Hsf,hth,jim,Jra,kay,luna,maf-S,Max,Mef2,Mnt,Myc,nej,pb,Pdp1,pnt,Ptx1,Rel,sd,Sox102F,SREBP,svp,Tet,Trf2,ttk,usp,Xbp1
+Gut	Lgr1	Cf2,Mef2,otp,Pdp1
+Gut	Lgr3	br,CTCF,dimm,Hr78,Hsf,inv,Jra,phol,sim,slou,Sox14,usp
+Gut	Lgr4	bin,croc,Dif,Doc2,fkh,FoxP,Hand,hth,NfI,slp1,slp2,sr,zfh1
+Gut	Lkr	HGTX,Lim3,sqz
+Gut	MsR1	acj6,Atf6,bin,Blimp-1,CHES-1-like,cic,cnc,CrebB,E2f1,Eip74EF,Eip75B,fkh,FoxP,ftz-f1,Hnf4,Hr39,Hr78,hth,kay,lola,mirr,nej,NfI,nub,Pdp1,shn,sr,tup,Xrp1
+Gut	MsR2	bin,CG10431,cnc,croc,Drgx,E2f1,fkh,FoxP,Hnf4,hth,NfI,sr,Xrp1
+Gut	NPFR	Atf3,Cf2,cnc,CrebA,CrebB,CycT,Dif,Doc3,Dp,ERR,foxo,GATAe,HDAC1,Hsf,hth,Jra,kay,Mef2,Pdp1,peng,Rbf,Rel,Tet,ttk,vtd,Xbp1
+Gut	PK1-R	crc,E2f1,Eip74EF,ftz-f1,grh,Hr39
+Gut	PK2-R2	hth,NfI,sr
+Gut	Pdfr	bin,Dif,Doc2,fkh,FoxP,Hnf4,hng1,hth,Myc,NfI,sr,sv,Trf2
+Gut	Proc-R	Abd-B,ArfGAP1,Atf6,bin,bs,CHES-1-like,Clk,cnc,crc,CrebB,crol,Dif,E2f1,Eip74EF,ERR,Ets21C,fkh,foxo,FoxP,ftz-f1,grh,Hr39,Hr78,jim,Jra,kay,lola,Mad,Mef2,nau,nej,NfI,pdm2,Pdp1,pho,Rel,sd,Smr,sr,Stat92E,vnd,vri,Xrp1,zfh2
+Gut	RYa-R	Abl,Atf3,bbx,BtbVII,byn,Cf2,CHES-1-like,Clk,cnc,CrebA,CrebB,cwo,Dif,Dp,E2f1,fkh,foxo,GATAe,grh,Hnf4,Hr4,Hsf,Jra,kay,Mef2,Myc,otp,ovo,Pdp1,Rbf,Rel,svp,trx,Xbp1
+Gut	SIFaR	Atf6,BtbVII,Cf2,crp,cwo,ham,Max,Myc,SoxN,vtd
+Gut	SPR	Abl,Atf3,bigmax,br,cad,Cf2,CG17829,Clk,cnc,Dp,E2f2,Eip75B,foxo,Hr39,jim,kay,Mef2,Optix,Rel,Trf2
+Gut	TkR86C	cad,cwo,Doc3,ERR,hth,Jra,peng,Trf2
+Gut	TkR99D	Atf6,bs,CHES-1-like,cic,cnc,CrebB,Ets21C,Ets96B,foxo,ftz-f1,grh,Hnf4,Hr39,jim,Jra,kay,lola,ovo,Pdp1,pnt,Smr,Stat92E,svp,vri,vvl
+Gut	Tor	Atf3,byn,Cf2,cyc,fkh,jim,Mef2,Pdp1,Spps,Trf2,trx,Xbp1
+Gut	TrissinR	Atf3,Atf6,bin,br,Cf2,CHES-1-like,cnc,Cnot4,CrebB,Dif,dimm,foxo,FoxP,Hsf,hth,ind,kay,Mef2,Myc,onecut,Pdp1,Poxn,slp1,Sox14,sr,Trf2,trx
+Gut	hec	Abd-B,lbl,unc-4
+Gut	rk	Antp,aop,Atf6,bin,Blimp-1,CHES-1-like,cnc,CrebB,croc,E2f1,foxo,ftz-f1,Hr78,kay,Kdm4B,nej,NfI,odd,opa,org-1,Pdp1,sd,shn,slp1,slp2,Smr,sr,Stat92E,vnd,Xrp1
+Gut	sNPF-R	Abd-B,ara,Atf3,br,BtbVII,Cf2,cnc,Cnot4,CrebA,CrebB,cwo,Dif,Dp,Ets21C,foxo,GATAe,HGTX,HLH54F,Hnf4,jim,Jra,kay,Lim1,Lim3,lms,luna,maf-S,Mef2,Myc,Pdp1,Ptx1,Rel,tap,Tet,Trf2,trx,Xbp1
+Haltere	AkhR	Atf3,Atf6,Cf2,CHES-1-like,Cnot4,cwo,Dp,E2f1,foxo,grn,Hnf4,hth,klu,Max,mio,Mondo,Rel,scrt,SREBP,srp,sug,svp,trx,Xbp1
+Haltere	AstA-R1	Abd-B,achi,aop,bru3,BtbVII,cnc,Dp,grn,jim,Kdm4B,Mef2,onecut,pan,peb,Rfx,ro,Sidpn,sima,Trf2
+Haltere	AstC-R1	bru3,exd,FoxK,grn,Hr38,jim,mid,Nf-YA,oc,onecut,peb,Rfx,Trf
+Haltere	AstC-R2	abd-A,Abd-B,br,ey,Scr
+Haltere	CCAP-R	ems,hth,inv,nub,pdm3,Sox100B,Sox15,Taf1
+Haltere	CCHa1-R	CG9727,cyc,kay,maf-S,onecut,Trf2
+Haltere	CCKLR-17D1	CG5245,CTCF,Lim1,Mef2,onecut,Rfx,Trf
+Haltere	CCKLR-17D3	CTCF,Dp,egg,Ets97D,onecut,Xbp1
+Haltere	CNMaR	aop,CHES-1-like,CrebB,crp,da,Dp,E2f1,Jra,klu,Rel,srp,Trf2
+Haltere	CrzR	B-H2,cbt,Cnot4,Dp,dsx,egg,ems,ERR,svp,TfIIA-S
+Haltere	Dh31-R	achi,bs,CG12605,cnc,CrebB,EcR,Ets65A,foxo,grh,grn,ham,Hnf4,hth,kay,Mef2,NfI,NK7.1,pnt,Rfx,scrt,sd,Sox14,Sox15,sqz,Stat92E,Ubx,unc-4,vri,zfh1,zfh2
+Haltere	Dh44-R1	bru3,CG6276,Chrac-14,CrebB,crol,da,E2f2,FoxP,Mef2,NfI,onecut,peb,REPTOR-BP,Rfx,zfh2
+Haltere	Dh44-R2	Atf3,Cf2,cg,CHES-1-like,Cnot4,cwo,cyc,E2f1,ERR,Hnf4,Jra,Mondo,Rel,REPTOR-BP,Sox100B,srp,trx,usp
+Haltere	ETHR	Atac3,Chrac-14,D,da,ems,ERR,gt,Hr38,Kdm4B,mio,pan,Rbf2,tgo,zfh2
+Haltere	FMRFaR	Antp,aop,bru3,Clk,CrebB,EcR,Eip75B,grn,Hr38,jim,onecut,pan,pnt,REPTOR-BP,Rfx,sqz
+Haltere	Gyc76C	ci,dsx,E5,foxo,Hnf4,pnr,Sox100B,SREBP,srp
+Haltere	InR	Abl,achi,Atf3,Atf6,Blimp-1,Cf2,CG12605,CHES-1-like,cnc,CrebB,crp,CycT,Dif,dysf,Eip74EF,ERR,Ets21C,foxo,FoxP,grh,grn,Hnf4,Hr38,hth,jim,kay,Kdm4B,Mondo,nej,Parp,Pdp1,Poxm,Rel,REPTOR-BP,rn,scrt,Sox102F,Sox14,srp,svp,trx,vri,Xbp1
+Haltere	Lgr1	cyc,pnt,sv,TfAP-2
+Haltere	Lgr4	abd-A,Abd-B,bru3,CG5245,cnc,CTCF,egg,ERR,GATAe,Mef2,onecut,ro
+Haltere	Lkr	Dr,pdm3,Rfx,Tbp,trx
+Haltere	MsR1	Antp,Cf2,CG9727,cwo,da,E2f1,en,ERR,hth,Lim1,Mondo,oc,Pdp1,Rel,REPTOR-BP,scro,srp,svp,TFAM,tj
+Haltere	MsR2	Abd-B,E2f1,Ets21C,fd102C,Lim1,pnr,pnt,ro,Sox102F,Sox14,sr,srp,tj
+Haltere	NPFR	CG17829,CycT,da,REPTOR-BP,Rfx
+Haltere	PK1-R	cyc,grh,grn,pnr
+Haltere	PK2-R1	al,Atf3,bs,CG12605,ci,CrebB,grh,Hnf4,kay,Mef2,NfI,scrt
+Haltere	PK2-R2	Abd-B,bs,grh,kay,NK7.1,ovo
+Haltere	Pdfr	Cf2,CHES-1-like,crc,E2f1,hng1,jim,Jra,Kdm4B,Mef2,Mondo,Myc,nej,ovo,Pdp1,srp,svp,Trf2,usp,vri
+Haltere	Proc-R	bi,dsx,maf-S,org-1,pdm3,repo,svp,tra2,Ubx
+Haltere	RYa-R	Awh,bcd,bs,CG5245,CrebB,Dp,E2f1,EcR,ey,kn,lola,onecut,peb,Rfx,RpII215,svp
+Haltere	SIFaR	Abl,bab1,Dlip3,E2f2,ftz-f1,Mef2,Nf1,peb,Rfx
+Haltere	SPR	Abl,Atac3,bi,cnc,E2f2,ERR,grn,nub,pnt,repo,slp2,sr
+Haltere	TkR86C	cwo,egg,Ets97D,hth,NfI,onecut,peb
+Haltere	TkR99D	CG3065,cyc,fkh,Hr3,maf-S,onecut,phol,Rfx,Trf
+Haltere	Tor	Cf2,E2f1,GATAe
+Haltere	TrissinR	aop,ara,Atf6,Dlip3,E2f2,FoxP,onecut,peb,pnt
+Haltere	hec	ey,svp
+Haltere	rk	Dp,HGTX,jim,Lim1,Lim3,otp,so
+Haltere	sNPF-R	bab1,bru3,CG6276,foxo,jim,kn,Mef2,Mes4,onecut,peb,repo,scro,slp2,Sox102F,svp,Tbp,Trf2
+Heart	AkhR	ap,Cf2,foxo,Mitf,Mondo,Myc,Rel,srp,svp,trx
+Heart	AstA-R1	acj6,Bgb,bs,BtbVII,Dp,Jra,lz,Mef2,Mitf,onecut,pan,Rbf,REPTOR-BP,Rfx,ss
+Heart	AstA-R2	abd-A,acj6,bap,crp,ems,ftz-f1,Hand,Mef2,NfI,onecut,sd,so,sr,trx
+Heart	AstC-R1	Abd-B,B-H1,bs,CG9609,crp,CTCF,Dp,ems,FoxP,Max,Nf-YC,Nf1,NfI,pb,pnt,sob,sr,Taf7,Traf4
+Heart	AstC-R2	acj6,Atf3,Ets96B,Hr38,kay,Lim3,lms
+Heart	CCAP-R	Atf3,Atf6,bbx,bs,BtbVII,Cf2,cg,CG17829,CG9609,CG9650,CHES-1-like,ci,Cnot4,crc,CrebB,crp,CTCF,CycT,da,Dp,E2f1,E5,ems,ERR,FoxK,foxo,ftz-f1,Hnf4,Hr39,Hr78,Hsf,Jra,kay,Max,Med,Mef2,Mitf,Mondo,Myc,nau,NfI,org-1,Pdp1,peng,pho,pnt,Rel,REPTOR-BP,Rfx,RpII215,rump,Sox14,SREBP,srp,sug,svp,tgo,Trf2,usp,vri,Xbp1
+Heart	CCHa1-R	BtbVII,Cf2,CG9650,Chrac-14,Cnot4,crp,Dif,Hr39,Kah,kay,lbl,Mef2,Nf1,NfI,Pdp1,trx,vtd
+Heart	CCHa2-R	CG9650,ey,inv
+Heart	CCKLR-17D1	acj6,B-H1,Dll,Hr38,sr,ss
+Heart	CCKLR-17D3	NfI,pnt
+Heart	CNMaR	Atf3,Atf6,br,bs,cg,crc,CrebA,CrebB,GATAe,Hnf4,Jra,kay,Myc,NfI,Rfx,sr,Trf2,vri,Xbp1
+Heart	CapaR	bs,BtbVII,Cf2,CG17829,CG9609,CG9650,crc,CrebB,Dp,ERR,GATAd,GATAe,Jra,kay,Myc,sug,vri
+Heart	CrzR	Atf3,Atf6,br,CrebB,emc,ERR,foxo,Hnf4,Hsf,kay,Myc,Pdp1,Rel,sima,SREBP,ss,Trf2,tup,Xbp1
+Heart	Dh31-R	Atf3,bs,BtbVII,Cnot4,crc,CrebB,crp,da,Dif,FoxP,H15,Hand,Hr38,jim,Kah,kay,klu,lbe,lbl,Mef2,Mitf,Mondo,NfI,Pdp1,pnt,sr
+Heart	Dh44-R1	Lim3
+Heart	Dh44-R2	Cnot4,crc,Dif,Hand,kay,Myc,net,so,Sox14,sr,Trf2,vri
+Heart	ETHR	Atf3,BEAF-32,bs,BtbVII,Cf2,CG3407,CG9650,CHES-1-like,Cnot4,crc,crp,Dif,Doc2,Dp,E2f1,E5,ems,exd,GATAd,grh,jim,kay,Mef2,NfI,pb,Pdp1,pho,sd,Sox100B,sr,Taf1,Trf2,trx,vri
+Heart	FMRFaR	Atf3,B-H1,BtbVII,CHES-1-like,Cnot4,crp,da,Dif,Hr38,jim,kay,lz,Mef2,Myc,NfI,sr,sv,Trf2
+Heart	Gyc76C	Atf3,bs,cbt,Cf2,cg,CG17829,CG5846,CHES-1-like,Cnot4,crc,CrebA,CrebB,Dif,E2f1,ERR,exd,ey,foxo,jim,Jra,kay,Mef2,mirr,Mitf,Myc,Pdp1,pnt,Rel,ro,sima,srp,sug,Tbp,Trf2,trx,vri,Xbp1
+Heart	InR	Atf3,Atf6,br,BtbVII,cg,Cnot4,crc,CrebA,CrebB,crp,emc,foxo,Hnf4,Hsf,kay,Mef2,mirr,Mnt,Mondo,Myc,Pdp1,sima,SREBP,Trf2,trx,vri,Xbp1
+Heart	Lgr1	Dll,grh,net
+Heart	Lgr3	Lim3,sv
+Heart	Lgr4	Blimp-1,bs,cbt,Cf2,CHES-1-like,crp,Dp,E2f1,exd,ftz-f1,Hand,Mef2,Mitf,NfI,Pdp1,Rfx,sr,SREBP,srp,Stat92E,trx
+Heart	Lkr	dve,Lim3
+Heart	MsR1	Atf3,bs,cbt,Cf2,CG17829,CHES-1-like,crc,CrebA,CrebB,crp,Drgx,E2f1,E5,FoxK,foxo,GATAd,gt,Hmx,Hr39,Hsf,Jra,kay,maf-S,Myc,Pdp1,Rel,Rfx,ro,rump,srp,sug,svp,TfIIB,trx,ttk,tup,vri,Xbp1
+Heart	MsR2	acj6,Atf3,bs,Cf2,CHES-1-like,ci,crc,CrebB,crp,da,Dp,Drgx,E2f1,exd,foxo,ftz-f1,Hr39,Jra,kay,lab,lz,Myc,Pdp1,pnr,Rel,repo,Sox14,srp,sug,svp,Taf7,Traf4
+Heart	NPFR	Atf3,bs,crc,CrebB,crp,CTCF,CycT,da,Doc1,Doc2,Dp,E2f1,EcR,GATAd,GATAe,Jra,kay,Mef2,Myc,Pdp1,Ptx1,Rel,RpII215,sug,Xbp1
+Heart	PK1-R	grh,srp
+Heart	PK2-R1	CG9650,ci,crp,Dif,Hr38,lbl,Mef2,mid,Mitf,net,NfI,pb,sd,sr,trx
+Heart	PK2-R2	Atf3,bs,Cf2,CHES-1-like,crc,CrebB,crp,Ets21C,GATAd,Hr39,Jra,Kah,kay,lbl,Mef2,Myc,NfI,sr,trx,vri
+Heart	Pdfr	Atf3,cbt,Cf2,ci,CrebB,crp,Dif,Ets98B,foxo,grh,jim,kay,Mef2,Nf1,Pdp1,Sox102F,srp,sug
+Heart	Proc-R	Atf3,CHES-1-like,Cnot4,CrebB,Dif,H15,jim,Kah,klu,lbl,Mef2,Mitf,Mondo,NfI,Pdp1,sd,so,sr,trx
+Heart	RYa-R	aop,Atf3,Atf6,bbx,bs,cbt,Cf2,CG9609,crc,CrebB,crp,da,Dif,Doc1,Dp,EcR,ERR,foxo,GATAd,grh,Hnf4,Hr39,kay,Mef2,Mitf,net,NfI,Pdp1,pho,pnt,Rel,sd,srp,Trf2,trx,usp,Xbp1
+Heart	SIFaR	Atf3,bap,br,bs,BtbVII,Cf2,CHES-1-like,Cnot4,crc,CrebB,crp,CycT,da,Dp,E2f1,EcR,Ets21C,ftz-f1,GATAd,Hand,Hnf4,Hr39,Hsf,Jra,kay,maf-S,Mef2,mirr,Myc,Nf1,pb,Pdp1,Rel,RpII215,so,svp,Trf2,trx,vri,Xbp1
+Heart	SPR	acj6,BtbVII,cbt,Cf2,CG5846,CHES-1-like,Cnot4,crp,CTCF,CycT,Dif,Dp,Drgx,foxo,GATAd,ham,Hr3,Hr38,Hr39,Hr78,Iswi,jim,Jra,Mef2,Mitf,onecut,Pdp1,Rel,Rfx,SMC3,Sox14,SREBP,srp,ss,sug,sv,svp,Trf2
+Heart	TkR86C	bs,cg,CG9609,CHES-1-like,Cnot4,CrebA,CrebB,crp,Doc2,Ets96B,GATAd,GATAe,Hr39,Jra,kay,Mef2,Myc,Rel,Sin3A,Xbp1
+Heart	TkR99D	Atac3,CrebA,crp,E2f1,GATAd,Jra,kay,Klf15,Mad,Nf-YA,Rel,srp,Traf4,Trf2
+Heart	Tor	Atf3,CG17829,Cnot4,jim,Mef2,Trf2,trx,Xbp1
+Heart	TrissinR	Atf3,bs,Cnot4,crp,Dif,Doc1,E5,H15,Hand,Kah,kay,klu,Myc,Nf-YC,NfI,ro,sr,Trf2,trx
+Heart	rk	C15,Drgx,hb,hth,lab,ovo,repo,tgo,tup,Usf
+Heart	sNPF-R	bbx,bs,BtbVII,Cf2,CG3407,CHES-1-like,crp,Dif,E2f1,E5,ems,exd,foxo,ftz-f1,grh,Hr39,Max,Mef2,Mitf,NfI,Pdp1,pnt,Rel,rump,sd,sr,srp,trx,tup
+Leg	AkhR	Atf6,CG17802,H15,Hsf,Kdm4B,onecut,peb
+Leg	AstA-R1	Abl,aop,Atac3,CG9650,CrebB,Eip74EF,fkh,FoxK,foxo,Hnf4,hth,jim,kay,Lim1,lms,onecut,pan,peb,Rbp6,Rfx,Rx,sd,Sidpn,Usf,vvl,Xbp1
+Leg	AstC-R1	acj6,kn,Lim3,onecut,peb,repo
+Leg	AstC-R2	acj6,kn,lbl,Lim3,onecut,Rfx,Rx,Taf7,vnd
+Leg	CCAP-R	CG10654,CG3065,dve,grn,Max,Rbp6,svp,vtd
+Leg	CCHa1-R	achi,Atac3,CG5641,CG9727,CrebB,dimm,foxo,Max,onecut,peb,pho,tup
+Leg	CCHa2-R	Atf6,da,dimm,FoxP,Kah,Max,Rfx
+Leg	CCKLR-17D1	achi,aop,B-H1,CrebA,Hnf4,onecut,ss
+Leg	CCKLR-17D3	ftz-f1,nerfin-2,onecut,Rfx
+Leg	CNMaR	BtbVII,CHES-1-like,Kah,kay,lmd,Mef2,net,NfI,Pdp1,so,Sox14,sr,svp,vri
+Leg	CrzR	CG10348,Dll,ems,foxo,grh,Hnf4,klu,mid,Poxm,Rel,scrt,Sox14,sr,svp,toy,Ubx
+Leg	Dh31-R	Abl,CG34031,drm,dysf,Lim1,Max,Nf1,onecut,peb,Rfx,Rx
+Leg	Dh44-R1	CG6276,CG7378,Dref,foxo,kn,lms,nerfin-2,OdsH,onecut,peb,Rfx,scro,ss
+Leg	Dh44-R2	fkh,grn,hth,Mondo,repo,ss,svp,trx
+Leg	ETHR	Abl,Atf6,BEAF-32,CG18599,ftz-f1,kn,Lim3,nerfin-2,OdsH,onecut,peb,Rbp6,tup
+Leg	FMRFaR	Atf6,bol,Cf2,CG12605,CHES-1-like,crp,hth,jim,klu,Mef2,nub,Pdp1,Rbp6,scrt,sr,vri,zfh1
+Leg	Gyc76C	bol,CG16779,CHES-1-like,hth,Kah,Mef2,Mnt,Pdp1,shn,sr,Tet,Topors
+Leg	InR	aop,ara,Atf3,Blimp-1,bol,bs,BtbVII,CG12605,CG16779,CHES-1-like,cnc,crp,dysf,Eip74EF,Ets65A,foxo,grh,Hnf4,hth,Jra,kay,lola,Mef2,Mnt,Myc,nej,Pdp1,pnt,Rbp6,scrt,sd,shn,Sidpn,sima,Smox,Sox102F,Sox14,sr,srp,Stat92E,Trf2,trx,vri,Xbp1
+Leg	Lgr1	FoxP,gt,kn,onecut,pb
+Leg	Lgr4	Hsf,kay,repo,Xbp1
+Leg	Lkr	BtbVII,HLH3B,repo,Tbp,vnd
+Leg	MsR1	CG7101,dimm,emc,ftz-f1,grn,onecut,ovo,Rfx,vvl
+Leg	MsR2	ArfGAP1,ci,da,E2f1,Eip74EF,ftz-f1,hth,onecut,pnr,pnt,Rfx,srp,Stat92E,Xbp1
+Leg	NPFR	CG17802,CrebB,CTCF,da
+Leg	PK1-R	al,CG10348,dysf,ems,grh,Hnf4,Rel
+Leg	PK2-R1	CG9727,OdsH,onecut,tup,usp
+Leg	Pdfr	bol,cbt,Cf2,CG16779,CHES-1-like,foxo,Hnf4,hth,Mef2,Mondo,NfI,Pdp1,repo,sr,srp,sug,Trf,Trf2,vri
+Leg	Proc-R	Atf3,Atf6,bi,bol,Cf2,CG12605,CG16779,CG3328,CHES-1-like,Clk,CrebA,Dp,foxo,Hsf,hth,Kah,kay,Mef2,nej,nub,Pdp1,pnt,Rbp6,scrt,sima,Sp1,sr,svp,Tet,Trf2,vri
+Leg	RYa-R	Antp,bs,CG9650,crc,CrebB,ftz-f1,grh,kn,lola,nej,onecut,peb,Rbp6,Smox,sr,srp,Trf2,trx
+Leg	SIFaR	Oli,onecut,peb,Rbp6,Rfx,scro,Tbp,tgo
+Leg	SPR	Abl,CG7378,dsx,foxo,grn,hth,oc,onecut,peb,Rbf2,Rbp6,repo,Sox14
+Leg	TkR86C	CG9727,da,nerfin-2,onecut,peb,Rbp6,Rfx
+Leg	Tor	cg,CHES-1-like,jim,Pdp1
+Leg	TrissinR	foxo,FoxP,Hnf4,kn,Max,onecut,Sox14,sr,Tet
+Leg	hec	Atf3,E5,grh,Spps
+Leg	rk	emc,sv
+Leg	sNPF-R	Atf3,cbt,Jra,Lim1,Myc,nej,Nf1,Rbp6,Sox100B,svp,Trf2,trx,Xbp1
+Male reproductive glands	AkhR	Atf3,Cf2,CHES-1-like,Clk,CTCF,foxo,Hnf4,Hr78,Jra,Mondo,Pdp1,Psi,Rel,SREBP,srp,svp,TFAM,Trf2,trx,vri
+Male reproductive glands	AstA-R1	Abl,Atf3,Atf6,BtbVII,Cf2,CHES-1-like,Clk,cnc,Cnx99A,crp,E2f1,Eip74EF,foxo,Hnf4,Hr78,jim,Mef2,Mitf,Nf-YA,pan,prd,Psi,sima,srp,ss,Trf2,trx,vri,Xbp1
+Male reproductive glands	AstA-R2	Atf6,B-H2,CHES-1-like,crc,Dr,E2f1,foxo,gsb-n,nub,pho,prd,Psi,SMC3,Trf2
+Male reproductive glands	AstC-R1	Argk,Atf3,D,Mef2,NfI,pan,Sox102F
+Male reproductive glands	AstC-R2	Atf3,Atf6,Cf2,CHES-1-like,Clk,cnc,CrebB,crp,cwo,da,Dfd,E2f1,EcR,foxo,jim,kay,Mef2,Pdp1,pho,Psi,SoxN,SREBP,srp,Xbp1
+Male reproductive glands	CCAP-R	Antp,Argk,bi,ci,E5,Mef2,NfI,pho,sima,Sox102F
+Male reproductive glands	CCHa1-R	ci,Dif,Mef2,NfI,Poxm
+Male reproductive glands	CCHa2-R	bowl,CkIIalpha-i1,esg,kay,lz,Myc,vri
+Male reproductive glands	CNMaR	Atf3,CHES-1-like,Clk,crp,E2f1,ERR,foxo,Hnf4,kay,Max,Pdp1,phol,prd,REPTOR-BP,srp,Trf2,Usf,vri,vtd,Xbp1
+Male reproductive glands	CrzR	Atf3,Clk,cnc,CTCF,cwo,da,hng1,kay,Med,Mef2,Pdp1,repo,Sox100B,vtd
+Male reproductive glands	Dh31-R	Atf6,Awh,B-H1,B-H2,Dr,E2f1,Mitf,NfI,nub,Rfx,srp,Trf
+Male reproductive glands	Dh44-R2	Atf3,Atf6,Blimp-1,cad,Cf2,CHES-1-like,Clk,crp,foxo,grh,Hnf4,Hr78,kay,Mef2,Mondo,pan,Sox14,SREBP,srp,TFAM,tgo,Trf2,trx
+Male reproductive glands	ETHR	Antp,aop,Atf3,Atf6,Cf2,CHES-1-like,cnc,crc,CrebB,crp,E2f1,EcR,foxo,GATAd,Hsf,jim,kay,Mondo,nej,pan,pho,Psi,REPTOR-BP,Trf2
+Male reproductive glands	FMRFaR	Mef2,NfI,org-1
+Male reproductive glands	Gyc76C	Abd-B,Abl,Atf6,Blimp-1,Cf2,CHES-1-like,cnc,crp,foxo,jim,Kdm2,Mef2,Nf-YB,Smox,srp,trx
+Male reproductive glands	InR	Abd-B,Abl,aop,Atf6,Blimp-1,Cf2,CHES-1-like,Clk,cnc,Cnx99A,CrebB,crp,cwo,Dif,E2f1,foxo,grh,Hnf4,jim,Jra,kay,lola,Mef2,Mitf,Mnt,pan,Pdp1,Pur-alpha,sima,Sox102F,Sox14,srp,svp,Trf2,trx,Usf,vri,Xbp1
+Male reproductive glands	Lgr1	ci,Dp,exd,Mef2,sv
+Male reproductive glands	Lgr4	bin,cad,CG32532,croc,Hr4,kay,nub,Pdp1,Usf
+Male reproductive glands	MsR1	Atac3,Atf6,crc,exd,foxo,jim,luna,Mitf,pan,Trf2,trx,Vsx1
+Male reproductive glands	MsR2	fru,hb,hth,Mef2,NfI,pdm3,pnr,Poxm,srp
+Male reproductive glands	PK1-R	Atf3,CG15696,CHES-1-like,foxo,GATAd,kay,Mef2,Psi,Rfx,srp
+Male reproductive glands	PK2-R2	bowl,BtbVII,Cf2,crc,crp,exex,foxo,HGTX,Hr78,Hsf,jim,Mef2,Mondo,pita,prd,row,sna,tj,Trl
+Male reproductive glands	Pdfr	aop,Atf3,Blimp-1,cbt,Cf2,Clk,CTCF,foxo,Hnf4,Mef2,Mondo,NfI,pan,Pdp1,Sox102F,Sox14,srp,sug,Trf2
+Male reproductive glands	Proc-R	Atf6,BtbVII,CG8319,Clk,crc,CrebA,crp,Dr,E2f1,Eip74EF,foxo,gsb,gsb-n,Hsf,Kdm2,prd,Psi,sd,slou,Trf2,trx,tx,unc-4
+Male reproductive glands	RYa-R	Atf3,Atf6,BtbVII,Cf2,CHES-1-like,Clk,cnc,Cnx99A,crc,CrebA,da,E2f1,foxo,Hnf4,Hr78,jim,kay,Kdm2,lola,Mef2,Mondo,pan,prd,Psi,REPTOR-BP,Rfx,sima,Sox100B,srp,Trf2,trx,Usf,vri,Xbp1
+Male reproductive glands	SIFaR	Abl,Atf3,Atf6,bowl,BtbVII,Cf2,CHES-1-like,Cnx99A,crc,CrebB,crp,Dp,E2f1,EcR,ewg,foxo,gsb-n,Hr78,Hsf,Mitf,pho,prd,Psi,Trf2,Usf
+Male reproductive glands	SPR	Abl,Argk,Atf3,bi,Blimp-1,bowl,bs,cad,cbt,Cf2,CG8319,CHES-1-like,ci,Clk,CrebB,crp,da,Dp,E2f1,EcR,exex,foxo,jim,Jra,kay,Mef2,Mondo,Pdp1,Rel,rump,Smox,SoxN,srp,sug,Trf2,usp,Xbp1
+Male reproductive glands	TkR99D	Blimp-1,Cf2,CHES-1-like,crc,CrebA,crp,foxo,gsb-n,Hr78,Hsf,jim,pho,Psi,REPTOR-BP,Trf2
+Male reproductive glands	Tor	Atf3,Cf2,CHES-1-like,crp,EcR,foxo,grh,jim,Mondo,Trf2,trx,Xbp1
+Male reproductive glands	TrissinR	E2f1,Eip75B,foxo,gsb,gsb-n,Hnf4,Kah,Mef2,NfI,Sox14,toe,unc-4,Xrp1
+Male reproductive glands	rk	Abl,CHES-1-like,cnc,Cnot4,CrebB,E2f1,foxo,ftz-f1,Hr78,kay,lola,Mef2,org-1,pan,Pdp1,pho,Psi,Trf2,Usf
+Male reproductive glands	sNPF-R	Abd-B,Atf3,Atf6,Cf2,CHES-1-like,ci,Clk,cnc,crp,da,exd,GATAd,gsb,gsb-n,HGTX,ind,jim,jing,kay,Kdm2,lbl,Mef2,NfI,pan,pdm3,Poxm,prd,Sox102F,SoxN,srp,trx,unc-4,vri
+Malpighian tubule	AkhR	Dif,grh,Myc,Rel,SREBP,srp,svp
+Malpighian tubule	AstA-R1	Abl,Atf3,bs,BtbVII,cbt,Cf2,cg,CHES-1-like,cnc,Cnot4,crc,CrebB,cyc,da,E2f1,erm,fkh,foxo,GATAe,Hnf4,jim,Jra,kay,Mef2,Myc,Nf1,pan,Pdp1,pita,Rbf,Rel,sd,slou,SREBP,Tet,toy,Traf4,Trf2,Xbp1
+Malpighian tubule	AstA-R2	Atf3,Atf6,bin,bsh,cad,CG8079,CrebB,crp,Eip74EF,fkh,foxo,GATAd,grh,Hnf4,jim,kay,Mef2,Mondo,NK7.1,pan,peb,sqz,Stat92E,Tet,Trf2,Xbp1
+Malpighian tubule	AstC-R1	Abd-B,bin,Kah
+Malpighian tubule	AstC-R2	grh,jim,kay,Mondo,Tet
+Malpighian tubule	CCAP-R	cwo,E2f1,ey,H15,Hnf4,Hr51,Mef2,Myc,nej,slou,so,toy,Zif
+Malpighian tubule	CCHa1-R	CG16779,CG5245,egg,Max,Myc,slou,slp1,srp,toy,Trf2
+Malpighian tubule	CCHa2-R	CrebA,Eip75B,Sox21b
+Malpighian tubule	CCKLR-17D3	Myc,sqz
+Malpighian tubule	CNMaR	aop,Atf3,Cbp20,CG44247,CHES-1-like,Clk,CrebA,CrebB,da,E2f1,ERR,fkh,foxo,GATAe,ham,Hnf4,Jra,kay,Max,Myc,net,Nf-YB,NfI,Pdp1,SREBP,Trf2,Xbp1
+Malpighian tubule	CapaR	BtbVII,Cf2,CrebA,CrebB,Doc3,E2f1,ERR,GATAd,Jra,Myc,Pdp1
+Malpighian tubule	CrzR	aop,CrebA,EcR,kay,lola,net,pnr,pnt,retn,Sp1,Stat92E,vvl
+Malpighian tubule	Dh31-R	Atf3,Cf2,CHES-1-like,chinmo,Clk,cnc,crc,CrebA,CrebB,E2f1,ERR,fkh,GATAe,Hnf4,jim,Mef2,Myc,ovo,Pdp1,pnt,Tet,Traf4,Trf2
+Malpighian tubule	Dh44-R2	Cf2,CrebA,cwo,ERR,fkh,foxo,GATAe,Hnf4,kay,pan,Pdp1,Sox21a,Stat92E,Tet,Trf2
+Malpighian tubule	ETHR	abd-A,Antp,cad,cbt,CHES-1-like,E2f1,Eip74EF,grh,Hnf4,jim,kay,NK7.1,slp1,Smox,sqz,sug,svp,Tet,Trf2,Ubx,vvl
+Malpighian tubule	FMRFaR	Vsx2
+Malpighian tubule	Gyc76C	Atf3,Blimp-1,BtbVII,Cf2,CG3065,CHES-1-like,ci,E2f1,ERR,fkh,foxo,GATAd,GATAe,Hnf4,jim,Mef2,Mondo,Myc,nej,Pdp1,Tet,Trf2,vri,Xbp1
+Malpighian tubule	InR	Abl,Atf3,Atf6,Blimp-1,BtbVII,Cf2,CHES-1-like,Clk,cnc,crc,CrebA,CrebB,E2f1,EcR,fkh,foxo,GATAe,Hnf4,jim,kay,klu,Mef2,Mitf,Mnt,Mondo,Myc,nej,pan,Pdp1,peb,pnt,ro,Sox21a,Tet,Trf2,Xbp1
+Malpighian tubule	Lgr1	Atf3,ci,kay,Myc,NK7.1
+Malpighian tubule	Lgr3	Atf6,cbt,Clk,cnc,CrebA,CrebB,cwo,Dp,E2f1,Eip75B,ERR,fkh,foxo,HGTX,jim,kn,NfI,Pdp1,toy,Xbp1
+Malpighian tubule	Lgr4	Atf3,BtbVII,Cf2,CG9727,ci,Cnot4,CrebB,Dif,Dp,E2f1,foxo,GATAe,Hnf4,jim,kay,Mef2,Myc,Nf1,sd,Tet,Trf2,vtd,Xbp1
+Malpighian tubule	Lkr	cad,Eip74EF,fkh,foxo,grh,jim,kay,Mondo,NK7.1,Stat92E,Tet
+Malpighian tubule	MsR1	Dr,NfI,Poxm
+Malpighian tubule	MsR2	Dr,Myc,NfI,org-1,pnr
+Malpighian tubule	NPFR	Atf3,Cf2,ci,crc,CrebA,CrebB,Dp,E2f1,ERR,foxo,GATAd,GATAe,Hsf,kay,Mef2,Myc,Pdp1,pho,Rel,Tet,Xbp1
+Malpighian tubule	PK2-R1	Nup133
+Malpighian tubule	Pdfr	Abd-B,bin,BtbVII,Cf2,CHES-1-like,Cnot4,CrebB,Dif,E2f1,ERR,fkh,foxo,jim,kay,Mef2,Myc,Nf1,NfI,pan,Pdp1,Sox102F,Topors,Trf2,Ubx,vtd
+Malpighian tubule	Proc-R	bs,grh,H15,lbl,Mitf,ovo,sd,Sox21b,SoxN,Ubx,vvl,Xbp1
+Malpighian tubule	RYa-R	Atf3,Atf6,bs,BtbVII,cbt,Cf2,crc,CrebA,CrebB,E2f1,ERR,fkh,foxo,GATAd,GATAe,Hnf4,Jra,kay,Myc,Pdp1,peb,pnt,Sox21a,Sp1,toy,Trf2
+Malpighian tubule	SIFaR	egg,Eno,odd,org-1,ovo,sv
+Malpighian tubule	SPR	Abl,Atf3,Blimp-1,bs,BtbVII,Cf2,CG8319,CHES-1-like,ci,Cnot4,D,Dp,E2f1,ERR,fkh,foxo,GATAd,GATAe,Hnf4,Hsf,jim,kay,Lim3,Mef2,Mondo,odd,Pdp1,scro,Sox100B,Sox14,svp,Tob,Trf2
+Malpighian tubule	TkR86C	Cf2,CG9609,ci,Cnot4,Dif,Eip74EF,ERR,foxo,GATAd,GATAe,Hnf4,kay,Mef2,Myc,Pdp1,Sp1
+Malpighian tubule	TkR99D	bi,cad,CHES-1-like,CrebB,Doc1,Doc2,Eip74EF,Ets65A,fkh,grh,Hnf4,jim,Jra,kay,NK7.1,svp,TfAP-2,Trf2,Xbp1
+Malpighian tubule	Tor	Cf2,crp,cwo,fkh,foxo,jim,Mef2,Tet,Trf2,Xbp1
+Malpighian tubule	TrissinR	Atf3,bbx,Cf2,ci,CrebA,cwo,cyc,Dif,E2f1,ERR,foxo,kay,kn,Mondo,Myc,Pdp1,pho,Sox14,Tet,Trf2,Xbp1
+Malpighian tubule	rk	Aef1,Atf6,BtbVII,Cf2,cg,CHES-1-like,chinmo,CrebA,CrebB,da,Doc1,Dp,E2f1,E2f2,EcR,ERR,fkh,foxo,ftz-f1,jim,Jra,Mef2,Mitf,Mondo,Nf1,org-1,Pdp1,pnt,Rfx,sd,Trf2
+Malpighian tubule	sNPF-R	Atf3,B-H2,BtbVII,Cf2,CHES-1-like,ci,crc,crp,Dif,Dp,egg,ERR,foxo,GATAd,GATAe,Hnf4,jim,kay,kn,Max,Mef2,Myc,odd,Pdp1,rn,Rx,Smox,Tet,Trf2,Vsx2,Xbp1
+Oenocyte	AkhR	Atf6,Cf2,Dif,foxo,Hnf4,klu,mirr,Mitf,Mondo,Myc,salm,srp,svp,Trf2,trx,vvl
+Oenocyte	AstA-R1	Abl,acj6,BtbVII,Cf2,cg,CG1233,CHES-1-like,ci,Cnot4,crc,CrebB,crp,CycT,da,Dr,foxo,GATAd,grn,ham,her,Hnf4,jim,Jra,Max,Mef2,Myc,Nf1,onecut,pan,pho,Rel,Rfx,srp,ss,svp,tj,Trf2,unc-4,Xbp1
+Oenocyte	AstA-R2	abd-A,bap,bin,ci,jim,kay,Mef2,mid,Nf1,NfI,pan,pnr,pnt,repo,sr
+Oenocyte	AstC-R1	abd-A,croc,E2f1,jim,lola,Mef2,NfI,pnt,sob,tup
+Oenocyte	AstC-R2	acj6,CG34367,Dfd,dimm,Lim3,onecut,zfh2
+Oenocyte	CCAP-R	Atac3,ems,org-1,pnt,slp1,sqz,tup
+Oenocyte	CCHa1-R	bin,CG16779,crp,Dif,ems,jim,kay,Mef2,Nf1,NfI,pnt,repo,tin,trx,tup
+Oenocyte	CCHa2-R	achi,C15,CG34367,Ets21C,ham,Jra,Lim3,Trf,vis,Xbp1
+Oenocyte	CCKLR-17D1	achi,CG11294,CG34367,erm,Lim3,onecut,Optix,Topors,vis,zfh2
+Oenocyte	CCKLR-17D3	onecut,slbo
+Oenocyte	CNMaR	Atf3,CHES-1-like,crc,CrebB,crp,E2f1,Hsf,kay,Mef2,mirr,Myc,RpII215,Trf2,Xbp1
+Oenocyte	CapaR	GATAe,hth
+Oenocyte	CrzR	ap,Atf3,Atf6,Cf2,ci,CrebA,CrebB,foxo,Hnf4,Hsf,kay,mamo,Mef2,mirr,pnt,Rel,Sox102F,Stat92E,sug,svp,Trf2,Ubx,Xbp1
+Oenocyte	Dh31-R	Abl,bs,cad,cg,CG16779,Cnot4,crp,Doc1,Dp,E2f1,GATAe,hth,jim,kay,lola,Mef2,Mitf,NfI,Ptx1,REPTOR-BP,tin,tup
+Oenocyte	Dh44-R2	Atf6,Cf2,CG16779,CHES-1-like,Cnot4,Doc1,foxo,ftz,Mef2,Mitf,REPTOR-BP,srp,trx
+Oenocyte	ETHR	Atf3,BtbVII,CG16779,Cnot4,CrebB,crol,E2f1,Ets98B,foxo,fru,jim,Mef2,mirr,NfI,Sox102F,sr,Trf2,tup
+Oenocyte	FMRFaR	Atf3,cnc,CrebA,ERR,Hnf4,hth,jim,Kah,kay,klu,Mef2,NfI,slou
+Oenocyte	Gyc76C	aop,Atf3,Atf6,BtbVII,CHES-1-like,crp,da,foxo,ftz,Mef2,mirr,ovo,Trf2,vnd
+Oenocyte	InR	Abl,Atf3,Atf6,br,BtbVII,Cf2,CHES-1-like,Cnx99A,crc,CrebA,CrebB,Dif,Eip74EF,ewg,foxo,Hnf4,hth,jim,kay,lola,mirr,Mitf,Mnt,Myc,nej,org-1,Rel,sima,Sox102F,Sox14,sr,srp,svp,Tbp,Trf2,trx,Xbp1
+Oenocyte	Lgr1	grh,ham,kay,lab,Lim3,otp,repo
+Oenocyte	Lgr3	Dref,esg,lab,zfh2
+Oenocyte	Lgr4	bin,ems,jim,Trf2
+Oenocyte	Lkr	HLH54F,hth,kay,Lim3
+Oenocyte	MsR1	hb,hth,pnt,sr,tup
+Oenocyte	MsR2	br,CHES-1-like,cnc,CrebA,hb,Hnf4,Hr78,Hrb87F,Hrb98DE,hth,Kah,kay,lab,Mef2,NfI,Rb97D,Rel,repo,slou,Sox102F,sr,Stat92E,svp
+Oenocyte	NPFR	cad,CG15812,Dll,GATAe,hth,Ptx1
+Oenocyte	PK1-R	abd-A,Dll,grh,lab,Mef2,repo,slp2
+Oenocyte	PK2-R1	Ets65A,hth,tup
+Oenocyte	PK2-R2	CG16779,E2f1,EcR,hb,jim,Kah,kay,Mef2,Nf1,NfI,pita,run,slp1,tin
+Oenocyte	Pdfr	Cf2,CG16779,CHES-1-like,Cnot4,CrebA,CrebB,Dif,foxo,jim,Mef2,nej,Nf1,peb,pnt,Sox102F,srp,Trf2,Xbp1
+Oenocyte	Proc-R	bs,BtbVII,Cf2,CG16779,CHES-1-like,ci,Cnot4,crol,crp,Dif,foxo,H15,Hsf,jim,kay,Mef2,Mitf,Nf1,NfI,sr,svp,tin,Trf2,trx
+Oenocyte	RYa-R	Abl,al,bin,byn,Cf2,CG34367,crc,da,E2f1,Eip78C,foxo,gt,lms,lola,Mef2,Myc,otp,Rel,Rfx,svp,trx
+Oenocyte	SIFaR	bi,cg,Drgx,kay,lab,Lim3,Rbf2,repo,SREBP
+Oenocyte	SPR	abd-A,Dll,E5,ems,hth,Lim1,ovo,phol,rn,sob,Sp1,YL-1
+Oenocyte	TkR86C	ftz,GATAe,hth,Lim3,onecut,pnt,Ptx1,Rfx,Spps,vis
+Oenocyte	TkR99D	H15,Lim3,mid,onecut,pnt,run,vis
+Oenocyte	Tor	CG9609,CG9727,Chrac-14,crc,CTCF,da,E2f2,jim,Jra,maf-S,Mef2,ovo,Rbf,srp,Trf2,Xbp1
+Oenocyte	TrissinR	CG9876,Clk,crp,emc,ERR,hb,Hnf4,Hr78,hth,kay,klu,Mef2,NfI,salm,sr,Xbp1
+Oenocyte	hec	Rel,sim
+Oenocyte	rk	Abd-B,Abl,en,gsb,gsb-n,hth,inv,Lim1,org-1,sd,sim,sr
+Oenocyte	sNPF-R	Abd-B,Abl,E5,Ets21C,foxo,jim,lab,Lim3,Mef2,Myc,NfI,onecut,repo,Rx,sr,srp
+Ovary	AkhR	CG5245,Gsc,Kr
+Ovary	AstA-R1	Abl,Atf3,bs,BtbVII,Cf2,CG42741,CHES-1-like,cnc,Cnx99A,CrebA,CrebB,Dp,E2f1,Eip75B,foxo,ftz-f1,HGTX,jim,kay,klu,lola,Mef2,Mondo,Myc,OdsH,pan,sd,sima,Sox14,tj,Trf2,trx,vri,Xbp1
+Ovary	AstA-R2	Gsc,hth,Mef2,NfI
+Ovary	AstC-R1	Mef2,NfI
+Ovary	AstC-R2	Dp,Gsc,HGTX,lms,Myc,ovo,Rbf,Rbf2,Smox,Trf2,unc-4
+Ovary	CCAP-R	bowl,Cf2,CHES-1-like,cnc,CrebA,CrebB,foxo,Hr78,Hsf,jim,Mef2,Mitf,Mondo,Not3,pnt,slbo,SREBP,tj,Trf2,trx,vri
+Ovary	CCHa1-R	Mef2,NfI
+Ovary	CCHa2-R	Mef2,run,sob
+Ovary	CNMaR	Atf3,CHES-1-like,cnc,CrebA,CrebB,Eip75B,FoxK,foxo,ftz-f1,jim,kay,Sox14,Trf2,Xbp1
+Ovary	CrzR	CrebA,Dbx,Myc,sima,svp
+Ovary	Dh31-R	Six4
+Ovary	Dh44-R2	Atf3,CG3065,Myc,pan,pnt,Poxm,Trf2
+Ovary	ETHR	CG9727,dar1,NfI,sima,vvl,zfh2
+Ovary	FMRFaR	Mef2
+Ovary	Gyc76C	Abl,Atf3,BtbVII,Cf2,CHES-1-like,cnc,CrebB,E2f1,foxo,kay,nej,sima,Sox14,Trf2,trx
+Ovary	InR	Abl,Atf3,bol,CG3065,CHES-1-like,cnc,CrebA,CrebB,crol,E2f1,Eip75B,foxo,jim,kay,klu,Mad,Mitf,Mnt,Mondo,Myc,nej,pan,pnt,sima,Sox14,Stat92E,Trf2,trx,vri
+Ovary	Lgr1	lms
+Ovary	Lgr4	CG2116,cnc,Dp,lms,Mef2,NfI,Rel,Trf2,trx
+Ovary	MsR1	Cf2,CHES-1-like,cnc,Cnx99A,CrebB,Dp,exd,foxo,Hsf,inv,kn,lms,Mef2,Myc,ovo,pho,Rbf,Rbf2,Rel,Trf2,twi,unc-4,ZIPIC
+Ovary	MsR2	CrebA,E2f1,jim,Mef2,oc,pan,tj,vri,Xbp1
+Ovary	NPFR	NfI
+Ovary	Pdfr	bowl,BtbVII,CG16779,ci,Clk,CrebA,CrebB,Gsc,Mef2,NfI,ovo,pan,tai,tj,Trf2,vri,zfh1
+Ovary	Proc-R	Atf6,bowl,BtbVII,CHES-1-like,Clk,Cnot4,CrebA,CrebB,cyc,dar1,Dp,FoxK,HGTX,Jra,Lim1,Max,Mitf,Myc,Not3,ovo,tai,Trf2,trx,Usf,Vsx1,Zif
+Ovary	RYa-R	Abl,Atf6,bs,BtbVII,Cf2,cnc,CrebA,CrebB,Dp,E2f1,foxo,ftz-f1,grn,jim,kay,ken,klu,Mef2,Myc,Not3,OdsH,Pdp1,srp,Trf2,trx,vri,Xbp1
+Ovary	SPR	Abd-B,Atf3,D,dar1,hth,Sox102F,Sox21b
+Ovary	Tor	Cf2,CrebA,foxo,jim,trx
+Ovary	TrissinR	Atf3,Cf2,cg,cnc,Cnot4,CrebB,Dp,kay,Max,Mef2,NfI,REPTOR-BP,Trf2,trx
+Ovary	hec	BtbVII,CrebB,Eip75B,Trf2
+Ovary	rk	Abl,Atf6,BtbVII,cnc,Cnot4,exd,foxo,Hr78,ken,lola,Mef2,Mitf,Mondo,MTF-1,REPTOR-BP,sd,Sox14,srp,Trf2
+Ovary	sNPF-R	abd-A,Atf3,BtbVII,cnc,E2f1,Med,Myc,pan,Rel,Sox14,Trf2,trx,vri
+Proboscis	AkhR	Atf6,BtbVII,Cf2,CHES-1-like,Cnot4,cwo,CycT,Dif,Dp,E2f1,foxo,Hnf4,hth,Mitf,Mondo,Myc,Pdp1,Sox102F,Sox14,srp,ss,svp,Trf2,trx,Xbp1
+Proboscis	AstA-R1	Abl,aop,bru3,bsh,BtbVII,cg,CG16779,CG17802,CG9650,CHES-1-like,ci,cnc,CrebA,FoxK,foxo,grn,Hnf4,Lim1,Mondo,NfI,Oli,onecut,pan,peb,Rbp6,Rfx,Rx,scro,SoxN,sr,ss,Trf2
+Proboscis	AstA-R2	Abl,dimm,Mad,NfI,NK7.1,onecut,otp,pan,Ptx1,RunxB,salr,slp2,zfh2
+Proboscis	AstC-R1	Abl,Awh,bru3,CG9650,cnc,Dfd,Ets65A,FoxK,foxo,Hnf4,lola,nej,NfI,oc,Oli,onecut,peb,Rbp6,Rfx,Sox102F,Sox21b,SoxN,sr,ss,vri,zfh2
+Proboscis	AstC-R2	Atf6,bab1,bru3,CG4328,CHES-1-like,crc,CycT,Dfd,foxo,Hnf4,Lim1,maf-S,Mef2,Mondo,Oli,onecut,Rbp6,Sox21b,SoxN,sr,ss,Trf2,Vsx2
+Proboscis	CCAP-R	bru3,CG16779,CG17440,CHES-1-like,ci,crol,hth,Lim1,Mad,Mef2,Mitf,Nf1,NfI,onecut,pdm2,Rbp6,scro
+Proboscis	CCHa1-R	B-H1,B-H2,bin,bru3,cg,CG16779,CHES-1-like,dimm,FoxK,inv,Lim3,Mef2,NfI,onecut,pad,pb,peb,Rfx,Sidpn,Sox21b,ss,Trf2,tup
+Proboscis	CCHa2-R	caup,Cf2,CG16779,CG9650,crp,E2f1,EcR,Ets65A,Max,Mef2,Mitf,pho,sr,vtd
+Proboscis	CCKLR-17D1	B-H2,caup,Hr51,onecut,pb,Rfx,sr,ss,sv,Vsx2
+Proboscis	CCKLR-17D3	BtbVII,CG16779,Mef2,onecut,pb,Rfx,SoxN,sr,Trf2
+Proboscis	CNMaR	bs,crc,E2f1,Ets96B,HDAC1,Mef2,Mitf,NfI,onecut,Rfx,SoxN,sr,Sry-delta,ss,Trf2,vtd
+Proboscis	CrzR	al,Atf6,B-H1,B-H2,Dfd,grh,Hnf4,Hr78,pb,Scr,scrt,Sox102F,svp,Xbp1,zfh2
+Proboscis	Dh31-R	Abl,Atf3,BtbVII,CHES-1-like,cnc,crc,CrebA,CrebB,CycT,E2f1,emc,FoxK,foxo,grh,Hnf4,inv,lbe,lbl,Mef2,Mitf,nej,pan,pb,Pdp1,Rel,rn,scro,tgo,Trf2,tup,Xbp1
+Proboscis	Dh44-R1	B-H1,bru3,BtbVII,CG16779,CHES-1-like,D,foxo,lms,Mad,Mef2,nej,Nf1,NfI,onecut,pan,peb,Rbp6,Rfx,Sidpn,SoxN,sr,ss,Trf2,vnd
+Proboscis	Dh44-R2	B-H1,CG16779,CHES-1-like,crc,CrebA,crp,Dif,fkh,FoxK,Hnf4,Myc,nub,pan,repo,Rfx,ss,sv,svp,Trf2,trx,Xbp1
+Proboscis	ETHR	Abl,Awh,bru3,bs,C15,crc,CrebB,crol,crp,CycT,Dif,E2f1,Ets65A,lz,Mondo,Nf1,NfI,NK7.1,onecut,pan,peb,Rbp6,Rfx,rn,Trf2,vtd,yps
+Proboscis	FMRFaR	bru3,BtbVII,Cf2,CG9650,CrebA,crp,Ets98B,Hnf4,Mef2,Mitf,NfI,pan,Pdp1,peb,Rbp6,sr
+Proboscis	Gyc76C	grn
+Proboscis	InR	Abl,aop,Atf3,Atf6,Blimp-1,BtbVII,CG12605,CHES-1-like,cnc,Cnot4,CrebA,CrebB,crp,Dif,Eip74EF,emc,Ets98B,foxo,FoxP,grh,Hnf4,hth,kay,lola,Mef2,Mitf,Mondo,Myc,Pdp1,Rel,rn,scrt,shn,Sox102F,svp,toy,Trf2,trx
+Proboscis	Lgr1	Atf3,Awh,CG12605,CrebB,eyg,FoxK,kay,Mef2,pdm3,Pdp1
+Proboscis	Lgr3	cg,CG16779,da,FoxK,Hr3,onecut,ss,zfh2
+Proboscis	Lgr4	bru3,BtbVII,CG16779,Lim3,Mad,Mnt,NfI,pho,Rbp6,SoxN,sr,toy
+Proboscis	Lkr	BtbVII,da,onecut,pb,Rfx,rn,Rx,Sidpn,sr,ss
+Proboscis	MsR1	Abl,Atf6,BtbVII,CG16779,CHES-1-like,da,dar1,dimm,E2f1,ewg,Hnf4,hth,Lim1,Mef2,Mitf,NfI,NK7.1,onecut,pho,Rbp6,SoxN,sr,Trf2,vtd,zfh2
+Proboscis	MsR2	bru3,CG17802,CHES-1-like,crc,dimm,E2f1,Ets98B,Mef2,NfI,onecut,pan,pho,pnr,pnt,Rbp6,repo,Rfx,sr,srp,svp,Usf
+Proboscis	NPFR	Atf6,byn,CG17802,Dbx,E2f1,Ets96B,NfI,onecut,pho,Rfx,sr,ss,trx,vtd
+Proboscis	PK1-R	foxo,grh,Rel,ss,Xbp1
+Proboscis	PK2-R1	B-H1,CG16779,EcR,NfI,SoxN
+Proboscis	PK2-R2	cg,CG16779,EcR,Lim1,NfI,pho,ro,sr,TfAP-2
+Proboscis	Pdfr	bru3,bs,CG16779,CG17802,CG42741,cnc,crp,FoxK,knrl,Myc,NfI,onecut,pan,Rbp6,SoxN,srp,sv,svp,TfAP-2,Trf2
+Proboscis	Proc-R	bi,Cf2,CG12605,CG16779,CG3328,CG42741,CHES-1-like,cnc,crc,CrebA,crp,FoxP,Hrb87F,hth,klu,Mef2,Mitf,Mnt,NfI,NK7.1,opa,Pdp1,scro,scrt,slbo,sr,sv,toy,zfh2
+Proboscis	RYa-R	br,bru3,BtbVII,caup,Cf2,CG9650,CHES-1-like,CrebB,crp,CycT,Fer1,FoxK,GATAe,Hesr,kay,lms,Mad,Mef2,Mitf,Myc,onecut,otp,pdm2,Pdp1,Rbp6,rn,sr,Trf2,trx,vtd
+Proboscis	SIFaR	Abl,Awh,bru3,BtbVII,CG16779,E2f1,Ets65A,FoxK,foxo,Hnf4,knrl,Mef2,nej,NfI,Oli,onecut,Rbp6,rn,Rx,scro,Sox102F,SoxN,sr,vnd
+Proboscis	SPR	Abl,bab1,bru3,BtbVII,cg,CG16779,CG9650,CHES-1-like,cnc,CycT,Dfd,E2f1,ERR,foxo,grn,Hnf4,Mef2,NfI,OdsH,onecut,ovo,Rbp6,repo,Rfx,rn,run,SoxN,sr,ss,TfAP-2,Trf2,vri
+Proboscis	TkR86C	Dfd,Dref,Ets98B,fkh,foxo,H15,Hnf4,Mef2,onecut,peb,Rbp6,slp1,sr,Trf2
+Proboscis	TkR99D	BtbVII,byn,CHES-1-like,ewg,foxo,Hnf4,Hr3,Mad,onecut,pan,pdm2,pho,Rfx,rn,Rx,SoxN
+Proboscis	Tor	Atf3,CrebB,grh,kay,Mef2,Myc,Rel,Trf2,trx,Xbp1
+Proboscis	TrissinR	Cf2,CG11085,crc,CrebA,crp,ewg,Hnf4,kn,kni,Mef2,onecut,peb,Rel,Rfx,sr,ss,Trf2
+Proboscis	hec	CG16779,CG5245,ey,Rfx
+Proboscis	rk	Abl,Atf6,bru3,CG16779,CG17802,FoxK,hth,nej,onecut,pho,Rbp6,repo,RunxA,sr,toy,Trf2,Vsx2
+Proboscis	sNPF-R	Awh,BtbVII,cg,CG16779,CG9650,CHES-1-like,cnc,crc,crp,CycT,Dif,E2f1,eyg,grh,HGTX,Mef2,Mitf,Mondo,nej,NfI,onecut,otp,pan,Pdp1,Rbp6,Rfx,scro,sob,Sox21b,Trf2,trx,Usf,vri
+Testis	AkhR	Atf3,Hnf4,REPTOR-BP,srp
+Testis	AstA-R1	cnc,klu,pan,Trf2,yps
+Testis	AstA-R2	Lmx1a,Mef2,NfI
+Testis	AstC-R1	Lmx1a,NfI,slp2
+Testis	AstC-R2	slp2,SREBP
+Testis	CCAP-R	Antp,bs,cnc,Mondo,ovo,pnt,tj,Trf2
+Testis	CCHa1-R	Atf3,kay,Mef2,Poxm,slp2
+Testis	CCKLR-17D3	Trf2
+Testis	CNMaR	kay,Mef2
+Testis	CrzR	klu
+Testis	Dh31-R	cnc,Cnx99A,CrebB,Dll,kay,Mef2,SoxN,Trf2,Vsx2
+Testis	Dh44-R1	gt,Lmx1a,Trf2
+Testis	Dh44-R2	Mef2,pan
+Testis	ETHR	Atf3,bs,pan
+Testis	FMRFaR	Atf3,kay,Mef2
+Testis	Gyc76C	Abl,Eip74EF,Mef2,ovo
+Testis	InR	Abl,Atf3,cnc,Cnx99A,CrebB,Dif,E2f1,kay,lola,Mnt,Myc,pan,Sox14,Stat92E,Xbp1
+Testis	Lgr1	Mef2
+Testis	Lgr3	Cnx99A,Xbp1
+Testis	Lgr4	CrebB,kay,Mef2
+Testis	Lkr	Mef2
+Testis	MsR1	Chrac-14
+Testis	MsR2	Atf3,Dif,Mef2,NfI,org-1,pnr,Rel,repo,slp2,srp
+Testis	NPFR	kay,Mef2,srp
+Testis	PK2-R2	Mef2,NfI,Poxm
+Testis	Pdfr	Atf3,Dif,E2f1,Sox100B,Trf2
+Testis	Proc-R	Atf3,cnc,kay,Mitf,ovo,SREBP
+Testis	RYa-R	CG11294,cnc,Mef2,ovo
+Testis	SIFaR	bs,Dp,Hsf,Trf2
+Testis	SPR	Abl,REPTOR-BP,Trf2
+Testis	TkR86C	BEAF-32
+Testis	Tor	Mef2
+Testis	TrissinR	Mef2
+Testis	hec	Trf2
+Testis	rk	Abl,cnc,Hr78,kay,lola,Mef2,Sox14
+Testis	sNPF-R	Abd-B,Atf3,Dif,Dr,Lmx1a,Poxm
+Trachea	AkhR	Atf6,Cf2,foxo,Mitf,Mondo,SREBP,srp,svp
+Trachea	AstA-R1	Abl,Atf3,Atf6,bsh,btd,Cf2,CG11085,CG16779,crc,Dif,dmrt93B,E2f2,Ets96B,GATAe,grh,hb,HLH4C,jim,Lim3,Mef2,onecut,RunxB,Rx,scro,usp,vri
+Trachea	AstA-R2	Lmx1a,NfI,org-1,SoxN
+Trachea	AstC-R1	acj6,hbn,oc,onecut,org-1,pdm2,repo,zfh1
+Trachea	AstC-R2	Abd-B,org-1,SoxN
+Trachea	CCAP-R	Atf3,Atf6,Cf2,CHES-1-like,crc,CrebB,cwo,Dad,Dif,E2f1,E2f2,EcR,ems,ewg,exd,fkh,Got1,grh,Hrb98DE,Hsf,jim,lola,maf-S,Mes2,mirr,nej,org-1,pho,pnt,Rab7,trx,twi,vri,Xrp1,zld
+Trachea	CCHa1-R	abd-A,CG16779,onecut,zfh1
+Trachea	CCHa2-R	byn,CG11085,crc,croc,Hsf,Jra,Xbp1
+Trachea	CCKLR-17D1	CG11294,hbn,pb
+Trachea	CCKLR-17D3	CG16779
+Trachea	CNMaR	Atf3,byn,caz,CHES-1-like,crc,Doc1,E2f1,E2f2,FoxK,foxo,grh,kay,Mef2,Mitf,Mondo,Pdp1,ro,Xbp1
+Trachea	CrzR	Dr,ERR,SREBP,svp,Xbp1
+Trachea	Dh31-R	abd-A,aop,bs,cwo,E2f1,E5,grh,Hsf,hth,jim,kay,sima,Sox14,Ubx,vri
+Trachea	Dh44-R1	acj6,CG11294,CG16779,CG32532,Ets96B,kn,oc,sr
+Trachea	Dh44-R2	Atf3,Atf6,bs,byn,Cf2,CHES-1-like,CrebB,Ets96B,FoxK,GATAe,grh,kay,Lim3,Mef2,Mitf,pnt,scro,svp,Xbp1
+Trachea	ETHR	abd-A,Adf1,Aef1,aop,bs,cnc,cwo,E2f1,E5,grh,hth,jim,Jra,kay,maf-S,mor,nej,pho,Rab7,sd,Sox14,tai,Ubx
+Trachea	FMRFaR	CG11294,Ets96B,sr
+Trachea	Gyc76C	Abl,Atf3,BtbVII,Cf2,CG2116,CG3065,CG5245,CrebB,crp,da,Doc3,Dp,Dref,E2f1,E2f2,Ets97D,exd,FoxK,foxo,grh,Hsf,jim,Jra,jumu,Mef2,Mitf,nej,Pdp1,Rbf2,Rel,Rfx,Spps,Trf2,trx,Xbp1,ZIPIC
+Trachea	InR	Abl,aop,Atf3,BtbVII,byn,Cf2,CHES-1-like,cnc,crc,CrebB,crp,da,Dad,Dif,DNApol-iota,E2f1,Ets21C,exd,foxo,ftz-f1,grh,jim,Jra,kay,Mef2,Mitf,Mnt,Mondo,nej,NFAT,Pdp1,Rfx,Sox14,Trf2,trx,vri,Xbp1,Xrp1,Zif
+Trachea	Lgr1	Atf3,crc,crp,grh,Mef2,pnt
+Trachea	Lgr3	ken,onecut,PHDP
+Trachea	Lgr4	abd-A,CG16779,croc,ftz-f1,ken,org-1,pdm2,repo,Six4,tj
+Trachea	Lkr	cnc,fkh,Hnf4,Mef2,nub,oc,sc
+Trachea	MsR1	Adf1,Aef1,Atf3,Atf6,CrebB,Dif,E2f1,E2f2,ems,ewg,exd,fkh,grh,Hrb98DE,maf-S,Mes2,mirr,Rab7,retn,sd,usp,vri
+Trachea	MsR2	abd-A,Mef2,NfI,onecut,org-1
+Trachea	NPFR	Ets96B,GATAe,org-1
+Trachea	PK1-R	Dif,grh,Mef2
+Trachea	PK2-R1	acj6,NfI,ss
+Trachea	PK2-R2	NfI,opa
+Trachea	Pdfr	Atf3,Cf2,Dif,foxo,Mef2,Mondo,NfI,onecut,Rfx,srp,svp
+Trachea	Proc-R	abd-A,bs,cwo,Dad,E5,Got1,grh,jim,kay,Rab7,sd,sima,Sox14,trx,vri
+Trachea	RYa-R	Abl,al,Atf3,BtbVII,byn,cad,Cf2,Doc2,foxo,grh,Mef2,Mitf,otp,Pdp1,pnt,Rfx,vri
+Trachea	SIFaR	Bro,Ets65A,ftz-f1,onecut,Ptx1
+Trachea	SPR	abd-A,Abl,B-H2,byn,Cf2,cnc,crc,Dbx,dmrt93B,Drgx,lbl,Lim1,pnr,repo,vri,Xbp1,Xrp1
+Trachea	TkR86C	acj6,CG11085,onecut,slou,slp1
+Trachea	TkR99D	BEAF-32,BtbVII,caz,Cf2,CG11294,CG12219,CG14667,CG2116,CG7101,croc,cyc,Dref,E2f2,GATAe,Hsf,Jra,Rbf,Rbf2,Rel,Tbp,tgo,Topors,Trf2,Xbp1
+Trachea	Tor	BEAF-32,byn,Cf2,CG2116,E2f2,Mitf,Tbp,Trf2,Zif
+Trachea	TrissinR	bigmax,Cf2,CrebB,Dp,E2f1,Ets65A,kay,Mef2,onecut,org-1,Rx,sim,srp,vri
+Trachea	hec	CG16779,ey
+Trachea	rk	Dll,en,inv,lbl,OdsH,pb,SoxN,Vsx1,zfh1
+Trachea	sNPF-R	Atf3,BtbVII,byn,caz,Cf2,CG16779,CHES-1-like,crp,Dif,E2f1,FoxK,foxo,GATAe,grh,Hnf4,inv,jim,lbe,Mef2,Mitf,NFAT,Rfx,Rx,svp,Vsx1
+Wing	AkhR	Atf6,Cf2,CHES-1-like,Dref,foxo,Mitf,Mondo,Rel,SREBP,srp,svp,unc-4,usp
+Wing	AstA-R1	Abl,BEAF-32,da,Dp,fkh,GATAd,grn,jim,kay,Mef2,Mitf,NFAT,onecut,pan,peb,pho,Sidpn,slbo,sr,ss,svp
+Wing	AstC-R1	BEAF-32,CrebB,FoxK,HHEX,jim,Lim3,Mef2,onecut,peb,svp,tup
+Wing	AstC-R2	BEAF-32,CHES-1-like,crc,crp,da,Dbx,Dr,Jra,Mef2,onecut,REPTOR-BP,sr,tgo,Trf2,Usf,Xbp1
+Wing	CCAP-R	Atf3,Atf6,CG18081,CG7839,CHES-1-like,ci,cnc,crc,CrebA,CrebB,crp,da,Dif,Dp,Dr,dysf,E2f1,Eip74EF,Eip75B,en,foxo,grh,Hnf4,Hr78,Hsf,hth,Jra,kay,Mad,Mef2,mid,NFAT,Rel,REPTOR-BP,Sox102F,Sox14,Stat92E,svp,Trf2,twi,vri,vtd,Xbp1,zfh2
+Wing	CCHa1-R	Abl,dar1,E2f1,grn,HHEX,Lim3,onecut,peb,ss,Trf2,tup
+Wing	CCHa2-R	CG9727,Ets21C,HDAC1,nej,ss
+Wing	CCKLR-17D1	Atf3,CrebA,ERR,Hsf,kay,Mef2,onecut,ss,vis,Xbp1
+Wing	CCKLR-17D3	jim,onecut,sr,Trf2,unc-4
+Wing	CNMaR	Abl,achi,bbx,crc,E2f1,grh,Hnf4,inv,Jra,Mef2,Mnt,oc,onecut,pho,Rel,Xbp1
+Wing	CrzR	Atf6,Clk,cnc,crc,CrebA,crp,Doc2,E2f1,grh,grn,Hnf4,Hsf,kay,Mitf,NFAT,Pdp1,ss,vri,Xbp1,zfh2
+Wing	Dh31-R	Abl,CG13775,CHES-1-like,crc,CrebB,crp,Dbx,Ets65A,FoxK,fru,GATAd,GATAe,grn,jim,Mef2,Myc,onecut,pan,peb,ss,Trf2,Usf,vtd,Xbp1
+Wing	Dh44-R1	Lim3,onecut,Rb97D
+Wing	Dh44-R2	Atf3,bbx,CHES-1-like,CrebA,E2f1,ERR,FoxK,grh,Hnf4,Hr78,kay,Mitf,Mondo,pan,Sox14,ss,sv,svp,Trf2,trx,Xbp1
+Wing	ETHR	D,HHEX,scro,SoxN
+Wing	FMRFaR	Atf3,bs,CHES-1-like,crp,jim,Mef2,onecut,pan,Rx,snRNP-U1-70K,sr,ss,svp,tup,vnd,Xbp1
+Wing	Gyc76C	Abl,achi,Atf3,CG5245,CHES-1-like,ci,crc,CrebA,crp,E2f1,Eip74EF,foxo,grh,Hnf4,Hr78,jim,kay,ken,Mnt,Myc,nej,org-1,Pdp1,Sox14,Stat92E,Trf2,vri,Xbp1,Xrp1
+Wing	InR	Abl,Atf6,Blimp-1,CHES-1-like,cnc,CrebA,crp,Eip74EF,foxo,grh,Hnf4,kay,lola,Mef2,nej,NFAT,pan,sd,Sox102F,trx,vri,Xbp1,Xrp1
+Wing	Lgr1	Atf3,ci,Clk,crc,CrebB,dysf,Jra,kay,Lim3,Mef2,sr,Xbp1
+Wing	Lgr3	Dref,HHEX,jim,lms
+Wing	Lgr4	E2f1,Mef2
+Wing	Lkr	CG34367,CHES-1-like,crp,cyc,FoxK,grn,jim,Mef2,onecut,sr,ss,svp,trx,Usf
+Wing	MsR1	CG4935,mid
+Wing	MsR2	Abd-B,Atf3,CHES-1-like,crc,crp,FoxK,kay,Lim3,Mitf,onecut,pan,pnr,pnt,Rb97D,sr,srp,Stat92E,svp,TfIIB,tgo,tup,Usf,usp,vnd,vtd,Xbp1
+Wing	NPFR	ase,Atf3,BEAF-32,CG9609,crc,CrebB,crp,GATAe,Mef2,onecut,slbo,ss,Xbp1
+Wing	PK1-R	Cf2,dysf,foxo,grh,HHEX,Hnf4,kay,Rel
+Wing	PK2-R1	Atf3,bbx,bs,cad,crc,CrebB,FoxK,Hsf,kay,Mef2,Myc,Nf-YC,NfI,onecut,REPTOR-BP,ss,Taf1,vtd,Xbp1
+Wing	Pdfr	E2f1,Mef2,Mondo,onecut,pan,Pdp1,Pur-alpha,srp,svp,Trf2
+Wing	Proc-R	abd-A,Antp,bigmax,CG16779,fru,gsb-n,Kah,Lim1,Mef2,nau,repo
+Wing	RYa-R	Atf3,caup,cg,CHES-1-like,ci,CrebA,CrebB,crp,dysf,E2f1,ewg,grh,Hnf4,Hr78,Hsf,kay,lola,Mef2,mid,Mitf,Myc,NFAT,onecut,Pdp1,peb,REPTOR-BP,Sox14,srl,ss,Tbp,Trf2,Xbp1
+Wing	SIFaR	CG7362,crc,Hr3,onecut,prd,ss,tup,vnd
+Wing	SPR	Abl,Aef1,Antp,Atf3,bs,CHES-1-like,crc,crp,fru,grn,jim,kay,Mef2,mor,onecut,peb,pnt,repo,slp1,slp2,sr,ss,Taf1,Trf2
+Wing	TkR86C	D,Ets65A,FoxK,Lim3,onecut,Pdp1,ss
+Wing	TkR99D	Abl,Blimp-1,crp,da,dysf,Jra,pan,REPTOR-BP
+Wing	Tor	BEAF-32,crp,da,grh,jim,Jra,kay,onecut,Pdp1,sr,Trf2,trx,vtd,Xbp1
+Wing	TrissinR	Atf3,BEAF-32,bs,CG13775,crc,crp,Hsf,Jra,kay,Mondo,Nf-YC,onecut,peb,Rx,sr,ss,svp,Trf2,Usf,Xbp1
+Wing	hec	lbl,SoxN
+Wing	rk	pnr,pnt,Rb97D
+Wing	sNPF-R	Abd-B,BEAF-32,bigmax,bs,cg,cnc,crp,Dr,foxo,grh,hb,Hnf4,Hsf,jim,Jra,kay,Mad,Mef2,NFAT,onecut,pb,Pdp1,repo,slp1,svp,Trf2,trx
