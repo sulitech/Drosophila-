@@ -1,0 +1,2262 @@
+tname	annotation	tfgenename	tfcount	npgenename	npcount	nprgenename	nprcount
+Head	adult brain perineurial glial cell	Atac3	37	sNPF	37	sNPF-R	37
+Head	adult brain perineurial glial cell	CG16779	8	AstA	8	AstA-R1	8
+Head	adult brain perineurial glial cell	CG16779	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	CG44247	4	FMRFa	4	FMRFaR	4
+Head	adult brain perineurial glial cell	CG44247	147	sNPF	147	sNPF-R	147
+Head	adult brain perineurial glial cell	Cf2	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	CrebB	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	E2f1	3	AstC	3	AstC-R2	3
+Head	adult brain perineurial glial cell	Mef2	111	sNPF	111	sNPF-R	111
+Head	adult brain perineurial glial cell	Psi	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	Rbp6	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	Rfx	3	AstC	3	AstC-R2	3
+Head	adult brain perineurial glial cell	Rfx	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	Rx	8	AstA	8	AstA-R1	8
+Head	adult brain perineurial glial cell	Tet	8	AstA	8	AstA-R1	8
+Head	adult brain perineurial glial cell	Tet	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	Trf2	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	bru3	8	AstA	8	AstA-R1	8
+Head	adult brain perineurial glial cell	crp	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	dimm	3	AstC	3	AstC-R2	3
+Head	adult brain perineurial glial cell	hth	32	AstA	32	AstA-R1	32
+Head	adult brain perineurial glial cell	hth	156	sNPF	156	sNPF-R	156
+Head	adult brain perineurial glial cell	luna	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	onecut	105	sNPF	105	sNPF-R	105
+Head	adult brain perineurial glial cell	sima	42	sNPF	42	sNPF-R	42
+Head	adult brain perineurial glial cell	sr	4	FMRFa	4	FMRFaR	4
+Head	adult brain perineurial glial cell	sr	126	sNPF	126	sNPF-R	126
+Head	adult brain perineurial glial cell	svp	87	sNPF	87	sNPF-R	87
+Head	adult fat body	Atac3	1	sNPF	1	sNPF-R	1
+Head	adult fat body	CG16779	1	sNPF	1	sNPF-R	1
+Head	adult fat body	CG44247	4	sNPF	4	sNPF-R	4
+Head	adult fat body	Cf2	1	sNPF	1	sNPF-R	1
+Head	adult fat body	CrebB	1	sNPF	1	sNPF-R	1
+Head	adult fat body	Mef2	4	sNPF	4	sNPF-R	4
+Head	adult fat body	Psi	1	sNPF	1	sNPF-R	1
+Head	adult fat body	Rbp6	1	sNPF	1	sNPF-R	1
+Head	adult fat body	Rfx	1	sNPF	1	sNPF-R	1
+Head	adult fat body	Tet	1	sNPF	1	sNPF-R	1
+Head	adult fat body	Trf2	1	sNPF	1	sNPF-R	1
+Head	adult fat body	crp	1	sNPF	1	sNPF-R	1
+Head	adult fat body	hth	4	sNPF	4	sNPF-R	4
+Head	adult fat body	luna	1	sNPF	1	sNPF-R	1
+Head	adult fat body	onecut	1	sNPF	1	sNPF-R	1
+Head	adult fat body	sima	1	sNPF	1	sNPF-R	1
+Head	adult fat body	sr	4	sNPF	4	sNPF-R	4
+Head	adult fat body	svp	4	sNPF	4	sNPF-R	4
+Head	adult lamina epithelial/marginal glial cell	Atac3	10	sNPF	10	sNPF-R	10
+Head	adult lamina epithelial/marginal glial cell	CG16779	3	AstA	3	AstA-R1	3
+Head	adult lamina epithelial/marginal glial cell	CG16779	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	CG44247	4	FMRFa	4	FMRFaR	4
+Head	adult lamina epithelial/marginal glial cell	CG44247	49	sNPF	49	sNPF-R	49
+Head	adult lamina epithelial/marginal glial cell	Cf2	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	CrebB	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	Mef2	31	sNPF	31	sNPF-R	31
+Head	adult lamina epithelial/marginal glial cell	Psi	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	Rbp6	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	Rfx	1	NPF	1	NPFR	1
+Head	adult lamina epithelial/marginal glial cell	Rfx	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	Rx	3	AstA	3	AstA-R1	3
+Head	adult lamina epithelial/marginal glial cell	Tet	3	AstA	3	AstA-R1	3
+Head	adult lamina epithelial/marginal glial cell	Tet	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	Trf2	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	bru3	3	AstA	3	AstA-R1	3
+Head	adult lamina epithelial/marginal glial cell	crp	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	dimm	1	NPF	1	NPFR	1
+Head	adult lamina epithelial/marginal glial cell	hth	12	AstA	12	AstA-R1	12
+Head	adult lamina epithelial/marginal glial cell	hth	52	sNPF	52	sNPF-R	52
+Head	adult lamina epithelial/marginal glial cell	luna	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	onecut	28	sNPF	28	sNPF-R	28
+Head	adult lamina epithelial/marginal glial cell	sima	13	sNPF	13	sNPF-R	13
+Head	adult lamina epithelial/marginal glial cell	sr	4	FMRFa	4	FMRFaR	4
+Head	adult lamina epithelial/marginal glial cell	sr	40	sNPF	40	sNPF-R	40
+Head	adult lamina epithelial/marginal glial cell	svp	19	sNPF	19	sNPF-R	19
+Head	adult olfactory receptor neuron Gr21a/63a	Atac3	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	CG16779	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	CG44247	8	sNPF	8	sNPF-R	8
+Head	adult olfactory receptor neuron Gr21a/63a	Cf2	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	CrebB	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	Mef2	5	sNPF	5	sNPF-R	5
+Head	adult olfactory receptor neuron Gr21a/63a	Psi	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	Rbp6	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	Rfx	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	Tet	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	Trf2	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	crp	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	hth	8	sNPF	8	sNPF-R	8
+Head	adult olfactory receptor neuron Gr21a/63a	luna	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	onecut	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	sima	2	sNPF	2	sNPF-R	2
+Head	adult olfactory receptor neuron Gr21a/63a	sr	5	sNPF	5	sNPF-R	5
+Head	adult olfactory receptor neuron Gr21a/63a	svp	5	sNPF	5	sNPF-R	5
+Head	adult optic chiasma glial cell	Atac3	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	CG16779	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	CG44247	4	FMRFa	4	FMRFaR	4
+Head	adult optic chiasma glial cell	CG44247	8	sNPF	8	sNPF-R	8
+Head	adult optic chiasma glial cell	Cf2	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	CrebB	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	Mef2	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	Psi	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	Rbp6	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	Rfx	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	Tet	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	Trf2	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	crp	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	hth	8	sNPF	8	sNPF-R	8
+Head	adult optic chiasma glial cell	luna	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	onecut	5	sNPF	5	sNPF-R	5
+Head	adult optic chiasma glial cell	sima	2	sNPF	2	sNPF-R	2
+Head	adult optic chiasma glial cell	sr	1	FMRFa	1	FMRFaR	1
+Head	adult optic chiasma glial cell	sr	5	sNPF	5	sNPF-R	5
+Head	adult optic chiasma glial cell	svp	5	sNPF	5	sNPF-R	5
+Head	adult reticular neuropil associated glial cell	Atac3	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	CG16779	7	AstA	7	AstA-R1	7
+Head	adult reticular neuropil associated glial cell	CG16779	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	CG44247	4	FMRFa	4	FMRFaR	4
+Head	adult reticular neuropil associated glial cell	CG44247	138	sNPF	138	sNPF-R	138
+Head	adult reticular neuropil associated glial cell	Cf2	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	CrebB	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	E2f1	3	AstC	3	AstC-R2	3
+Head	adult reticular neuropil associated glial cell	Mef2	75	sNPF	75	sNPF-R	75
+Head	adult reticular neuropil associated glial cell	Psi	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	Rbp6	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	Rfx	3	AstC	3	AstC-R2	3
+Head	adult reticular neuropil associated glial cell	Rfx	1	NPF	1	NPFR	1
+Head	adult reticular neuropil associated glial cell	Rfx	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	Rx	7	AstA	7	AstA-R1	7
+Head	adult reticular neuropil associated glial cell	Tet	7	AstA	7	AstA-R1	7
+Head	adult reticular neuropil associated glial cell	Tet	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	Trf2	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	bru3	7	AstA	7	AstA-R1	7
+Head	adult reticular neuropil associated glial cell	crp	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	dimm	3	AstC	3	AstC-R2	3
+Head	adult reticular neuropil associated glial cell	dimm	1	NPF	1	NPFR	1
+Head	adult reticular neuropil associated glial cell	hth	28	AstA	28	AstA-R1	28
+Head	adult reticular neuropil associated glial cell	hth	144	sNPF	144	sNPF-R	144
+Head	adult reticular neuropil associated glial cell	luna	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	onecut	81	sNPF	81	sNPF-R	81
+Head	adult reticular neuropil associated glial cell	sima	36	sNPF	36	sNPF-R	36
+Head	adult reticular neuropil associated glial cell	sr	4	FMRFa	4	FMRFaR	4
+Head	adult reticular neuropil associated glial cell	sr	96	sNPF	96	sNPF-R	96
+Head	adult reticular neuropil associated glial cell	svp	84	sNPF	84	sNPF-R	84
+Head	alpha/beta Kenyon cell	Atac3	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	CG16779	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	CG44247	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	Cf2	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	CrebB	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	E2f1	1	AstC	1	AstC-R2	1
+Head	alpha/beta Kenyon cell	Mef2	4	sNPF	4	sNPF-R	4
+Head	alpha/beta Kenyon cell	Psi	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	Rbp6	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	Rfx	1	AstC	1	AstC-R2	1
+Head	alpha/beta Kenyon cell	Rfx	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	Tet	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	Trf2	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	crp	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	dimm	1	AstC	1	AstC-R2	1
+Head	alpha/beta Kenyon cell	hth	4	sNPF	4	sNPF-R	4
+Head	alpha/beta Kenyon cell	luna	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	onecut	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	sima	1	sNPF	1	sNPF-R	1
+Head	alpha/beta Kenyon cell	sr	4	sNPF	4	sNPF-R	4
+Head	alpha/beta Kenyon cell	svp	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	Atac3	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	CG16779	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	CG44247	13	sNPF	13	sNPF-R	13
+Head	alpha´/beta´ Kenyon cell	Cf2	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	CrebB	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	E2f1	1	AstC	1	AstC-R2	1
+Head	alpha´/beta´ Kenyon cell	Mef2	7	sNPF	7	sNPF-R	7
+Head	alpha´/beta´ Kenyon cell	Psi	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	Rbp6	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	Rfx	1	AstC	1	AstC-R2	1
+Head	alpha´/beta´ Kenyon cell	Rfx	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	Tet	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	Trf2	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	crp	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	dimm	1	AstC	1	AstC-R2	1
+Head	alpha´/beta´ Kenyon cell	hth	16	sNPF	16	sNPF-R	16
+Head	alpha´/beta´ Kenyon cell	luna	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	onecut	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	sima	4	sNPF	4	sNPF-R	4
+Head	alpha´/beta´ Kenyon cell	sr	10	sNPF	10	sNPF-R	10
+Head	alpha´/beta´ Kenyon cell	svp	16	sNPF	16	sNPF-R	16
+Head	antennal lobe projection neuron	CG16779	1	AstA	1	AstA-R1	1
+Head	antennal lobe projection neuron	Rx	1	AstA	1	AstA-R1	1
+Head	antennal lobe projection neuron	Tet	1	AstA	1	AstA-R1	1
+Head	antennal lobe projection neuron	bru3	1	AstA	1	AstA-R1	1
+Head	antennal lobe projection neuron	hth	4	AstA	4	AstA-R1	4
+Head	artefact	Atac3	128	sNPF	128	sNPF-R	128
+Head	artefact	CG16779	19	AstA	19	AstA-R1	19
+Head	artefact	CG16779	128	sNPF	128	sNPF-R	128
+Head	artefact	CG44247	32	FMRFa	32	FMRFaR	32
+Head	artefact	CG44247	482	sNPF	482	sNPF-R	482
+Head	artefact	Cf2	128	sNPF	128	sNPF-R	128
+Head	artefact	CrebB	128	sNPF	128	sNPF-R	128
+Head	artefact	E2f1	21	AstC	21	AstC-R2	21
+Head	artefact	Mef2	341	sNPF	341	sNPF-R	341
+Head	artefact	Psi	128	sNPF	128	sNPF-R	128
+Head	artefact	Rbp6	128	sNPF	128	sNPF-R	128
+Head	artefact	Rfx	21	AstC	21	AstC-R2	21
+Head	artefact	Rfx	1	NPF	1	NPFR	1
+Head	artefact	Rfx	128	sNPF	128	sNPF-R	128
+Head	artefact	Rx	19	AstA	19	AstA-R1	19
+Head	artefact	Tet	20	AstA	20	AstA-R1	20
+Head	artefact	Tet	128	sNPF	128	sNPF-R	128
+Head	artefact	Trf2	128	sNPF	128	sNPF-R	128
+Head	artefact	bru3	19	AstA	19	AstA-R1	19
+Head	artefact	crp	128	sNPF	128	sNPF-R	128
+Head	artefact	dimm	21	AstC	21	AstC-R2	21
+Head	artefact	dimm	1	NPF	1	NPFR	1
+Head	artefact	hth	76	AstA	76	AstA-R1	76
+Head	artefact	hth	512	sNPF	512	sNPF-R	512
+Head	artefact	luna	128	sNPF	128	sNPF-R	128
+Head	artefact	onecut	128	sNPF	128	sNPF-R	128
+Head	artefact	sima	128	sNPF	128	sNPF-R	128
+Head	artefact	sr	29	FMRFa	29	FMRFaR	29
+Head	artefact	sr	362	sNPF	362	sNPF-R	362
+Head	artefact	svp	332	sNPF	332	sNPF-R	332
+Head	auditory sensory neuron	Atac3	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	CG16779	1	AstA	1	AstA-R1	1
+Head	auditory sensory neuron	CG16779	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	CG44247	32	sNPF	32	sNPF-R	32
+Head	auditory sensory neuron	Cf2	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	CrebB	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	Mef2	17	sNPF	17	sNPF-R	17
+Head	auditory sensory neuron	Psi	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	Rbp6	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	Rfx	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	Rx	1	AstA	1	AstA-R1	1
+Head	auditory sensory neuron	Tet	1	AstA	1	AstA-R1	1
+Head	auditory sensory neuron	Tet	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	Trf2	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	bru3	1	AstA	1	AstA-R1	1
+Head	auditory sensory neuron	crp	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	hth	4	AstA	4	AstA-R1	4
+Head	auditory sensory neuron	hth	32	sNPF	32	sNPF-R	32
+Head	auditory sensory neuron	luna	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	onecut	23	sNPF	23	sNPF-R	23
+Head	auditory sensory neuron	sima	8	sNPF	8	sNPF-R	8
+Head	auditory sensory neuron	sr	23	sNPF	23	sNPF-R	23
+Head	auditory sensory neuron	svp	20	sNPF	20	sNPF-R	20
+Head	centrifugal neuron C2	Atac3	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	CG16779	6	AstA	6	AstA-R1	6
+Head	centrifugal neuron C2	CG16779	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	CG44247	4	sNPF	4	sNPF-R	4
+Head	centrifugal neuron C2	Cf2	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	CrebB	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	Mef2	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	Psi	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	Rbp6	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	Rfx	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	Rx	6	AstA	6	AstA-R1	6
+Head	centrifugal neuron C2	Tet	6	AstA	6	AstA-R1	6
+Head	centrifugal neuron C2	Tet	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	Trf2	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	bru3	6	AstA	6	AstA-R1	6
+Head	centrifugal neuron C2	crp	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	hth	24	AstA	24	AstA-R1	24
+Head	centrifugal neuron C2	hth	4	sNPF	4	sNPF-R	4
+Head	centrifugal neuron C2	luna	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	onecut	4	sNPF	4	sNPF-R	4
+Head	centrifugal neuron C2	sima	1	sNPF	1	sNPF-R	1
+Head	centrifugal neuron C2	sr	4	sNPF	4	sNPF-R	4
+Head	centrifugal neuron C2	svp	4	sNPF	4	sNPF-R	4
+Head	centrifugal neuron C3	CG44247	4	FMRFa	4	FMRFaR	4
+Head	centrifugal neuron C3	sr	4	FMRFa	4	FMRFaR	4
+Head	columnar neuron T1	Atac3	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	CG16779	5	AstA	5	AstA-R1	5
+Head	columnar neuron T1	CG16779	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	CG44247	4	FMRFa	4	FMRFaR	4
+Head	columnar neuron T1	CG44247	78	sNPF	78	sNPF-R	78
+Head	columnar neuron T1	Cf2	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	CrebB	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	E2f1	11	AstC	11	AstC-R2	11
+Head	columnar neuron T1	Mef2	45	sNPF	45	sNPF-R	45
+Head	columnar neuron T1	Psi	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	Rbp6	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	Rfx	11	AstC	11	AstC-R2	11
+Head	columnar neuron T1	Rfx	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	Rx	5	AstA	5	AstA-R1	5
+Head	columnar neuron T1	Tet	5	AstA	5	AstA-R1	5
+Head	columnar neuron T1	Tet	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	Trf2	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	bru3	5	AstA	5	AstA-R1	5
+Head	columnar neuron T1	crp	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	dimm	11	AstC	11	AstC-R2	11
+Head	columnar neuron T1	hth	20	AstA	20	AstA-R1	20
+Head	columnar neuron T1	hth	81	sNPF	81	sNPF-R	81
+Head	columnar neuron T1	luna	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	onecut	24	sNPF	24	sNPF-R	24
+Head	columnar neuron T1	sima	21	sNPF	21	sNPF-R	21
+Head	columnar neuron T1	sr	4	FMRFa	4	FMRFaR	4
+Head	columnar neuron T1	sr	60	sNPF	60	sNPF-R	60
+Head	columnar neuron T1	svp	39	sNPF	39	sNPF-R	39
+Head	cone cell	Atac3	21	sNPF	21	sNPF-R	21
+Head	cone cell	CG16779	2	AstA	2	AstA-R1	2
+Head	cone cell	CG16779	21	sNPF	21	sNPF-R	21
+Head	cone cell	CG44247	81	sNPF	81	sNPF-R	81
+Head	cone cell	Cf2	21	sNPF	21	sNPF-R	21
+Head	cone cell	CrebB	21	sNPF	21	sNPF-R	21
+Head	cone cell	E2f1	3	AstC	3	AstC-R2	3
+Head	cone cell	Mef2	63	sNPF	63	sNPF-R	63
+Head	cone cell	Psi	21	sNPF	21	sNPF-R	21
+Head	cone cell	Rbp6	21	sNPF	21	sNPF-R	21
+Head	cone cell	Rfx	3	AstC	3	AstC-R2	3
+Head	cone cell	Rfx	21	sNPF	21	sNPF-R	21
+Head	cone cell	Rx	2	AstA	2	AstA-R1	2
+Head	cone cell	Tet	2	AstA	2	AstA-R1	2
+Head	cone cell	Tet	21	sNPF	21	sNPF-R	21
+Head	cone cell	Trf2	21	sNPF	21	sNPF-R	21
+Head	cone cell	bru3	2	AstA	2	AstA-R1	2
+Head	cone cell	crp	21	sNPF	21	sNPF-R	21
+Head	cone cell	dimm	3	AstC	3	AstC-R2	3
+Head	cone cell	hth	8	AstA	8	AstA-R1	8
+Head	cone cell	hth	78	sNPF	78	sNPF-R	78
+Head	cone cell	luna	21	sNPF	21	sNPF-R	21
+Head	cone cell	onecut	54	sNPF	54	sNPF-R	54
+Head	cone cell	sima	21	sNPF	21	sNPF-R	21
+Head	cone cell	sr	69	sNPF	69	sNPF-R	69
+Head	cone cell	svp	45	sNPF	45	sNPF-R	45
+Head	distal medullary amacrine neuron Dm10	Atac3	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	CG16779	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm10	CG16779	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	CG44247	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm10	Cf2	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	CrebB	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	Mef2	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm10	Psi	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	Rbp6	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	Rfx	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	Rx	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm10	Tet	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm10	Tet	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	Trf2	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	bru3	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm10	crp	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	hth	4	AstA	4	AstA-R1	4
+Head	distal medullary amacrine neuron Dm10	hth	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm10	luna	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	onecut	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	sima	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	sr	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm10	svp	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm12	CG16779	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm12	Rx	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm12	Tet	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm12	bru3	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm12	hth	4	AstA	4	AstA-R1	4
+Head	distal medullary amacrine neuron Dm3	CG16779	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm3	Rx	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm3	Tet	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm3	bru3	1	AstA	1	AstA-R1	1
+Head	distal medullary amacrine neuron Dm3	hth	4	AstA	4	AstA-R1	4
+Head	distal medullary amacrine neuron Dm8	Atac3	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	CG16779	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	CG44247	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm8	Cf2	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	CrebB	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	E2f1	1	AstC	1	AstC-R2	1
+Head	distal medullary amacrine neuron Dm8	Mef2	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm8	Psi	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	Rbp6	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	Rfx	1	AstC	1	AstC-R2	1
+Head	distal medullary amacrine neuron Dm8	Rfx	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	Tet	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	Trf2	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	crp	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	dimm	1	AstC	1	AstC-R2	1
+Head	distal medullary amacrine neuron Dm8	hth	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm8	luna	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	onecut	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	sima	2	sNPF	2	sNPF-R	2
+Head	distal medullary amacrine neuron Dm8	sr	8	sNPF	8	sNPF-R	8
+Head	distal medullary amacrine neuron Dm8	svp	5	sNPF	5	sNPF-R	5
+Head	distal medullary amacrine neuron Dm9	CG16779	3	AstA	3	AstA-R1	3
+Head	distal medullary amacrine neuron Dm9	E2f1	2	AstC	2	AstC-R2	2
+Head	distal medullary amacrine neuron Dm9	Rfx	2	AstC	2	AstC-R2	2
+Head	distal medullary amacrine neuron Dm9	Rx	3	AstA	3	AstA-R1	3
+Head	distal medullary amacrine neuron Dm9	Tet	3	AstA	3	AstA-R1	3
+Head	distal medullary amacrine neuron Dm9	bru3	3	AstA	3	AstA-R1	3
+Head	distal medullary amacrine neuron Dm9	dimm	2	AstC	2	AstC-R2	2
+Head	distal medullary amacrine neuron Dm9	hth	12	AstA	12	AstA-R1	12
+Head	dopaminergic PAM neuron	CG44247	1	FMRFa	1	FMRFaR	1
+Head	dopaminergic PAM neuron	sr	4	FMRFa	4	FMRFaR	4
+Head	ensheathing glial cell	Atac3	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	CG16779	9	AstA	9	AstA-R1	9
+Head	ensheathing glial cell	CG16779	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	CG44247	104	sNPF	104	sNPF-R	104
+Head	ensheathing glial cell	Cf2	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	CrebB	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	E2f1	2	AstC	2	AstC-R2	2
+Head	ensheathing glial cell	Mef2	77	sNPF	77	sNPF-R	77
+Head	ensheathing glial cell	Psi	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	Rbp6	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	Rfx	2	AstC	2	AstC-R2	2
+Head	ensheathing glial cell	Rfx	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	Rx	9	AstA	9	AstA-R1	9
+Head	ensheathing glial cell	Tet	9	AstA	9	AstA-R1	9
+Head	ensheathing glial cell	Tet	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	Trf2	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	bru3	9	AstA	9	AstA-R1	9
+Head	ensheathing glial cell	crp	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	dimm	2	AstC	2	AstC-R2	2
+Head	ensheathing glial cell	hth	33	AstA	33	AstA-R1	33
+Head	ensheathing glial cell	hth	113	sNPF	113	sNPF-R	113
+Head	ensheathing glial cell	luna	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	onecut	50	sNPF	50	sNPF-R	50
+Head	ensheathing glial cell	sima	29	sNPF	29	sNPF-R	29
+Head	ensheathing glial cell	sr	92	sNPF	92	sNPF-R	92
+Head	ensheathing glial cell	svp	47	sNPF	47	sNPF-R	47
+Head	epithelial cell	Atac3	15	sNPF	15	sNPF-R	15
+Head	epithelial cell	CG16779	2	AstA	2	AstA-R1	2
+Head	epithelial cell	CG16779	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	CG44247	76	sNPF	76	sNPF-R	76
+Head	epithelial cell	Cf2	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	CrebB	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	Mef2	64	sNPF	64	sNPF-R	64
+Head	epithelial cell	Psi	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	Rbp6	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	Rfx	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	Rx	2	AstA	2	AstA-R1	2
+Head	epithelial cell	Tet	2	AstA	2	AstA-R1	2
+Head	epithelial cell	Tet	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	Trf2	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	bru3	2	AstA	2	AstA-R1	2
+Head	epithelial cell	crp	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	hth	8	AstA	8	AstA-R1	8
+Head	epithelial cell	hth	73	sNPF	73	sNPF-R	73
+Head	epithelial cell	luna	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	onecut	55	sNPF	55	sNPF-R	55
+Head	epithelial cell	sima	19	sNPF	19	sNPF-R	19
+Head	epithelial cell	sr	70	sNPF	70	sNPF-R	70
+Head	epithelial cell	svp	64	sNPF	64	sNPF-R	64
+Head	gamma Kenyon cell	Atac3	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	CG16779	1	AstA	1	AstA-R1	1
+Head	gamma Kenyon cell	CG16779	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	CG44247	57	sNPF	57	sNPF-R	57
+Head	gamma Kenyon cell	Cf2	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	CrebB	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	Mef2	69	sNPF	69	sNPF-R	69
+Head	gamma Kenyon cell	Psi	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	Rbp6	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	Rfx	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	Rx	1	AstA	1	AstA-R1	1
+Head	gamma Kenyon cell	Tet	1	AstA	1	AstA-R1	1
+Head	gamma Kenyon cell	Tet	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	Trf2	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	bru3	1	AstA	1	AstA-R1	1
+Head	gamma Kenyon cell	crp	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	hth	4	AstA	4	AstA-R1	4
+Head	gamma Kenyon cell	hth	81	sNPF	81	sNPF-R	81
+Head	gamma Kenyon cell	luna	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	onecut	27	sNPF	27	sNPF-R	27
+Head	gamma Kenyon cell	sima	21	sNPF	21	sNPF-R	21
+Head	gamma Kenyon cell	sr	60	sNPF	60	sNPF-R	60
+Head	gamma Kenyon cell	svp	72	sNPF	72	sNPF-R	72
+Head	hemocyte	Atac3	17	sNPF	17	sNPF-R	17
+Head	hemocyte	CG16779	5	AstA	5	AstA-R1	5
+Head	hemocyte	CG16779	18	sNPF	18	sNPF-R	18
+Head	hemocyte	CG44247	72	sNPF	72	sNPF-R	72
+Head	hemocyte	Cf2	18	sNPF	18	sNPF-R	18
+Head	hemocyte	CrebB	18	sNPF	18	sNPF-R	18
+Head	hemocyte	Mef2	45	sNPF	45	sNPF-R	45
+Head	hemocyte	Psi	18	sNPF	18	sNPF-R	18
+Head	hemocyte	Rbp6	18	sNPF	18	sNPF-R	18
+Head	hemocyte	Rfx	18	sNPF	18	sNPF-R	18
+Head	hemocyte	Rx	5	AstA	5	AstA-R1	5
+Head	hemocyte	Tet	5	AstA	5	AstA-R1	5
+Head	hemocyte	Tet	18	sNPF	18	sNPF-R	18
+Head	hemocyte	Trf2	18	sNPF	18	sNPF-R	18
+Head	hemocyte	bru3	5	AstA	5	AstA-R1	5
+Head	hemocyte	crp	18	sNPF	18	sNPF-R	18
+Head	hemocyte	hth	20	AstA	20	AstA-R1	20
+Head	hemocyte	hth	72	sNPF	72	sNPF-R	72
+Head	hemocyte	luna	18	sNPF	18	sNPF-R	18
+Head	hemocyte	onecut	42	sNPF	42	sNPF-R	42
+Head	hemocyte	sima	18	sNPF	18	sNPF-R	18
+Head	hemocyte	sr	60	sNPF	60	sNPF-R	60
+Head	hemocyte	svp	33	sNPF	33	sNPF-R	33
+Head	Johnston organ neuron	Atac3	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	CG16779	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	CG44247	23	sNPF	23	sNPF-R	23
+Head	Johnston organ neuron	Cf2	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	CrebB	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	Mef2	11	sNPF	11	sNPF-R	11
+Head	Johnston organ neuron	Psi	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	Rbp6	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	Rfx	1	NPF	1	NPFR	1
+Head	Johnston organ neuron	Rfx	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	Tet	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	Trf2	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	crp	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	dimm	1	NPF	1	NPFR	1
+Head	Johnston organ neuron	hth	32	sNPF	32	sNPF-R	32
+Head	Johnston organ neuron	luna	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	onecut	17	sNPF	17	sNPF-R	17
+Head	Johnston organ neuron	sima	8	sNPF	8	sNPF-R	8
+Head	Johnston organ neuron	sr	26	sNPF	26	sNPF-R	26
+Head	Johnston organ neuron	svp	23	sNPF	23	sNPF-R	23
+Head	Kenyon cell	Atac3	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	CG16779	1	AstA	1	AstA-R1	1
+Head	Kenyon cell	CG16779	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	CG44247	18	sNPF	18	sNPF-R	18
+Head	Kenyon cell	Cf2	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	CrebB	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	E2f1	1	AstC	1	AstC-R2	1
+Head	Kenyon cell	Mef2	21	sNPF	21	sNPF-R	21
+Head	Kenyon cell	Psi	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	Rbp6	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	Rfx	1	AstC	1	AstC-R2	1
+Head	Kenyon cell	Rfx	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	Rx	1	AstA	1	AstA-R1	1
+Head	Kenyon cell	Tet	1	AstA	1	AstA-R1	1
+Head	Kenyon cell	Tet	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	Trf2	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	bru3	1	AstA	1	AstA-R1	1
+Head	Kenyon cell	crp	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	dimm	1	AstC	1	AstC-R2	1
+Head	Kenyon cell	hth	4	AstA	4	AstA-R1	4
+Head	Kenyon cell	hth	21	sNPF	21	sNPF-R	21
+Head	Kenyon cell	luna	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	onecut	9	sNPF	9	sNPF-R	9
+Head	Kenyon cell	sima	6	sNPF	6	sNPF-R	6
+Head	Kenyon cell	sr	18	sNPF	18	sNPF-R	18
+Head	Kenyon cell	svp	21	sNPF	21	sNPF-R	21
+Head	lamina intrinsic amacrine neuron Lai	Atac3	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	CG16779	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	CG44247	4	sNPF	4	sNPF-R	4
+Head	lamina intrinsic amacrine neuron Lai	Cf2	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	CrebB	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	Mef2	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	Psi	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	Rbp6	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	Rfx	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	Tet	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	Trf2	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	crp	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	hth	4	sNPF	4	sNPF-R	4
+Head	lamina intrinsic amacrine neuron Lai	luna	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	onecut	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	sima	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	sr	1	sNPF	1	sNPF-R	1
+Head	lamina intrinsic amacrine neuron Lai	svp	4	sNPF	4	sNPF-R	4
+Head	lamina monopolar neuron L2	CG16779	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L2	CG44247	4	FMRFa	4	FMRFaR	4
+Head	lamina monopolar neuron L2	Rx	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L2	Tet	5	AstA	5	AstA-R1	5
+Head	lamina monopolar neuron L2	bru3	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L2	hth	16	AstA	16	AstA-R1	16
+Head	lamina monopolar neuron L2	sr	4	FMRFa	4	FMRFaR	4
+Head	lamina monopolar neuron L3	Atac3	11	sNPF	11	sNPF-R	11
+Head	lamina monopolar neuron L3	CG16779	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L3	CG16779	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	CG44247	4	FMRFa	4	FMRFaR	4
+Head	lamina monopolar neuron L3	CG44247	48	sNPF	48	sNPF-R	48
+Head	lamina monopolar neuron L3	Cf2	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	CrebB	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	Mef2	42	sNPF	42	sNPF-R	42
+Head	lamina monopolar neuron L3	Psi	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	Rbp6	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	Rfx	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	Rx	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L3	Tet	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L3	Tet	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	Trf2	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	bru3	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L3	crp	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	hth	13	AstA	13	AstA-R1	13
+Head	lamina monopolar neuron L3	hth	48	sNPF	48	sNPF-R	48
+Head	lamina monopolar neuron L3	luna	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	onecut	24	sNPF	24	sNPF-R	24
+Head	lamina monopolar neuron L3	sima	12	sNPF	12	sNPF-R	12
+Head	lamina monopolar neuron L3	sr	4	FMRFa	4	FMRFaR	4
+Head	lamina monopolar neuron L3	sr	45	sNPF	45	sNPF-R	45
+Head	lamina monopolar neuron L3	svp	42	sNPF	42	sNPF-R	42
+Head	lamina monopolar neuron L4	CG16779	3	AstA	3	AstA-R1	3
+Head	lamina monopolar neuron L4	Rx	3	AstA	3	AstA-R1	3
+Head	lamina monopolar neuron L4	Tet	3	AstA	3	AstA-R1	3
+Head	lamina monopolar neuron L4	bru3	3	AstA	3	AstA-R1	3
+Head	lamina monopolar neuron L4	hth	12	AstA	12	AstA-R1	12
+Head	lamina monopolar neuron L5	CG16779	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L5	CG44247	1	FMRFa	1	FMRFaR	1
+Head	lamina monopolar neuron L5	Rx	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L5	Tet	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L5	bru3	4	AstA	4	AstA-R1	4
+Head	lamina monopolar neuron L5	hth	16	AstA	16	AstA-R1	16
+Head	lamina monopolar neuron L5	sr	4	FMRFa	4	FMRFaR	4
+Head	lamina wide-field 2 neuron	Atac3	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	CG16779	1	AstA	1	AstA-R1	1
+Head	lamina wide-field 2 neuron	CG16779	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	CG44247	4	sNPF	4	sNPF-R	4
+Head	lamina wide-field 2 neuron	Cf2	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	CrebB	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	Mef2	4	sNPF	4	sNPF-R	4
+Head	lamina wide-field 2 neuron	Psi	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	Rbp6	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	Rfx	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	Rx	1	AstA	1	AstA-R1	1
+Head	lamina wide-field 2 neuron	Tet	1	AstA	1	AstA-R1	1
+Head	lamina wide-field 2 neuron	Tet	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	Trf2	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	bru3	1	AstA	1	AstA-R1	1
+Head	lamina wide-field 2 neuron	crp	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	hth	4	AstA	4	AstA-R1	4
+Head	lamina wide-field 2 neuron	hth	4	sNPF	4	sNPF-R	4
+Head	lamina wide-field 2 neuron	luna	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	onecut	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	sima	1	sNPF	1	sNPF-R	1
+Head	lamina wide-field 2 neuron	sr	4	sNPF	4	sNPF-R	4
+Head	lamina wide-field 2 neuron	svp	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Atac3	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	CG16779	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	CG44247	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Cf2	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	CrebB	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Mef2	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Psi	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Rbp6	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Rfx	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Tet	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	Trf2	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	crp	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	hth	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC12	luna	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	onecut	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	sima	1	sNPF	1	sNPF-R	1
+Head	lobula columnar neuron LC12	sr	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC12	svp	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	Atac3	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	CG16779	1	AstA	1	AstA-R1	1
+Head	lobula columnar neuron LC17	CG16779	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	CG44247	13	sNPF	13	sNPF-R	13
+Head	lobula columnar neuron LC17	Cf2	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	CrebB	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	Mef2	10	sNPF	10	sNPF-R	10
+Head	lobula columnar neuron LC17	Psi	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	Rbp6	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	Rfx	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	Rx	1	AstA	1	AstA-R1	1
+Head	lobula columnar neuron LC17	Tet	1	AstA	1	AstA-R1	1
+Head	lobula columnar neuron LC17	Tet	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	Trf2	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	bru3	1	AstA	1	AstA-R1	1
+Head	lobula columnar neuron LC17	crp	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	hth	4	AstA	4	AstA-R1	4
+Head	lobula columnar neuron LC17	hth	16	sNPF	16	sNPF-R	16
+Head	lobula columnar neuron LC17	luna	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	onecut	7	sNPF	7	sNPF-R	7
+Head	lobula columnar neuron LC17	sima	4	sNPF	4	sNPF-R	4
+Head	lobula columnar neuron LC17	sr	13	sNPF	13	sNPF-R	13
+Head	lobula columnar neuron LC17	svp	10	sNPF	10	sNPF-R	10
+Head	medullary intrinsic neuron Mi1	Atac3	12	sNPF	12	sNPF-R	12
+Head	medullary intrinsic neuron Mi1	CG16779	10	AstA	10	AstA-R1	10
+Head	medullary intrinsic neuron Mi1	CG16779	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	CG44247	5	FMRFa	5	FMRFaR	5
+Head	medullary intrinsic neuron Mi1	CG44247	49	sNPF	49	sNPF-R	49
+Head	medullary intrinsic neuron Mi1	Cf2	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	CrebB	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	Mef2	34	sNPF	34	sNPF-R	34
+Head	medullary intrinsic neuron Mi1	Psi	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	Rbp6	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	Rfx	1	NPF	1	NPFR	1
+Head	medullary intrinsic neuron Mi1	Rfx	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	Rx	10	AstA	10	AstA-R1	10
+Head	medullary intrinsic neuron Mi1	Tet	10	AstA	10	AstA-R1	10
+Head	medullary intrinsic neuron Mi1	Tet	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	Trf2	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	bru3	10	AstA	10	AstA-R1	10
+Head	medullary intrinsic neuron Mi1	crp	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	dimm	1	NPF	1	NPFR	1
+Head	medullary intrinsic neuron Mi1	hth	40	AstA	40	AstA-R1	40
+Head	medullary intrinsic neuron Mi1	hth	52	sNPF	52	sNPF-R	52
+Head	medullary intrinsic neuron Mi1	luna	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	onecut	16	sNPF	16	sNPF-R	16
+Head	medullary intrinsic neuron Mi1	sima	13	sNPF	13	sNPF-R	13
+Head	medullary intrinsic neuron Mi1	sr	5	FMRFa	5	FMRFaR	5
+Head	medullary intrinsic neuron Mi1	sr	46	sNPF	46	sNPF-R	46
+Head	medullary intrinsic neuron Mi1	svp	46	sNPF	46	sNPF-R	46
+Head	medullary intrinsic neuron Mi15	Atac3	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	CG16779	1	AstA	1	AstA-R1	1
+Head	medullary intrinsic neuron Mi15	CG16779	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	CG44247	15	sNPF	15	sNPF-R	15
+Head	medullary intrinsic neuron Mi15	Cf2	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	CrebB	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	Mef2	18	sNPF	18	sNPF-R	18
+Head	medullary intrinsic neuron Mi15	Psi	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	Rbp6	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	Rfx	1	NPF	1	NPFR	1
+Head	medullary intrinsic neuron Mi15	Rfx	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	Rx	1	AstA	1	AstA-R1	1
+Head	medullary intrinsic neuron Mi15	Tet	1	AstA	1	AstA-R1	1
+Head	medullary intrinsic neuron Mi15	Tet	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	Trf2	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	bru3	1	AstA	1	AstA-R1	1
+Head	medullary intrinsic neuron Mi15	crp	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	dimm	1	NPF	1	NPFR	1
+Head	medullary intrinsic neuron Mi15	hth	4	AstA	4	AstA-R1	4
+Head	medullary intrinsic neuron Mi15	hth	24	sNPF	24	sNPF-R	24
+Head	medullary intrinsic neuron Mi15	luna	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	onecut	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	sima	6	sNPF	6	sNPF-R	6
+Head	medullary intrinsic neuron Mi15	sr	9	sNPF	9	sNPF-R	9
+Head	medullary intrinsic neuron Mi15	svp	18	sNPF	18	sNPF-R	18
+Head	medullary intrinsic neuron Mi4	Atac3	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	CG16779	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	CG44247	16	sNPF	16	sNPF-R	16
+Head	medullary intrinsic neuron Mi4	Cf2	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	CrebB	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	Mef2	10	sNPF	10	sNPF-R	10
+Head	medullary intrinsic neuron Mi4	Psi	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	Rbp6	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	Rfx	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	Tet	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	Trf2	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	crp	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	hth	16	sNPF	16	sNPF-R	16
+Head	medullary intrinsic neuron Mi4	luna	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	onecut	7	sNPF	7	sNPF-R	7
+Head	medullary intrinsic neuron Mi4	sima	4	sNPF	4	sNPF-R	4
+Head	medullary intrinsic neuron Mi4	sr	16	sNPF	16	sNPF-R	16
+Head	medullary intrinsic neuron Mi4	svp	16	sNPF	16	sNPF-R	16
+Head	medullary intrinsic neuron Mi9	Atac3	2	sNPF	2	sNPF-R	2
+Head	medullary intrinsic neuron Mi9	CG16779	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	CG44247	12	sNPF	12	sNPF-R	12
+Head	medullary intrinsic neuron Mi9	Cf2	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	CrebB	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	Mef2	9	sNPF	9	sNPF-R	9
+Head	medullary intrinsic neuron Mi9	Psi	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	Rbp6	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	Rfx	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	Tet	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	Trf2	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	crp	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	hth	9	sNPF	9	sNPF-R	9
+Head	medullary intrinsic neuron Mi9	luna	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	onecut	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	sima	3	sNPF	3	sNPF-R	3
+Head	medullary intrinsic neuron Mi9	sr	9	sNPF	9	sNPF-R	9
+Head	medullary intrinsic neuron Mi9	svp	9	sNPF	9	sNPF-R	9
+Head	ocellus retinula cell	Atac3	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	CG16779	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	CG44247	4	sNPF	4	sNPF-R	4
+Head	ocellus retinula cell	Cf2	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	CrebB	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	Mef2	4	sNPF	4	sNPF-R	4
+Head	ocellus retinula cell	Psi	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	Rbp6	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	Rfx	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	Tet	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	Trf2	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	crp	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	hth	4	sNPF	4	sNPF-R	4
+Head	ocellus retinula cell	luna	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	onecut	4	sNPF	4	sNPF-R	4
+Head	ocellus retinula cell	sima	1	sNPF	1	sNPF-R	1
+Head	ocellus retinula cell	sr	4	sNPF	4	sNPF-R	4
+Head	ocellus retinula cell	svp	4	sNPF	4	sNPF-R	4
+Head	octopaminergic/tyraminergic neuron	CG16779	2	AstA	2	AstA-R1	2
+Head	octopaminergic/tyraminergic neuron	Rx	2	AstA	2	AstA-R1	2
+Head	octopaminergic/tyraminergic neuron	Tet	2	AstA	2	AstA-R1	2
+Head	octopaminergic/tyraminergic neuron	bru3	2	AstA	2	AstA-R1	2
+Head	octopaminergic/tyraminergic neuron	hth	8	AstA	8	AstA-R1	8
+Head	olfactory receptor neuron	Atac3	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	CG16779	1	AstA	1	AstA-R1	1
+Head	olfactory receptor neuron	CG16779	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	CG44247	154	sNPF	154	sNPF-R	154
+Head	olfactory receptor neuron	Cf2	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	CrebB	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	Mef2	121	sNPF	121	sNPF-R	121
+Head	olfactory receptor neuron	Psi	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	Rbp6	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	Rfx	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	Rx	1	AstA	1	AstA-R1	1
+Head	olfactory receptor neuron	Tet	1	AstA	1	AstA-R1	1
+Head	olfactory receptor neuron	Tet	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	Trf2	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	bru3	1	AstA	1	AstA-R1	1
+Head	olfactory receptor neuron	crp	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	hth	4	AstA	4	AstA-R1	4
+Head	olfactory receptor neuron	hth	157	sNPF	157	sNPF-R	157
+Head	olfactory receptor neuron	luna	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	onecut	79	sNPF	79	sNPF-R	79
+Head	olfactory receptor neuron	sima	40	sNPF	40	sNPF-R	40
+Head	olfactory receptor neuron	sr	157	sNPF	157	sNPF-R	157
+Head	olfactory receptor neuron	svp	160	sNPF	160	sNPF-R	160
+Head	optic-lobe-associated cortex glial cell	Atac3	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	CG16779	5	AstA	5	AstA-R1	5
+Head	optic-lobe-associated cortex glial cell	CG16779	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	CG44247	44	sNPF	44	sNPF-R	44
+Head	optic-lobe-associated cortex glial cell	Cf2	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	CrebB	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	E2f1	7	AstC	7	AstC-R2	7
+Head	optic-lobe-associated cortex glial cell	Mef2	20	sNPF	20	sNPF-R	20
+Head	optic-lobe-associated cortex glial cell	Psi	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	Rbp6	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	Rfx	7	AstC	7	AstC-R2	7
+Head	optic-lobe-associated cortex glial cell	Rfx	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	Rx	5	AstA	5	AstA-R1	5
+Head	optic-lobe-associated cortex glial cell	Tet	5	AstA	5	AstA-R1	5
+Head	optic-lobe-associated cortex glial cell	Tet	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	Trf2	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	bru3	5	AstA	5	AstA-R1	5
+Head	optic-lobe-associated cortex glial cell	crp	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	dimm	7	AstC	7	AstC-R2	7
+Head	optic-lobe-associated cortex glial cell	hth	17	AstA	17	AstA-R1	17
+Head	optic-lobe-associated cortex glial cell	hth	44	sNPF	44	sNPF-R	44
+Head	optic-lobe-associated cortex glial cell	luna	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	onecut	20	sNPF	20	sNPF-R	20
+Head	optic-lobe-associated cortex glial cell	sima	11	sNPF	11	sNPF-R	11
+Head	optic-lobe-associated cortex glial cell	sr	35	sNPF	35	sNPF-R	35
+Head	optic-lobe-associated cortex glial cell	svp	20	sNPF	20	sNPF-R	20
+Head	outer photoreceptor cell	Atac3	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	CG16779	3	AstA	3	AstA-R1	3
+Head	outer photoreceptor cell	CG16779	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	CG44247	94	sNPF	94	sNPF-R	94
+Head	outer photoreceptor cell	Cf2	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	CrebB	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	E2f1	1	AstC	1	AstC-R2	1
+Head	outer photoreceptor cell	Mef2	100	sNPF	100	sNPF-R	100
+Head	outer photoreceptor cell	Psi	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	Rbp6	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	Rfx	1	AstC	1	AstC-R2	1
+Head	outer photoreceptor cell	Rfx	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	Rx	3	AstA	3	AstA-R1	3
+Head	outer photoreceptor cell	Tet	3	AstA	3	AstA-R1	3
+Head	outer photoreceptor cell	Tet	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	Trf2	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	bru3	3	AstA	3	AstA-R1	3
+Head	outer photoreceptor cell	crp	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	dimm	1	AstC	1	AstC-R2	1
+Head	outer photoreceptor cell	hth	12	AstA	12	AstA-R1	12
+Head	outer photoreceptor cell	hth	100	sNPF	100	sNPF-R	100
+Head	outer photoreceptor cell	luna	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	onecut	43	sNPF	43	sNPF-R	43
+Head	outer photoreceptor cell	sima	25	sNPF	25	sNPF-R	25
+Head	outer photoreceptor cell	sr	100	sNPF	100	sNPF-R	100
+Head	outer photoreceptor cell	svp	100	sNPF	100	sNPF-R	100
+Head	perineurial glial sheath	Atac3	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	CG16779	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	CG44247	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	Cf2	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	CrebB	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	Mef2	4	sNPF	4	sNPF-R	4
+Head	perineurial glial sheath	Psi	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	Rbp6	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	Rfx	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	Tet	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	Trf2	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	crp	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	hth	4	sNPF	4	sNPF-R	4
+Head	perineurial glial sheath	luna	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	onecut	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	sima	1	sNPF	1	sNPF-R	1
+Head	perineurial glial sheath	sr	4	sNPF	4	sNPF-R	4
+Head	perineurial glial sheath	svp	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	Atac3	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	CG16779	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	CG44247	4	sNPF	4	sNPF-R	4
+Head	photoreceptor cell R7	Cf2	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	CrebB	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	Mef2	4	sNPF	4	sNPF-R	4
+Head	photoreceptor cell R7	Psi	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	Rbp6	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	Rfx	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	Tet	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	Trf2	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	crp	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	hth	4	sNPF	4	sNPF-R	4
+Head	photoreceptor cell R7	luna	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	onecut	4	sNPF	4	sNPF-R	4
+Head	photoreceptor cell R7	sima	1	sNPF	1	sNPF-R	1
+Head	photoreceptor cell R7	sr	4	sNPF	4	sNPF-R	4
+Head	photoreceptor cell R7	svp	4	sNPF	4	sNPF-R	4
+Head	photoreceptor cell R8	Atac3	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	CG16779	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	CG44247	15	sNPF	15	sNPF-R	15
+Head	photoreceptor cell R8	Cf2	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	CrebB	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	Mef2	18	sNPF	18	sNPF-R	18
+Head	photoreceptor cell R8	Psi	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	Rbp6	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	Rfx	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	Tet	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	Trf2	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	crp	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	hth	24	sNPF	24	sNPF-R	24
+Head	photoreceptor cell R8	luna	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	onecut	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	sima	6	sNPF	6	sNPF-R	6
+Head	photoreceptor cell R8	sr	18	sNPF	18	sNPF-R	18
+Head	photoreceptor cell R8	svp	24	sNPF	24	sNPF-R	24
+Head	photoreceptor-like	Atac3	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	CG16779	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	CG44247	8	sNPF	8	sNPF-R	8
+Head	photoreceptor-like	Cf2	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	CrebB	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	E2f1	1	AstC	1	AstC-R2	1
+Head	photoreceptor-like	Mef2	11	sNPF	11	sNPF-R	11
+Head	photoreceptor-like	Psi	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	Rbp6	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	Rfx	1	AstC	1	AstC-R2	1
+Head	photoreceptor-like	Rfx	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	Tet	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	Trf2	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	crp	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	dimm	1	AstC	1	AstC-R2	1
+Head	photoreceptor-like	hth	20	sNPF	20	sNPF-R	20
+Head	photoreceptor-like	luna	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	onecut	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	sima	5	sNPF	5	sNPF-R	5
+Head	photoreceptor-like	sr	17	sNPF	17	sNPF-R	17
+Head	photoreceptor-like	svp	14	sNPF	14	sNPF-R	14
+Head	pigment cell	Atac3	7	sNPF	7	sNPF-R	7
+Head	pigment cell	CG16779	2	AstA	2	AstA-R1	2
+Head	pigment cell	CG16779	7	sNPF	7	sNPF-R	7
+Head	pigment cell	CG44247	28	sNPF	28	sNPF-R	28
+Head	pigment cell	Cf2	7	sNPF	7	sNPF-R	7
+Head	pigment cell	CrebB	7	sNPF	7	sNPF-R	7
+Head	pigment cell	E2f1	1	AstC	1	AstC-R2	1
+Head	pigment cell	Mef2	25	sNPF	25	sNPF-R	25
+Head	pigment cell	Psi	7	sNPF	7	sNPF-R	7
+Head	pigment cell	Rbp6	7	sNPF	7	sNPF-R	7
+Head	pigment cell	Rfx	1	AstC	1	AstC-R2	1
+Head	pigment cell	Rfx	7	sNPF	7	sNPF-R	7
+Head	pigment cell	Rx	2	AstA	2	AstA-R1	2
+Head	pigment cell	Tet	2	AstA	2	AstA-R1	2
+Head	pigment cell	Tet	7	sNPF	7	sNPF-R	7
+Head	pigment cell	Trf2	7	sNPF	7	sNPF-R	7
+Head	pigment cell	bru3	2	AstA	2	AstA-R1	2
+Head	pigment cell	crp	7	sNPF	7	sNPF-R	7
+Head	pigment cell	dimm	1	AstC	1	AstC-R2	1
+Head	pigment cell	hth	8	AstA	8	AstA-R1	8
+Head	pigment cell	hth	28	sNPF	28	sNPF-R	28
+Head	pigment cell	luna	7	sNPF	7	sNPF-R	7
+Head	pigment cell	onecut	25	sNPF	25	sNPF-R	25
+Head	pigment cell	sima	7	sNPF	7	sNPF-R	7
+Head	pigment cell	sr	25	sNPF	25	sNPF-R	25
+Head	pigment cell	svp	22	sNPF	22	sNPF-R	22
+Head	proximal medullary amacrine neuron Pm4	Atac3	1	sNPF	1	sNPF-R	1
+Head	proximal medullary amacrine neuron Pm4	CG16779	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	CG44247	8	sNPF	8	sNPF-R	8
+Head	proximal medullary amacrine neuron Pm4	Cf2	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	CrebB	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	Mef2	5	sNPF	5	sNPF-R	5
+Head	proximal medullary amacrine neuron Pm4	Psi	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	Rbp6	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	Rfx	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	Tet	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	Trf2	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	crp	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	hth	8	sNPF	8	sNPF-R	8
+Head	proximal medullary amacrine neuron Pm4	luna	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	onecut	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	sima	2	sNPF	2	sNPF-R	2
+Head	proximal medullary amacrine neuron Pm4	sr	8	sNPF	8	sNPF-R	8
+Head	proximal medullary amacrine neuron Pm4	svp	5	sNPF	5	sNPF-R	5
+Head	skeletal muscle of head	Atac3	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	CG16779	4	AstA	4	AstA-R1	4
+Head	skeletal muscle of head	CG16779	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	CG44247	5	FMRFa	5	FMRFaR	5
+Head	skeletal muscle of head	CG44247	48	sNPF	48	sNPF-R	48
+Head	skeletal muscle of head	Cf2	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	CrebB	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	E2f1	2	AstC	2	AstC-R2	2
+Head	skeletal muscle of head	Mef2	30	sNPF	30	sNPF-R	30
+Head	skeletal muscle of head	Psi	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	Rbp6	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	Rfx	2	AstC	2	AstC-R2	2
+Head	skeletal muscle of head	Rfx	2	NPF	2	NPFR	2
+Head	skeletal muscle of head	Rfx	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	Rx	4	AstA	4	AstA-R1	4
+Head	skeletal muscle of head	Tet	4	AstA	4	AstA-R1	4
+Head	skeletal muscle of head	Tet	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	Trf2	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	bru3	4	AstA	4	AstA-R1	4
+Head	skeletal muscle of head	crp	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	dimm	2	AstC	2	AstC-R2	2
+Head	skeletal muscle of head	dimm	2	NPF	2	NPFR	2
+Head	skeletal muscle of head	hth	16	AstA	16	AstA-R1	16
+Head	skeletal muscle of head	hth	48	sNPF	48	sNPF-R	48
+Head	skeletal muscle of head	luna	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	onecut	33	sNPF	33	sNPF-R	33
+Head	skeletal muscle of head	sima	12	sNPF	12	sNPF-R	12
+Head	skeletal muscle of head	sr	5	FMRFa	5	FMRFaR	5
+Head	skeletal muscle of head	sr	39	sNPF	39	sNPF-R	39
+Head	skeletal muscle of head	svp	24	sNPF	24	sNPF-R	24
+Head	subperineurial glial cell	Atac3	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	CG16779	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	CG44247	16	sNPF	16	sNPF-R	16
+Head	subperineurial glial cell	Cf2	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	CrebB	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	E2f1	1	AstC	1	AstC-R2	1
+Head	subperineurial glial cell	Mef2	13	sNPF	13	sNPF-R	13
+Head	subperineurial glial cell	Psi	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	Rbp6	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	Rfx	1	AstC	1	AstC-R2	1
+Head	subperineurial glial cell	Rfx	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	Tet	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	Trf2	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	crp	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	dimm	1	AstC	1	AstC-R2	1
+Head	subperineurial glial cell	hth	13	sNPF	13	sNPF-R	13
+Head	subperineurial glial cell	luna	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	onecut	10	sNPF	10	sNPF-R	10
+Head	subperineurial glial cell	sima	4	sNPF	4	sNPF-R	4
+Head	subperineurial glial cell	sr	16	sNPF	16	sNPF-R	16
+Head	subperineurial glial cell	svp	10	sNPF	10	sNPF-R	10
+Head	T neuron T2a	Atac3	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	CG16779	1	AstA	1	AstA-R1	1
+Head	T neuron T2a	CG16779	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	CG44247	32	sNPF	32	sNPF-R	32
+Head	T neuron T2a	Cf2	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	CrebB	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	Mef2	38	sNPF	38	sNPF-R	38
+Head	T neuron T2a	Psi	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	Rbp6	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	Rfx	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	Rx	1	AstA	1	AstA-R1	1
+Head	T neuron T2a	Tet	1	AstA	1	AstA-R1	1
+Head	T neuron T2a	Tet	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	Trf2	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	bru3	1	AstA	1	AstA-R1	1
+Head	T neuron T2a	crp	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	hth	4	AstA	4	AstA-R1	4
+Head	T neuron T2a	hth	41	sNPF	41	sNPF-R	41
+Head	T neuron T2a	luna	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	onecut	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	sima	11	sNPF	11	sNPF-R	11
+Head	T neuron T2a	sr	32	sNPF	32	sNPF-R	32
+Head	T neuron T2a	svp	32	sNPF	32	sNPF-R	32
+Head	T neuron T3	Atac3	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	CG16779	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	CG44247	48	sNPF	48	sNPF-R	48
+Head	T neuron T3	Cf2	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	CrebB	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	E2f1	1	AstC	1	AstC-R2	1
+Head	T neuron T3	Mef2	48	sNPF	48	sNPF-R	48
+Head	T neuron T3	Psi	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	Rbp6	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	Rfx	1	AstC	1	AstC-R2	1
+Head	T neuron T3	Rfx	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	Tet	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	Trf2	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	crp	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	dimm	1	AstC	1	AstC-R2	1
+Head	T neuron T3	hth	60	sNPF	60	sNPF-R	60
+Head	T neuron T3	luna	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	onecut	18	sNPF	18	sNPF-R	18
+Head	T neuron T3	sima	15	sNPF	15	sNPF-R	15
+Head	T neuron T3	sr	48	sNPF	48	sNPF-R	48
+Head	T neuron T3	svp	57	sNPF	57	sNPF-R	57
+Head	T neuron T4/T5	Atac3	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	CG16779	2	AstA	2	AstA-R1	2
+Head	T neuron T4/T5	CG16779	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	CG44247	22	sNPF	22	sNPF-R	22
+Head	T neuron T4/T5	Cf2	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	CrebB	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	E2f1	1	AstC	1	AstC-R2	1
+Head	T neuron T4/T5	Mef2	19	sNPF	19	sNPF-R	19
+Head	T neuron T4/T5	Psi	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	Rbp6	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	Rfx	1	AstC	1	AstC-R2	1
+Head	T neuron T4/T5	Rfx	1	NPF	1	NPFR	1
+Head	T neuron T4/T5	Rfx	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	Rx	2	AstA	2	AstA-R1	2
+Head	T neuron T4/T5	Tet	2	AstA	2	AstA-R1	2
+Head	T neuron T4/T5	Tet	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	Trf2	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	bru3	2	AstA	2	AstA-R1	2
+Head	T neuron T4/T5	crp	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	dimm	1	AstC	1	AstC-R2	1
+Head	T neuron T4/T5	dimm	1	NPF	1	NPFR	1
+Head	T neuron T4/T5	hth	8	AstA	8	AstA-R1	8
+Head	T neuron T4/T5	hth	28	sNPF	28	sNPF-R	28
+Head	T neuron T4/T5	luna	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	onecut	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	sima	7	sNPF	7	sNPF-R	7
+Head	T neuron T4/T5	sr	16	sNPF	16	sNPF-R	16
+Head	T neuron T4/T5	svp	25	sNPF	25	sNPF-R	25
+Head	T neuron T4/T5a-b	Atac3	4	sNPF	4	sNPF-R	4
+Head	T neuron T4/T5a-b	CG16779	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	CG44247	1	FMRFa	1	FMRFaR	1
+Head	T neuron T4/T5a-b	CG44247	20	sNPF	20	sNPF-R	20
+Head	T neuron T4/T5a-b	Cf2	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	CrebB	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	Mef2	20	sNPF	20	sNPF-R	20
+Head	T neuron T4/T5a-b	Psi	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	Rbp6	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	Rfx	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	Tet	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	Trf2	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	crp	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	hth	14	sNPF	14	sNPF-R	14
+Head	T neuron T4/T5a-b	luna	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	onecut	8	sNPF	8	sNPF-R	8
+Head	T neuron T4/T5a-b	sima	5	sNPF	5	sNPF-R	5
+Head	T neuron T4/T5a-b	sr	4	FMRFa	4	FMRFaR	4
+Head	T neuron T4/T5a-b	sr	17	sNPF	17	sNPF-R	17
+Head	T neuron T4/T5a-b	svp	11	sNPF	11	sNPF-R	11
+Head	transmedullary neuron Tm1	Atac3	6	sNPF	6	sNPF-R	6
+Head	transmedullary neuron Tm1	CG16779	4	AstA	4	AstA-R1	4
+Head	transmedullary neuron Tm1	CG16779	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	CG44247	19	sNPF	19	sNPF-R	19
+Head	transmedullary neuron Tm1	Cf2	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	CrebB	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	Mef2	28	sNPF	28	sNPF-R	28
+Head	transmedullary neuron Tm1	Psi	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	Rbp6	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	Rfx	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	Rx	4	AstA	4	AstA-R1	4
+Head	transmedullary neuron Tm1	Tet	4	AstA	4	AstA-R1	4
+Head	transmedullary neuron Tm1	Tet	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	Trf2	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	bru3	4	AstA	4	AstA-R1	4
+Head	transmedullary neuron Tm1	crp	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	hth	16	AstA	16	AstA-R1	16
+Head	transmedullary neuron Tm1	hth	28	sNPF	28	sNPF-R	28
+Head	transmedullary neuron Tm1	luna	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	onecut	10	sNPF	10	sNPF-R	10
+Head	transmedullary neuron Tm1	sima	7	sNPF	7	sNPF-R	7
+Head	transmedullary neuron Tm1	sr	16	sNPF	16	sNPF-R	16
+Head	transmedullary neuron Tm1	svp	28	sNPF	28	sNPF-R	28
+Head	transmedullary neuron Tm2	Atac3	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm2	CG16779	3	AstA	3	AstA-R1	3
+Head	transmedullary neuron Tm2	CG16779	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	CG44247	20	sNPF	20	sNPF-R	20
+Head	transmedullary neuron Tm2	Cf2	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	CrebB	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	Mef2	14	sNPF	14	sNPF-R	14
+Head	transmedullary neuron Tm2	Psi	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	Rbp6	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	Rfx	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	Rx	3	AstA	3	AstA-R1	3
+Head	transmedullary neuron Tm2	Tet	3	AstA	3	AstA-R1	3
+Head	transmedullary neuron Tm2	Tet	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	Trf2	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	bru3	3	AstA	3	AstA-R1	3
+Head	transmedullary neuron Tm2	crp	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	hth	12	AstA	12	AstA-R1	12
+Head	transmedullary neuron Tm2	hth	20	sNPF	20	sNPF-R	20
+Head	transmedullary neuron Tm2	luna	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	onecut	8	sNPF	8	sNPF-R	8
+Head	transmedullary neuron Tm2	sima	5	sNPF	5	sNPF-R	5
+Head	transmedullary neuron Tm2	sr	20	sNPF	20	sNPF-R	20
+Head	transmedullary neuron Tm2	svp	20	sNPF	20	sNPF-R	20
+Head	transmedullary neuron Tm20	Atac3	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	CG16779	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	CG44247	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm20	Cf2	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	CrebB	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	Mef2	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm20	Psi	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	Rbp6	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	Rfx	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	Tet	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	Trf2	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	crp	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	hth	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm20	luna	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	onecut	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	sima	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm20	sr	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm20	svp	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm29	Atac3	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	CG16779	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	CG44247	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Cf2	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	CrebB	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Mef2	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Psi	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Rbp6	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Rfx	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Tet	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	Trf2	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	crp	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	hth	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm29	luna	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	onecut	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	sima	1	sNPF	1	sNPF-R	1
+Head	transmedullary neuron Tm29	sr	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm29	svp	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm3a	Atac3	11	sNPF	11	sNPF-R	11
+Head	transmedullary neuron Tm3a	CG16779	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm3a	CG16779	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	CG44247	36	sNPF	36	sNPF-R	36
+Head	transmedullary neuron Tm3a	Cf2	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	CrebB	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	Mef2	30	sNPF	30	sNPF-R	30
+Head	transmedullary neuron Tm3a	Psi	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	Rbp6	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	Rfx	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	Rx	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm3a	Tet	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm3a	Tet	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	Trf2	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	bru3	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm3a	crp	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	hth	4	AstA	4	AstA-R1	4
+Head	transmedullary neuron Tm3a	hth	48	sNPF	48	sNPF-R	48
+Head	transmedullary neuron Tm3a	luna	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	onecut	15	sNPF	15	sNPF-R	15
+Head	transmedullary neuron Tm3a	sima	12	sNPF	12	sNPF-R	12
+Head	transmedullary neuron Tm3a	sr	30	sNPF	30	sNPF-R	30
+Head	transmedullary neuron Tm3a	svp	39	sNPF	39	sNPF-R	39
+Head	transmedullary neuron Tm4	Atac3	4	sNPF	4	sNPF-R	4
+Head	transmedullary neuron Tm4	CG16779	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm4	CG16779	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	CG44247	33	sNPF	33	sNPF-R	33
+Head	transmedullary neuron Tm4	Cf2	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	CrebB	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	E2f1	2	AstC	2	AstC-R2	2
+Head	transmedullary neuron Tm4	Mef2	24	sNPF	24	sNPF-R	24
+Head	transmedullary neuron Tm4	Psi	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	Rbp6	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	Rfx	2	AstC	2	AstC-R2	2
+Head	transmedullary neuron Tm4	Rfx	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	Rx	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm4	Tet	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm4	Tet	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	Trf2	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	bru3	1	AstA	1	AstA-R1	1
+Head	transmedullary neuron Tm4	crp	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	dimm	2	AstC	2	AstC-R2	2
+Head	transmedullary neuron Tm4	hth	4	AstA	4	AstA-R1	4
+Head	transmedullary neuron Tm4	hth	36	sNPF	36	sNPF-R	36
+Head	transmedullary neuron Tm4	luna	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	onecut	15	sNPF	15	sNPF-R	15
+Head	transmedullary neuron Tm4	sima	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm4	sr	27	sNPF	27	sNPF-R	27
+Head	transmedullary neuron Tm4	svp	27	sNPF	27	sNPF-R	27
+Head	transmedullary neuron Tm9	Atac3	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	CG16779	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	CG44247	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm9	Cf2	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	CrebB	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	Mef2	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm9	Psi	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	Rbp6	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	Rfx	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	Tet	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	Trf2	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	crp	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	hth	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm9	luna	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	onecut	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	sima	3	sNPF	3	sNPF-R	3
+Head	transmedullary neuron Tm9	sr	9	sNPF	9	sNPF-R	9
+Head	transmedullary neuron Tm9	svp	9	sNPF	9	sNPF-R	9
+Head	transmedullary Y neuron TmY14	Atac3	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	CG16779	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	CG44247	8	sNPF	8	sNPF-R	8
+Head	transmedullary Y neuron TmY14	Cf2	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	CrebB	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	Mef2	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	Psi	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	Rbp6	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	Rfx	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	Tet	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	Trf2	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	crp	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	hth	8	sNPF	8	sNPF-R	8
+Head	transmedullary Y neuron TmY14	luna	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	onecut	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	sima	2	sNPF	2	sNPF-R	2
+Head	transmedullary Y neuron TmY14	sr	5	sNPF	5	sNPF-R	5
+Head	transmedullary Y neuron TmY14	svp	8	sNPF	8	sNPF-R	8
+Head	transmedullary Y neuron TmY5a	Atac3	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	CG16779	1	AstA	1	AstA-R1	1
+Head	transmedullary Y neuron TmY5a	CG16779	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	CG44247	89	sNPF	89	sNPF-R	89
+Head	transmedullary Y neuron TmY5a	Cf2	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	CrebB	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	Mef2	89	sNPF	89	sNPF-R	89
+Head	transmedullary Y neuron TmY5a	Psi	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	Rbp6	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	Rfx	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	Rx	1	AstA	1	AstA-R1	1
+Head	transmedullary Y neuron TmY5a	Tet	1	AstA	1	AstA-R1	1
+Head	transmedullary Y neuron TmY5a	Tet	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	Trf2	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	bru3	1	AstA	1	AstA-R1	1
+Head	transmedullary Y neuron TmY5a	crp	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	hth	4	AstA	4	AstA-R1	4
+Head	transmedullary Y neuron TmY5a	hth	113	sNPF	113	sNPF-R	113
+Head	transmedullary Y neuron TmY5a	luna	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	onecut	32	sNPF	32	sNPF-R	32
+Head	transmedullary Y neuron TmY5a	sima	29	sNPF	29	sNPF-R	29
+Head	transmedullary Y neuron TmY5a	sr	80	sNPF	80	sNPF-R	80
+Head	transmedullary Y neuron TmY5a	svp	77	sNPF	77	sNPF-R	77
+Head	transmedullary Y neuron TmY8	Atac3	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	CG16779	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	CG44247	12	sNPF	12	sNPF-R	12
+Head	transmedullary Y neuron TmY8	Cf2	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	CrebB	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	E2f1	1	AstC	1	AstC-R2	1
+Head	transmedullary Y neuron TmY8	Mef2	6	sNPF	6	sNPF-R	6
+Head	transmedullary Y neuron TmY8	Psi	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	Rbp6	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	Rfx	1	AstC	1	AstC-R2	1
+Head	transmedullary Y neuron TmY8	Rfx	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	Tet	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	Trf2	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	crp	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	dimm	1	AstC	1	AstC-R2	1
+Head	transmedullary Y neuron TmY8	hth	12	sNPF	12	sNPF-R	12
+Head	transmedullary Y neuron TmY8	luna	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	onecut	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	sima	3	sNPF	3	sNPF-R	3
+Head	transmedullary Y neuron TmY8	sr	9	sNPF	9	sNPF-R	9
+Head	transmedullary Y neuron TmY8	svp	6	sNPF	6	sNPF-R	6
+Head	unannotated	Atac3	1311	sNPF	1311	sNPF-R	1311
+Head	unannotated	CG16779	338	AstA	338	AstA-R1	338
+Head	unannotated	CG16779	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	CG44247	79	FMRFa	79	FMRFaR	79
+Head	unannotated	CG44247	4733	sNPF	4733	sNPF-R	4733
+Head	unannotated	Cf2	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	CrebB	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	E2f1	210	AstC	210	AstC-R2	210
+Head	unannotated	Mef2	3281	sNPF	3281	sNPF-R	3281
+Head	unannotated	Psi	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	Rbp6	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	Rfx	210	AstC	210	AstC-R2	210
+Head	unannotated	Rfx	53	NPF	53	NPFR	53
+Head	unannotated	Rfx	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	Rx	338	AstA	338	AstA-R1	338
+Head	unannotated	Tet	338	AstA	338	AstA-R1	338
+Head	unannotated	Tet	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	Trf2	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	bru3	338	AstA	338	AstA-R1	338
+Head	unannotated	crp	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	dimm	210	AstC	210	AstC-R2	210
+Head	unannotated	dimm	53	NPF	53	NPFR	53
+Head	unannotated	hth	1286	AstA	1286	AstA-R1	1286
+Head	unannotated	hth	5351	sNPF	5351	sNPF-R	5351
+Head	unannotated	luna	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	onecut	1922	sNPF	1922	sNPF-R	1922
+Head	unannotated	sima	1367	sNPF	1367	sNPF-R	1367
+Head	unannotated	sr	82	FMRFa	82	FMRFaR	82
+Head	unannotated	sr	3914	sNPF	3914	sNPF-R	3914
+Head	unannotated	svp	3710	sNPF	3710	sNPF-R	3710
+Body	adult fat body	CG16779	1	AstA	1	AstA-R1	1
+Body	adult fat body	Lim3	1	AstA	1	AstA-R1	1
+Body	adult fat body	onecut	1	AstA	1	AstA-R1	1
+Body	adult oenocyte	CG16779	1	AstA	1	AstA-R1	1
+Body	adult oenocyte	Lim3	1	AstA	1	AstA-R1	1
+Body	adult oenocyte	onecut	1	AstA	1	AstA-R1	1
+Body	adult peripheral nervous system	Atf6	5	sNPF	5	sNPF-R	5
+Body	adult peripheral nervous system	CG16779	5	AstA	5	AstA-R1	5
+Body	adult peripheral nervous system	CG16779	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	HGTX	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	Lim3	5	AstA	5	AstA-R1	5
+Body	adult peripheral nervous system	Lim3	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	acj6	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	dimm	2	AstC	2	AstC-R1	2
+Body	adult peripheral nervous system	dimm	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	ftz-f1	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	kn	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	onecut	5	AstA	5	AstA-R1	5
+Body	adult peripheral nervous system	onecut	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	pdm3	2	sNPF	2	sNPF-R	2
+Body	adult peripheral nervous system	sr	8	sNPF	8	sNPF-R	8
+Body	adult tracheal cell	Atf6	4	sNPF	4	sNPF-R	4
+Body	adult tracheal cell	CG16779	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	HGTX	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	Lim3	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	acj6	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	dimm	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	ftz-f1	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	kn	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	onecut	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	pdm3	1	sNPF	1	sNPF-R	1
+Body	adult tracheal cell	sr	4	sNPF	4	sNPF-R	4
+Body	adult ventral nervous system	Atf6	319	sNPF	319	sNPF-R	319
+Body	adult ventral nervous system	CG16779	96	AstA	96	AstA-R1	96
+Body	adult ventral nervous system	CG16779	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	HGTX	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	Lim3	96	AstA	96	AstA-R1	96
+Body	adult ventral nervous system	Lim3	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	acj6	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	dimm	59	AstC	59	AstC-R1	59
+Body	adult ventral nervous system	dimm	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	ftz-f1	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	kn	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	onecut	96	AstA	96	AstA-R1	96
+Body	adult ventral nervous system	onecut	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	pdm3	103	sNPF	103	sNPF-R	103
+Body	adult ventral nervous system	sr	36	FMRFa	36	FMRFaR	36
+Body	adult ventral nervous system	sr	391	sNPF	391	sNPF-R	391
+Body	enteroendocrine cell	Atf6	4	sNPF	4	sNPF-R	4
+Body	enteroendocrine cell	CG16779	3	AstA	3	AstA-R1	3
+Body	enteroendocrine cell	CG16779	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	HGTX	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	Lim3	3	AstA	3	AstA-R1	3
+Body	enteroendocrine cell	Lim3	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	acj6	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	dimm	7	AstC	7	AstC-R1	7
+Body	enteroendocrine cell	dimm	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	ftz-f1	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	kn	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	onecut	3	AstA	3	AstA-R1	3
+Body	enteroendocrine cell	onecut	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	pdm3	1	sNPF	1	sNPF-R	1
+Body	enteroendocrine cell	sr	4	sNPF	4	sNPF-R	4
+Body	escort cell	CG16779	1	AstA	1	AstA-R1	1
+Body	escort cell	Lim3	1	AstA	1	AstA-R1	1
+Body	escort cell	onecut	1	AstA	1	AstA-R1	1
+Body	follicle cell	CG16779	2	AstA	2	AstA-R1	2
+Body	follicle cell	Lim3	2	AstA	2	AstA-R1	2
+Body	follicle cell	onecut	2	AstA	2	AstA-R1	2
+Body	gustatory receptor neuron	Atf6	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	CG16779	1	AstA	1	AstA-R1	1
+Body	gustatory receptor neuron	CG16779	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	HGTX	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	Lim3	1	AstA	1	AstA-R1	1
+Body	gustatory receptor neuron	Lim3	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	acj6	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	dimm	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	ftz-f1	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	kn	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	onecut	1	AstA	1	AstA-R1	1
+Body	gustatory receptor neuron	onecut	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	pdm3	1	sNPF	1	sNPF-R	1
+Body	gustatory receptor neuron	sr	4	sNPF	4	sNPF-R	4
+Body	hemocyte	CG16779	1	AstA	1	AstA-R1	1
+Body	hemocyte	Lim3	1	AstA	1	AstA-R1	1
+Body	hemocyte	onecut	1	AstA	1	AstA-R1	1
+Body	leg muscle motor neuron	CG16779	6	AstA	6	AstA-R1	6
+Body	leg muscle motor neuron	Lim3	6	AstA	6	AstA-R1	6
+Body	leg muscle motor neuron	dimm	1	AstC	1	AstC-R2	1
+Body	leg muscle motor neuron	onecut	6	AstA	6	AstA-R1	6
+Body	leg muscle motor neuron	sr	4	FMRFa	4	FMRFaR	4
+Body	leg taste bristle chemosensory neuron	CG16779	2	AstA	2	AstA-R1	2
+Body	leg taste bristle chemosensory neuron	Lim3	2	AstA	2	AstA-R1	2
+Body	leg taste bristle chemosensory neuron	onecut	2	AstA	2	AstA-R1	2
+Body	multidendritic neuron	Atf6	33	sNPF	33	sNPF-R	33
+Body	multidendritic neuron	CG16779	5	AstA	5	AstA-R1	5
+Body	multidendritic neuron	CG16779	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	HGTX	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	Lim3	5	AstA	5	AstA-R1	5
+Body	multidendritic neuron	Lim3	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	acj6	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	dimm	5	AstC	5	AstC-R1	5
+Body	multidendritic neuron	dimm	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	ftz-f1	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	kn	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	onecut	5	AstA	5	AstA-R1	5
+Body	multidendritic neuron	onecut	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	pdm3	9	sNPF	9	sNPF-R	9
+Body	multidendritic neuron	sr	33	sNPF	33	sNPF-R	33
+Body	muscle cell	Atf6	4	sNPF	4	sNPF-R	4
+Body	muscle cell	CG16779	4	AstA	4	AstA-R1	4
+Body	muscle cell	CG16779	1	sNPF	1	sNPF-R	1
+Body	muscle cell	HGTX	1	sNPF	1	sNPF-R	1
+Body	muscle cell	Lim3	4	AstA	4	AstA-R1	4
+Body	muscle cell	Lim3	1	sNPF	1	sNPF-R	1
+Body	muscle cell	acj6	1	sNPF	1	sNPF-R	1
+Body	muscle cell	dimm	7	AstC	7	AstC-R1	7
+Body	muscle cell	dimm	1	sNPF	1	sNPF-R	1
+Body	muscle cell	ftz-f1	1	sNPF	1	sNPF-R	1
+Body	muscle cell	kn	1	sNPF	1	sNPF-R	1
+Body	muscle cell	onecut	4	AstA	4	AstA-R1	4
+Body	muscle cell	onecut	1	sNPF	1	sNPF-R	1
+Body	muscle cell	pdm3	1	sNPF	1	sNPF-R	1
+Body	muscle cell	sr	36	FMRFa	36	FMRFaR	36
+Body	muscle cell	sr	1	sNPF	1	sNPF-R	1
+Body	scolopidial neuron	Atf6	5	sNPF	5	sNPF-R	5
+Body	scolopidial neuron	CG16779	3	AstA	3	AstA-R1	3
+Body	scolopidial neuron	CG16779	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	HGTX	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	Lim3	3	AstA	3	AstA-R1	3
+Body	scolopidial neuron	Lim3	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	acj6	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	dimm	1	AstC	1	AstC-R1	1
+Body	scolopidial neuron	dimm	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	ftz-f1	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	kn	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	onecut	3	AstA	3	AstA-R1	3
+Body	scolopidial neuron	onecut	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	pdm3	2	sNPF	2	sNPF-R	2
+Body	scolopidial neuron	sr	8	sNPF	8	sNPF-R	8
+Body	unannotated	CG16779	4	AstA	4	AstA-R1	4
+Body	unannotated	Lim3	4	AstA	4	AstA-R1	4
+Body	unannotated	dimm	1	AstC	1	AstC-R1	1
+Body	unannotated	onecut	4	AstA	4	AstA-R1	4
+Antenna	adult antenna glial cell	CHES-1-like	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Fer1	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Kdm4B	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Max	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Mef2	47	sNPF	47	sNPF-R	47
+Antenna	adult antenna glial cell	Myc	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Rbp6	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Rfx	53	sNPF	53	sNPF-R	53
+Antenna	adult antenna glial cell	Stat92E	44	sNPF	44	sNPF-R	44
+Antenna	adult antenna glial cell	Trf2	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	Xbp1	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	crc	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	onecut	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	peb	14	sNPF	14	sNPF-R	14
+Antenna	adult antenna glial cell	pnt	56	sNPF	56	sNPF-R	56
+Antenna	adult antenna glial cell	sr	50	sNPF	50	sNPF-R	50
+Antenna	adult antenna glial cell	trx	14	sNPF	14	sNPF-R	14
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	CHES-1-like	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Fer1	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Kdm4B	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Max	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Mef2	26	sNPF	26	sNPF-R	26
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Myc	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Rbp6	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Rfx	23	sNPF	23	sNPF-R	23
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Stat92E	17	sNPF	17	sNPF-R	17
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Trf2	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	Xbp1	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	crc	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	onecut	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	peb	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	pnt	32	sNPF	32	sNPF-R	32
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	sr	26	sNPF	26	sNPF-R	26
+Antenna	adult olfactory receptor neuron acid-sensing, Ir64a	trx	8	sNPF	8	sNPF-R	8
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	CHES-1-like	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Fer1	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Kdm4B	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Max	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Mef2	203	sNPF	203	sNPF-R	203
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Myc	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Rbp6	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Rfx	170	sNPF	170	sNPF-R	170
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Stat92E	158	sNPF	158	sNPF-R	158
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Trf2	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	Xbp1	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	crc	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	onecut	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	peb	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	pnt	236	sNPF	236	sNPF-R	236
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	sr	182	sNPF	182	sNPF-R	182
+Antenna	adult olfactory receptor neuron acid-sensing, Ir75a/b/c, Ir64a	trx	59	sNPF	59	sNPF-R	59
+Antenna	adult olfactory receptor neuron Gr21a/63a	CHES-1-like	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Fer1	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Kdm4B	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Max	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Mef2	205	sNPF	205	sNPF-R	205
+Antenna	adult olfactory receptor neuron Gr21a/63a	Myc	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Rbp6	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Rfx	169	sNPF	169	sNPF-R	169
+Antenna	adult olfactory receptor neuron Gr21a/63a	Stat92E	151	sNPF	151	sNPF-R	151
+Antenna	adult olfactory receptor neuron Gr21a/63a	Trf2	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	Xbp1	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	crc	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	onecut	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	peb	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Gr21a/63a	pnt	232	sNPF	232	sNPF-R	232
+Antenna	adult olfactory receptor neuron Gr21a/63a	sr	175	sNPF	175	sNPF-R	175
+Antenna	adult olfactory receptor neuron Gr21a/63a	trx	58	sNPF	58	sNPF-R	58
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	CHES-1-like	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Fer1	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Kdm4B	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Max	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Mef2	25	sNPF	25	sNPF-R	25
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Myc	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Rbp6	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Rfx	19	sNPF	19	sNPF-R	19
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Stat92E	19	sNPF	19	sNPF-R	19
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Trf2	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	Xbp1	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	crc	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	onecut	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	peb	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	pnt	28	sNPF	28	sNPF-R	28
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	sr	19	sNPF	19	sNPF-R	19
+Antenna	adult olfactory receptor neuron Ir56a+, Orco-	trx	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron Ir75d	CHES-1-like	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Fer1	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Kdm4B	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Max	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Mef2	54	sNPF	54	sNPF-R	54
+Antenna	adult olfactory receptor neuron Ir75d	Myc	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Rbp6	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Rfx	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Ir75d	Stat92E	30	sNPF	30	sNPF-R	30
+Antenna	adult olfactory receptor neuron Ir75d	Trf2	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	Xbp1	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	crc	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	onecut	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	peb	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir75d	pnt	60	sNPF	60	sNPF-R	60
+Antenna	adult olfactory receptor neuron Ir75d	sr	51	sNPF	51	sNPF-R	51
+Antenna	adult olfactory receptor neuron Ir75d	trx	15	sNPF	15	sNPF-R	15
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	CHES-1-like	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Fer1	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Kdm4B	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Max	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Mef2	14	sNPF	14	sNPF-R	14
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Myc	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Rbp6	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Rfx	20	sNPF	20	sNPF-R	20
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Stat92E	11	sNPF	11	sNPF-R	11
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Trf2	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	Xbp1	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	crc	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	onecut	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	peb	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	pnt	20	sNPF	20	sNPF-R	20
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	sr	14	sNPF	14	sNPF-R	14
+Antenna	adult olfactory receptor neuron Ir84a, Ir31a, Ir76a, Ir76b, Ir8a, Or35a	trx	5	sNPF	5	sNPF-R	5
+Antenna	adult olfactory receptor neuron Or13a	CHES-1-like	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Fer1	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Kdm4B	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Max	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Mef2	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or13a	Myc	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Rbp6	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Rfx	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or13a	Stat92E	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or13a	Trf2	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	Xbp1	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	crc	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	onecut	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	peb	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or13a	pnt	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or13a	sr	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or13a	trx	4	sNPF	4	sNPF-R	4
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	CHES-1-like	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Fer1	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Kdm4B	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Max	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Mef2	200	sNPF	200	sNPF-R	200
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Myc	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Rbp6	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Rfx	155	sNPF	155	sNPF-R	155
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Stat92E	191	sNPF	191	sNPF-R	191
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Trf2	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	Xbp1	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	crc	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	onecut	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	peb	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	pnt	272	sNPF	272	sNPF-R	272
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	sr	221	sNPF	221	sNPF-R	221
+Antenna	adult olfactory receptor neuron Or22a, Or42b, Or59b	trx	68	sNPF	68	sNPF-R	68
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	CHES-1-like	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Fer1	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Kdm4B	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Max	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Mef2	197	sNPF	197	sNPF-R	197
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Myc	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Rbp6	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Rfx	176	sNPF	176	sNPF-R	176
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Stat92E	161	sNPF	161	sNPF-R	161
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Trf2	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	Xbp1	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	crc	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	onecut	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	peb	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	pnt	248	sNPF	248	sNPF-R	248
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	sr	179	sNPF	179	sNPF-R	179
+Antenna	adult olfactory receptor neuron Or47a, Or56a and likely other ORN types	trx	62	sNPF	62	sNPF-R	62
+Antenna	adult olfactory receptor neuron Or47b	CHES-1-like	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Fer1	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Kdm4B	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Max	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Mef2	34	sNPF	34	sNPF-R	34
+Antenna	adult olfactory receptor neuron Or47b	Myc	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Rbp6	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Rfx	37	sNPF	37	sNPF-R	37
+Antenna	adult olfactory receptor neuron Or47b	Stat92E	34	sNPF	34	sNPF-R	34
+Antenna	adult olfactory receptor neuron Or47b	Trf2	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	Xbp1	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	crc	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	onecut	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	peb	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or47b	pnt	52	sNPF	52	sNPF-R	52
+Antenna	adult olfactory receptor neuron Or47b	sr	37	sNPF	37	sNPF-R	37
+Antenna	adult olfactory receptor neuron Or47b	trx	13	sNPF	13	sNPF-R	13
+Antenna	adult olfactory receptor neuron Or65	CHES-1-like	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Fer1	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Kdm4B	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Max	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Mef2	69	sNPF	69	sNPF-R	69
+Antenna	adult olfactory receptor neuron Or65	Myc	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Rbp6	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Rfx	60	sNPF	60	sNPF-R	60
+Antenna	adult olfactory receptor neuron Or65	Stat92E	60	sNPF	60	sNPF-R	60
+Antenna	adult olfactory receptor neuron Or65	Trf2	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	Xbp1	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	crc	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	onecut	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	peb	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or65	pnt	96	sNPF	96	sNPF-R	96
+Antenna	adult olfactory receptor neuron Or65	sr	60	sNPF	60	sNPF-R	60
+Antenna	adult olfactory receptor neuron Or65	trx	24	sNPF	24	sNPF-R	24
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	CHES-1-like	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Fer1	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Kdm4B	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Max	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Mef2	329	sNPF	329	sNPF-R	329
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Myc	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Rbp6	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Rfx	251	sNPF	251	sNPF-R	251
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Stat92E	281	sNPF	281	sNPF-R	281
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Trf2	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	Xbp1	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	crc	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	onecut	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	peb	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	pnt	404	sNPF	404	sNPF-R	404
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	sr	296	sNPF	296	sNPF-R	296
+Antenna	adult olfactory receptor neuron Or67a and likely other unknown ORN types	trx	101	sNPF	101	sNPF-R	101
+Antenna	adult olfactory receptor neuron Or67d	CHES-1-like	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Fer1	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Kdm4B	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Max	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Mef2	90	sNPF	90	sNPF-R	90
+Antenna	adult olfactory receptor neuron Or67d	Myc	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Rbp6	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Rfx	63	sNPF	63	sNPF-R	63
+Antenna	adult olfactory receptor neuron Or67d	Stat92E	57	sNPF	57	sNPF-R	57
+Antenna	adult olfactory receptor neuron Or67d	Trf2	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	Xbp1	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	crc	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	onecut	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	peb	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or67d	pnt	108	sNPF	108	sNPF-R	108
+Antenna	adult olfactory receptor neuron Or67d	sr	75	sNPF	75	sNPF-R	75
+Antenna	adult olfactory receptor neuron Or67d	trx	27	sNPF	27	sNPF-R	27
+Antenna	adult olfactory receptor neuron Or85a, Or43b	CHES-1-like	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Fer1	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Kdm4B	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Max	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Mef2	52	sNPF	52	sNPF-R	52
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Myc	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Rbp6	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Rfx	43	sNPF	43	sNPF-R	43
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Stat92E	46	sNPF	46	sNPF-R	46
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Trf2	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	Xbp1	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	crc	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	onecut	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	peb	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or85a, Or43b	pnt	64	sNPF	64	sNPF-R	64
+Antenna	adult olfactory receptor neuron Or85a, Or43b	sr	52	sNPF	52	sNPF-R	52
+Antenna	adult olfactory receptor neuron Or85a, Or43b	trx	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or88a	CHES-1-like	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Fer1	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Kdm4B	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Max	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Mef2	31	sNPF	31	sNPF-R	31
+Antenna	adult olfactory receptor neuron Or88a	Myc	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Rbp6	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Rfx	16	sNPF	16	sNPF-R	16
+Antenna	adult olfactory receptor neuron Or88a	Stat92E	28	sNPF	28	sNPF-R	28
+Antenna	adult olfactory receptor neuron Or88a	Trf2	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	Xbp1	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	crc	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	onecut	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	peb	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or88a	pnt	40	sNPF	40	sNPF-R	40
+Antenna	adult olfactory receptor neuron Or88a	sr	34	sNPF	34	sNPF-R	34
+Antenna	adult olfactory receptor neuron Or88a	trx	10	sNPF	10	sNPF-R	10
+Antenna	adult olfactory receptor neuron Or92a	CHES-1-like	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Fer1	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Kdm4B	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Max	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Mef2	147	sNPF	147	sNPF-R	147
+Antenna	adult olfactory receptor neuron Or92a	Myc	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Rbp6	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Rfx	114	sNPF	114	sNPF-R	114
+Antenna	adult olfactory receptor neuron Or92a	Stat92E	147	sNPF	147	sNPF-R	147
+Antenna	adult olfactory receptor neuron Or92a	Trf2	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	Xbp1	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	crc	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	onecut	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	peb	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron Or92a	pnt	180	sNPF	180	sNPF-R	180
+Antenna	adult olfactory receptor neuron Or92a	sr	135	sNPF	135	sNPF-R	135
+Antenna	adult olfactory receptor neuron Or92a	trx	45	sNPF	45	sNPF-R	45
+Antenna	adult olfactory receptor neuron unknown type, Orco-	CHES-1-like	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Fer1	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Kdm4B	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Max	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Mef2	22	sNPF	22	sNPF-R	22
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Myc	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Rbp6	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Rfx	25	sNPF	25	sNPF-R	25
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Stat92E	22	sNPF	22	sNPF-R	22
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Trf2	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	Xbp1	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	crc	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	onecut	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	peb	7	sNPF	7	sNPF-R	7
+Antenna	adult olfactory receptor neuron unknown type, Orco-	pnt	28	sNPF	28	sNPF-R	28
+Antenna	adult olfactory receptor neuron unknown type, Orco-	sr	25	sNPF	25	sNPF-R	25
+Antenna	adult olfactory receptor neuron unknown type, Orco-	trx	7	sNPF	7	sNPF-R	7
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	CHES-1-like	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Fer1	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Kdm4B	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Max	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Mef2	4	sNPF	4	sNPF-R	4
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Myc	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Rbp6	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Rfx	4	sNPF	4	sNPF-R	4
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Stat92E	4	sNPF	4	sNPF-R	4
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Trf2	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	Xbp1	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	crc	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	onecut	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	peb	1	sNPF	1	sNPF-R	1
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	pnt	4	sNPF	4	sNPF-R	4
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	sr	4	sNPF	4	sNPF-R	4
+Antenna	arista and sacculus thermosensory and hygrosensory neuron Ir21a, Ir40a, Gr28b	trx	1	sNPF	1	sNPF-R	1
+Antenna	epithelial cell	CHES-1-like	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Fer1	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Kdm4B	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Max	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Mef2	36	sNPF	36	sNPF-R	36
+Antenna	epithelial cell	Myc	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Rbp6	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Rfx	36	sNPF	36	sNPF-R	36
+Antenna	epithelial cell	Stat92E	36	sNPF	36	sNPF-R	36
+Antenna	epithelial cell	Trf2	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	Xbp1	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	crc	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	grh	3	Crz	3	CrzR	3
+Antenna	epithelial cell	onecut	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	peb	9	sNPF	9	sNPF-R	9
+Antenna	epithelial cell	pnt	36	sNPF	36	sNPF-R	36
+Antenna	epithelial cell	sr	36	sNPF	36	sNPF-R	36
+Antenna	epithelial cell	trx	9	sNPF	9	sNPF-R	9
+Antenna	hemocyte	CHES-1-like	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Fer1	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Kdm4B	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Max	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Mef2	9	sNPF	9	sNPF-R	9
+Antenna	hemocyte	Myc	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Rbp6	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Rfx	12	sNPF	12	sNPF-R	12
+Antenna	hemocyte	Stat92E	9	sNPF	9	sNPF-R	9
+Antenna	hemocyte	Trf2	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	Xbp1	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	crc	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	onecut	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	peb	3	sNPF	3	sNPF-R	3
+Antenna	hemocyte	pnt	12	sNPF	12	sNPF-R	12
+Antenna	hemocyte	sr	9	sNPF	9	sNPF-R	9
+Antenna	hemocyte	trx	3	sNPF	3	sNPF-R	3
+Antenna	Johnston organ neuron	CHES-1-like	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Fer1	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Kdm4B	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Max	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Mef2	820	sNPF	820	sNPF-R	820
+Antenna	Johnston organ neuron	Myc	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Rbp6	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Rfx	616	sNPF	616	sNPF-R	616
+Antenna	Johnston organ neuron	Stat92E	523	sNPF	523	sNPF-R	523
+Antenna	Johnston organ neuron	Trf2	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	Xbp1	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	crc	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	onecut	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	peb	220	sNPF	220	sNPF-R	220
+Antenna	Johnston organ neuron	pnt	880	sNPF	880	sNPF-R	880
+Antenna	Johnston organ neuron	sr	745	sNPF	745	sNPF-R	745
+Antenna	Johnston organ neuron	trx	220	sNPF	220	sNPF-R	220
+Antenna	muscle cell	CHES-1-like	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Fer1	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Kdm4B	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Max	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Mef2	29	sNPF	29	sNPF-R	29
+Antenna	muscle cell	Myc	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Rbp6	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Rfx	26	sNPF	26	sNPF-R	26
+Antenna	muscle cell	Stat92E	20	sNPF	20	sNPF-R	20
+Antenna	muscle cell	Trf2	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	Xbp1	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	crc	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	onecut	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	peb	8	sNPF	8	sNPF-R	8
+Antenna	muscle cell	pnt	32	sNPF	32	sNPF-R	32
+Antenna	muscle cell	sr	26	sNPF	26	sNPF-R	26
+Antenna	muscle cell	trx	8	sNPF	8	sNPF-R	8
+Antenna	olfactory receptor neuron, coeloconics	CHES-1-like	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Fer1	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Kdm4B	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Max	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Mef2	8	sNPF	8	sNPF-R	8
+Antenna	olfactory receptor neuron, coeloconics	Myc	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Rbp6	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Rfx	5	sNPF	5	sNPF-R	5
+Antenna	olfactory receptor neuron, coeloconics	Stat92E	5	sNPF	5	sNPF-R	5
+Antenna	olfactory receptor neuron, coeloconics	Trf2	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	Xbp1	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	crc	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	onecut	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	peb	2	sNPF	2	sNPF-R	2
+Antenna	olfactory receptor neuron, coeloconics	pnt	8	sNPF	8	sNPF-R	8
+Antenna	olfactory receptor neuron, coeloconics	sr	8	sNPF	8	sNPF-R	8
+Antenna	olfactory receptor neuron, coeloconics	trx	2	sNPF	2	sNPF-R	2
+Antenna	sacculus/arista neuron	CHES-1-like	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Fer1	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Kdm4B	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Max	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Mef2	282	sNPF	282	sNPF-R	282
+Antenna	sacculus/arista neuron	Myc	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Rbp6	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Rfx	237	sNPF	237	sNPF-R	237
+Antenna	sacculus/arista neuron	Stat92E	246	sNPF	246	sNPF-R	246
+Antenna	sacculus/arista neuron	Trf2	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	Xbp1	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	crc	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	onecut	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	peb	96	sNPF	96	sNPF-R	96
+Antenna	sacculus/arista neuron	pnt	384	sNPF	384	sNPF-R	384
+Antenna	sacculus/arista neuron	sr	264	sNPF	264	sNPF-R	264
+Antenna	sacculus/arista neuron	trx	96	sNPF	96	sNPF-R	96
+Antenna	unannotated	CHES-1-like	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Fer1	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Kdm4B	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Max	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Mef2	860	sNPF	860	sNPF-R	860
+Antenna	unannotated	Myc	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Rbp6	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Rfx	656	sNPF	656	sNPF-R	656
+Antenna	unannotated	Stat92E	695	sNPF	695	sNPF-R	695
+Antenna	unannotated	Trf2	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	Xbp1	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	crc	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	onecut	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	peb	260	sNPF	260	sNPF-R	260
+Antenna	unannotated	pnt	1040	sNPF	1040	sNPF-R	1040
+Antenna	unannotated	sr	773	sNPF	773	sNPF-R	773
+Antenna	unannotated	trx	260	sNPF	260	sNPF-R	260
+Body wall	adult oenocyte	onecut	1	AstA	1	AstA-R1	1
+Body wall	adult peripheral nervous system	onecut	1	AstA	1	AstA-R1	1
+Body wall	adult ventral nervous system	CG16779	4	sNPF	4	sNPF-R	4
+Body wall	adult ventral nervous system	onecut	1	sNPF	1	sNPF-R	1
+Body wall	adult ventral nervous system	sr	4	sNPF	4	sNPF-R	4
+Body wall	adult ventral nervous system	toy	1	sNPF	1	sNPF-R	1
+Body wall	muscle cell	CG16779	12	sNPF	12	sNPF-R	12
+Body wall	muscle cell	onecut	4	AstA	4	AstA-R1	4
+Body wall	muscle cell	onecut	3	sNPF	3	sNPF-R	3
+Body wall	muscle cell	sr	12	sNPF	12	sNPF-R	12
+Body wall	muscle cell	toy	3	sNPF	3	sNPF-R	3
+Body wall	unannotated	onecut	1	AstA	1	AstA-R1	1
+Fat body	adult fat body	Cf2	3	natalisin	3	TkR86C	3
+Fat body	adult fat body	Trf2	7	Pdf	7	Pdfr	7
+Fat body	adult fat body	Trf2	3	natalisin	3	TkR86C	3
+Fat body	adult fat body	Zif	3	natalisin	3	TkR86C	3
+Fat body	adult fat body	kay	52	AstA	52	AstA-R1	52
+Fat body	adult fat body	slou	52	AstA	52	AstA-R1	52
+Fat body	adult fat body	vri	52	AstA	52	AstA-R1	52
+Fat body	adult oenocyte	kay	1	AstA	1	AstA-R1	1
+Fat body	adult oenocyte	slou	1	AstA	1	AstA-R1	1
+Fat body	adult oenocyte	vri	1	AstA	1	AstA-R1	1
+Fat body	epithelial cell	kay	1	AstA	1	AstA-R1	1
+Fat body	epithelial cell	slou	1	AstA	1	AstA-R1	1
+Fat body	epithelial cell	vri	1	AstA	1	AstA-R1	1
+Fat body	hemocyte	kay	2	AstA	2	AstA-R1	2
+Fat body	hemocyte	slou	2	AstA	2	AstA-R1	2
+Fat body	hemocyte	vri	2	AstA	2	AstA-R1	2
+Fat body	testis	Cf2	1	natalisin	1	TkR86C	1
+Fat body	testis	Kah	1	FMRFa	1	FMRFaR	1
+Fat body	testis	Trf2	1	natalisin	1	TkR86C	1
+Fat body	testis	Zif	1	natalisin	1	TkR86C	1
+Fat body	testis	kay	2	AstA	2	AstA-R1	2
+Fat body	testis	slou	2	AstA	2	AstA-R1	2
+Fat body	testis	vri	2	AstA	2	AstA-R1	2
+Fat body	unannotated	Cf2	1	natalisin	1	TkR86C	1
+Fat body	unannotated	Trf2	2	Pdf	2	Pdfr	2
+Fat body	unannotated	Trf2	1	natalisin	1	TkR86C	1
+Fat body	unannotated	Zif	1	natalisin	1	TkR86C	1
+Fat body	unannotated	kay	1	AstA	1	AstA-R1	1
+Fat body	unannotated	slou	1	AstA	1	AstA-R1	1
+Fat body	unannotated	vri	1	AstA	1	AstA-R1	1
+Gut	adult Malpighian tubule	ERR	4	natalisin	4	TkR86C	4
+Gut	antimicrobial peptide-producing cell	onecut	1	AstA	1	AstA-R1	1
+Gut	cardia (1)	onecut	1	AstA	1	AstA-R1	1
+Gut	enterocyte of anterior adult midgut epithelium	onecut	1	AstA	1	AstA-R1	1
+Gut	enterocyte of posterior adult midgut epithelium	ERR	4	natalisin	4	TkR86C	4
+Gut	enterocyte of posterior adult midgut epithelium	onecut	1	AstA	1	AstA-R1	1
+Gut	enterocyte-like	Cf2	1	sNPF	1	sNPF-R	1
+Gut	enterocyte-like	CrebA	1	sNPF	1	sNPF-R	1
+Gut	enterocyte-like	Myc	1	sNPF	1	sNPF-R	1
+Gut	enterocyte-like	Trf2	1	sNPF	1	sNPF-R	1
+Gut	enterocyte-like	cwo	1	sNPF	1	sNPF-R	1
+Gut	enterocyte-like	foxo	4	sNPF	4	sNPF-R	4
+Gut	enteroendocrine cell	Cf2	4	sNPF	4	sNPF-R	4
+Gut	enteroendocrine cell	CrebA	4	sNPF	4	sNPF-R	4
+Gut	enteroendocrine cell	Myc	4	sNPF	4	sNPF-R	4
+Gut	enteroendocrine cell	Trf2	4	sNPF	4	sNPF-R	4
+Gut	enteroendocrine cell	cwo	4	sNPF	4	sNPF-R	4
+Gut	enteroendocrine cell	foxo	13	sNPF	13	sNPF-R	13
+Gut	enteroendocrine cell	onecut	5	AstA	5	AstA-R1	5
+Gut	midgut large flat cell	onecut	1	AstA	1	AstA-R1	1
+Gut	unannotated	Cf2	2	sNPF	2	sNPF-R	2
+Gut	unannotated	CrebA	2	sNPF	2	sNPF-R	2
+Gut	unannotated	Myc	8	sNPF	8	sNPF-R	8
+Gut	unannotated	Trf2	2	sNPF	2	sNPF-R	2
+Gut	unannotated	cwo	2	sNPF	2	sNPF-R	2
+Gut	unannotated	foxo	8	sNPF	8	sNPF-R	8
+Gut	unannotated	onecut	2	AstA	2	AstA-R1	2
+Heart	adult Malpighian tubule	CrebA	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	CrebB	4	natalisin	4	TkR86C	4
+Heart	adult Malpighian tubule	GATAd	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	GATAe	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	Jra	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	Myc	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	Rel	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	bs	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	crp	1	natalisin	1	TkR86C	1
+Heart	adult Malpighian tubule	kay	4	natalisin	4	TkR86C	4
+Leg	mechanosensory neuron of leg chordotonal organ	svp	4	sNPF	4	sNPF-R	4
+Male reproductive glands	anterior ejaculatory duct	Abl	1	AstA	1	AstA-R1	1
+Male reproductive glands	anterior ejaculatory duct	Atf3	1	AstA	1	AstA-R1	1
+Male reproductive glands	anterior ejaculatory duct	Atf6	1	AstA	1	AstA-R1	1
+Male reproductive glands	anterior ejaculatory duct	Atf6	3	sNPF	3	sNPF-R	3
+Male reproductive glands	anterior ejaculatory duct	Cf2	4	AstA	4	AstA-R1	4
+Male reproductive glands	anterior ejaculatory duct	Cf2	12	sNPF	12	sNPF-R	12
+Male reproductive glands	anterior ejaculatory duct	Hr78	1	AstA	1	AstA-R1	1
+Male reproductive glands	anterior ejaculatory duct	Mitf	1	AstA	1	AstA-R1	1
+Male reproductive glands	anterior ejaculatory duct	gsb	3	sNPF	3	sNPF-R	3
+Male reproductive glands	anterior ejaculatory duct	gsb-n	3	sNPF	3	sNPF-R	3
+Male reproductive glands	anterior ejaculatory duct	prd	12	sNPF	12	sNPF-R	12
+Male reproductive glands	anterior ejaculatory duct	trx	3	sNPF	3	sNPF-R	3
+Male reproductive glands	anterior ejaculatory duct	unc-4	12	sNPF	12	sNPF-R	12
+Male reproductive glands	ejaculatory bulb	Abl	1	AstA	1	AstA-R1	1
+Male reproductive glands	ejaculatory bulb	Atf3	1	AstA	1	AstA-R1	1
+Male reproductive glands	ejaculatory bulb	Atf6	4	AstA	4	AstA-R1	4
+Male reproductive glands	ejaculatory bulb	Cf2	1	AstA	1	AstA-R1	1
+Male reproductive glands	ejaculatory bulb	Hr78	1	AstA	1	AstA-R1	1
+Male reproductive glands	ejaculatory bulb	Mitf	1	AstA	1	AstA-R1	1
+Male reproductive glands	male accessory gland main cell	Atf6	5	AstA	5	AstA-R2	5
+Malpighian tubule	adult Malpighian tubule principal cell	Cf2	16	natalisin	16	TkR86C	16
+Malpighian tubule	adult Malpighian tubule principal cell	ERR	16	natalisin	16	TkR86C	16
+Malpighian tubule	adult Malpighian tubule principal cell	GATAd	16	natalisin	16	TkR86C	16
+Malpighian tubule	adult Malpighian tubule principal cell	GATAe	16	natalisin	16	TkR86C	16
+Malpighian tubule	adult Malpighian tubule principal cell	Hnf4	61	natalisin	61	TkR86C	61
+Malpighian tubule	adult Malpighian tubule principal cell	Myc	16	natalisin	16	TkR86C	16
+Malpighian tubule	adult Malpighian tubule principal cell	Pdp1	16	natalisin	16	TkR86C	16
+Malpighian tubule	adult Malpighian tubule principal cell	kay	58	natalisin	58	TkR86C	58
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	Cf2	3	natalisin	3	TkR86C	3
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	ERR	3	natalisin	3	TkR86C	3
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	GATAd	3	natalisin	3	TkR86C	3
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	GATAe	3	natalisin	3	TkR86C	3
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	Hnf4	9	natalisin	9	TkR86C	9
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	Myc	3	natalisin	3	TkR86C	3
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	Pdp1	3	natalisin	3	TkR86C	3
+Malpighian tubule	adult Malpighian tubule principal cell of initial segment	kay	6	natalisin	6	TkR86C	6
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	Cf2	20	natalisin	20	TkR86C	20
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	ERR	20	natalisin	20	TkR86C	20
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	GATAd	20	natalisin	20	TkR86C	20
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	GATAe	20	natalisin	20	TkR86C	20
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	Hnf4	80	natalisin	80	TkR86C	80
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	Myc	20	natalisin	20	TkR86C	20
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	Pdp1	20	natalisin	20	TkR86C	20
+Malpighian tubule	adult Malpighian tubule principal cell of lower segment	kay	77	natalisin	77	TkR86C	77
+Malpighian tubule	unannotated	Cf2	1	natalisin	1	TkR86C	1
+Malpighian tubule	unannotated	ERR	1	natalisin	1	TkR86C	1
+Malpighian tubule	unannotated	GATAd	1	natalisin	1	TkR86C	1
+Malpighian tubule	unannotated	GATAe	1	natalisin	1	TkR86C	1
+Malpighian tubule	unannotated	Hnf4	4	natalisin	4	TkR86C	4
+Malpighian tubule	unannotated	Myc	1	natalisin	1	TkR86C	1
+Malpighian tubule	unannotated	Pdp1	1	natalisin	1	TkR86C	1
+Malpighian tubule	unannotated	kay	4	natalisin	4	TkR86C	4
+Oenocyte	adult enterocyte	Trf2	1	AstA	1	AstA-R1	1
+Oenocyte	adult enterocyte	Xbp1	4	AstA	4	AstA-R1	4
+Oenocyte	adult fat body	Mef2	40	sNPF	40	sNPF-R	40
+Oenocyte	adult fat body	Myc	28	sNPF	28	sNPF-R	28
+Oenocyte	adult fat body	Trf2	3	AstA	3	AstA-R1	3
+Oenocyte	adult fat body	Xbp1	9	AstA	9	AstA-R1	9
+Oenocyte	adult fat body	foxo	40	sNPF	40	sNPF-R	40
+Oenocyte	adult fat body	srp	40	sNPF	40	sNPF-R	40
+Oenocyte	adult neuron	Mef2	4	sNPF	4	sNPF-R	4
+Oenocyte	adult neuron	Myc	4	sNPF	4	sNPF-R	4
+Oenocyte	adult neuron	foxo	4	sNPF	4	sNPF-R	4
+Oenocyte	adult neuron	srp	4	sNPF	4	sNPF-R	4
+Oenocyte	unannotated	Mef2	8	sNPF	8	sNPF-R	8
+Oenocyte	unannotated	Myc	8	sNPF	8	sNPF-R	8
+Oenocyte	unannotated	Trf2	2	AstA	2	AstA-R1	2
+Oenocyte	unannotated	Xbp1	8	AstA	8	AstA-R1	8
+Oenocyte	unannotated	foxo	8	sNPF	8	sNPF-R	8
+Oenocyte	unannotated	srp	8	sNPF	8	sNPF-R	8
+Ovary	choriogenic main body follicle cell and corpus luteum	Abl	1	AstA	1	AstA-R1	1
+Ovary	choriogenic main body follicle cell and corpus luteum	Atf3	1	AstA	1	AstA-R1	1
+Ovary	choriogenic main body follicle cell and corpus luteum	CrebB	1	AstA	1	AstA-R1	1
+Ovary	choriogenic main body follicle cell and corpus luteum	Trf2	1	AstA	1	AstA-R1	1
+Ovary	choriogenic main body follicle cell and corpus luteum	cnc	1	AstA	1	AstA-R1	1
+Ovary	choriogenic main body follicle cell and corpus luteum	sd	4	AstA	4	AstA-R1	4
+Ovary	dorsal appendage forming follicle cell	Abl	3	AstA	3	AstA-R1	3
+Ovary	dorsal appendage forming follicle cell	Atf3	3	AstA	3	AstA-R1	3
+Ovary	dorsal appendage forming follicle cell	CrebB	3	AstA	3	AstA-R1	3
+Ovary	dorsal appendage forming follicle cell	Trf2	3	AstA	3	AstA-R1	3
+Ovary	dorsal appendage forming follicle cell	cnc	3	AstA	3	AstA-R1	3
+Ovary	dorsal appendage forming follicle cell	sd	12	AstA	12	AstA-R1	12
+Ovary	unannotated	Abl	1	AstA	1	AstA-R1	1
+Ovary	unannotated	Atf3	1	AstA	1	AstA-R1	1
+Ovary	unannotated	CrebB	1	AstA	1	AstA-R1	1
+Ovary	unannotated	Trf2	1	AstA	1	AstA-R1	1
+Ovary	unannotated	cnc	1	AstA	1	AstA-R1	1
+Ovary	unannotated	sd	1	AstA	1	AstA-R1	1
+Proboscis	adult peripheral nervous system	BtbVII	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	CG16779	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	CG9650	12	AstC	12	AstC-R1	12
+Proboscis	adult peripheral nervous system	CHES-1-like	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	Ets96B	1	NPF	1	NPFR	1
+Proboscis	adult peripheral nervous system	Mef2	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	NfI	248	sNPF	248	sNPF-R	248
+Proboscis	adult peripheral nervous system	Rbp6	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	Rfx	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	Trf2	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	bru3	14	AstA	14	AstA-R1	14
+Proboscis	adult peripheral nervous system	cg	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	cnc	248	sNPF	248	sNPF-R	248
+Proboscis	adult peripheral nervous system	onecut	10	AstC	10	AstC-R1	10
+Proboscis	adult peripheral nervous system	onecut	62	sNPF	62	sNPF-R	62
+Proboscis	adult peripheral nervous system	sr	34	AstC	34	AstC-R1	34
+Proboscis	adult peripheral nervous system	vri	248	sNPF	248	sNPF-R	248
+Proboscis	bitter-sensitive labellar taste bristle	BtbVII	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	CG16779	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	CHES-1-like	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	Mef2	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	NfI	12	sNPF	12	sNPF-R	12
+Proboscis	bitter-sensitive labellar taste bristle	Rbp6	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	Rfx	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	Trf2	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	cg	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	cnc	12	sNPF	12	sNPF-R	12
+Proboscis	bitter-sensitive labellar taste bristle	onecut	3	sNPF	3	sNPF-R	3
+Proboscis	bitter-sensitive labellar taste bristle	vri	12	sNPF	12	sNPF-R	12
+Proboscis	epithelial cell	bru3	1	AstA	1	AstA-R1	1
+Proboscis	gustatory receptor neuron of the labellum	BtbVII	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	CG16779	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	CHES-1-like	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	Mef2	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	NfI	12	sNPF	12	sNPF-R	12
+Proboscis	gustatory receptor neuron of the labellum	Rbp6	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	Rfx	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	Trf2	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	bru3	2	AstA	2	AstA-R1	2
+Proboscis	gustatory receptor neuron of the labellum	cg	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	cnc	12	sNPF	12	sNPF-R	12
+Proboscis	gustatory receptor neuron of the labellum	onecut	3	sNPF	3	sNPF-R	3
+Proboscis	gustatory receptor neuron of the labellum	vri	12	sNPF	12	sNPF-R	12
+Proboscis	labral sense organ mechanosensory neuron	BtbVII	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	CG16779	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	CHES-1-like	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	Mef2	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	NfI	12	sNPF	12	sNPF-R	12
+Proboscis	labral sense organ mechanosensory neuron	Rbp6	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	Rfx	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	Trf2	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	cg	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	cnc	12	sNPF	12	sNPF-R	12
+Proboscis	labral sense organ mechanosensory neuron	onecut	3	sNPF	3	sNPF-R	3
+Proboscis	labral sense organ mechanosensory neuron	vri	12	sNPF	12	sNPF-R	12
+Proboscis	maxillary palp olfactory receptor neuron	BtbVII	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	CG16779	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	CHES-1-like	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	Mef2	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	NfI	164	sNPF	164	sNPF-R	164
+Proboscis	maxillary palp olfactory receptor neuron	Rbp6	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	Rfx	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	Trf2	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	cg	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	cnc	164	sNPF	164	sNPF-R	164
+Proboscis	maxillary palp olfactory receptor neuron	onecut	41	sNPF	41	sNPF-R	41
+Proboscis	maxillary palp olfactory receptor neuron	vri	164	sNPF	164	sNPF-R	164
+Proboscis	muscle cell	BtbVII	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	CG16779	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	CHES-1-like	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	Mef2	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	NfI	4	sNPF	4	sNPF-R	4
+Proboscis	muscle cell	Rbp6	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	Rfx	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	Trf2	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	cg	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	cnc	4	sNPF	4	sNPF-R	4
+Proboscis	muscle cell	onecut	1	sNPF	1	sNPF-R	1
+Proboscis	muscle cell	vri	4	sNPF	4	sNPF-R	4
+Proboscis	peripheral glial cell	BtbVII	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	CG16779	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	CG9650	4	AstC	4	AstC-R1	4
+Proboscis	peripheral glial cell	CHES-1-like	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	Mef2	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	NfI	4	sNPF	4	sNPF-R	4
+Proboscis	peripheral glial cell	Rbp6	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	Rfx	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	Trf2	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	cg	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	cnc	4	sNPF	4	sNPF-R	4
+Proboscis	peripheral glial cell	onecut	1	AstC	1	AstC-R1	1
+Proboscis	peripheral glial cell	onecut	1	sNPF	1	sNPF-R	1
+Proboscis	peripheral glial cell	sr	4	AstC	4	AstC-R1	4
+Proboscis	peripheral glial cell	vri	4	sNPF	4	sNPF-R	4
+Proboscis	photoreceptor	BtbVII	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	CG16779	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	CHES-1-like	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	Mef2	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	NfI	4	sNPF	4	sNPF-R	4
+Proboscis	photoreceptor	Rbp6	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	Rfx	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	Trf2	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	cg	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	cnc	4	sNPF	4	sNPF-R	4
+Proboscis	photoreceptor	onecut	1	sNPF	1	sNPF-R	1
+Proboscis	photoreceptor	vri	4	sNPF	4	sNPF-R	4
+Proboscis	unannotated	BtbVII	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	CG16779	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	CG9650	4	AstC	4	AstC-R1	4
+Proboscis	unannotated	CHES-1-like	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	Mef2	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	NfI	28	sNPF	28	sNPF-R	28
+Proboscis	unannotated	Rbp6	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	Rfx	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	Trf2	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	cg	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	cnc	28	sNPF	28	sNPF-R	28
+Proboscis	unannotated	onecut	1	AstC	1	AstC-R1	1
+Proboscis	unannotated	onecut	7	sNPF	7	sNPF-R	7
+Proboscis	unannotated	sr	1	AstC	1	AstC-R1	1
+Proboscis	unannotated	vri	28	sNPF	28	sNPF-R	28
+Testis	adult neuron	Trf2	2	AstA	2	AstA-R1	2
+Testis	cyst cell branch b	Trf2	1	AstA	1	AstA-R1	1
+Testis	cyst cell intermediate	Trf2	1	AstA	1	AstA-R1	1
+Testis	early-mid elongation-stage spermatid	Trf2	1	AstA	1	AstA-R1	1
+Testis	hemocyte	Trf2	1	AstA	1	AstA-R1	1
+Testis	late primary spermatocyte	Trf2	3	AstA	3	AstA-R1	3
+Testis	male gonad associated epithelium	Trf2	1	AstA	1	AstA-R1	1
+Testis	maturing primary spermatocyte	Trf2	1	AstA	1	AstA-R1	1
+Testis	spermatocyte	Trf2	32	AstA	32	AstA-R1	32
+Testis	spermatocyte	Trf2	1	Pdf	1	Pdfr	1
+Testis	spermatocyte 1	Trf2	3	AstA	3	AstA-R1	3
+Testis	spermatocyte 2	Trf2	7	AstA	7	AstA-R1	7
+Testis	spermatocyte 2	Trf2	1	Pdf	1	Pdfr	1
+Testis	spermatocyte 3	Trf2	24	AstA	24	AstA-R1	24
+Testis	spermatocyte 3	Trf2	1	Pdf	1	Pdfr	1
+Testis	spermatocyte 4	Trf2	68	AstA	68	AstA-R1	68
+Testis	spermatocyte 4	Trf2	1	Pdf	1	Pdfr	1
+Testis	spermatocyte 5	Trf2	51	AstA	51	AstA-R1	51
+Testis	spermatocyte 5	Trf2	1	Pdf	1	Pdfr	1
+Testis	spermatocyte 6	Trf2	25	AstA	25	AstA-R1	25
+Testis	spermatocyte 6	Trf2	1	Pdf	1	Pdfr	1
+Testis	spermatocyte 7a	Trf2	4	AstA	4	AstA-R1	4
+Testis	spermatogonium	Trf2	1	AstA	1	AstA-R1	1
+Testis	unannotated	Trf2	1	AstA	1	AstA-R1	1
+Trachea	adult tracheal cell	Lim3	1	AstA	1	AstA-R1	1
+Trachea	adult tracheal cell	onecut	1	AstA	1	AstA-R1	1
+Trachea	btl-GAL4 positive female cell, likely to be ovary cell, sim+	Lim3	2	AstA	2	AstA-R1	2
+Trachea	btl-GAL4 positive female cell, likely to be ovary cell, sim+	onecut	2	AstA	2	AstA-R1	2
+Trachea	unannotated	Lim3	4	AstA	4	AstA-R1	4
+Trachea	unannotated	NfI	1	AstA	1	AstA-R2	1
+Trachea	unannotated	onecut	4	AstA	4	AstA-R1	4
+Wing	gustatory receptor neuron	grh	1	Crz	1	CrzR	1
+Wing	gustatory receptor neuron	kay	1	Crz	1	CrzR	1
+Wing	nociceptive neuron	Pdp1	1	sNPF	1	sNPF-R	1
+Wing	nociceptive neuron	Trf2	1	sNPF	1	sNPF-R	1
+Wing	nociceptive neuron	cg	1	sNPF	1	sNPF-R	1
+Wing	nociceptive neuron	crp	1	sNPF	1	sNPF-R	1
+Wing	nociceptive neuron	onecut	1	sNPF	1	sNPF-R	1
+Wing	unannotated	Pdp1	4	sNPF	4	sNPF-R	4
+Wing	unannotated	Trf2	4	sNPF	4	sNPF-R	4
+Wing	unannotated	cg	2	sNPF	2	sNPF-R	2
+Wing	unannotated	crp	4	sNPF	4	sNPF-R	4
+Wing	unannotated	grh	13	Crz	13	CrzR	13
+Wing	unannotated	kay	13	Crz	13	CrzR	13
+Wing	unannotated	onecut	4	sNPF	4	sNPF-R	4
