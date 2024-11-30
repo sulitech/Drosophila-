@@ -11,7 +11,7 @@ Using the Fly Cell Atlas platform, which provides single-cell RNA sequencing (sn
 a total of 17 loom files were obtained for tissue snRNA-seq data. 
 The fly cell atlas portal (https://flycellatlas) was utilized. 
 Using a Python program, data on tissue, genes, cells, gene expression levels in cells, 
-and motif expression levels in cells were stored in a MySQL database via the Python package scanpy[2]. 
+and motif expression levels in cells were stored in a MySQL database via the Python package scanpy. 
 In these files, the number of tissues stored is 17, genes are 16,373, cells are 507,827
 and TFs are 565. Approximately 450 million gene expression records were stored. 
 The pre-built MySQL database contains about 21G of data, allowing for checking 
