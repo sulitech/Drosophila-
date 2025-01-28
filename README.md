@@ -21,7 +21,7 @@ from the file gene_rpkm_matrix_fb_2021_06.tsv, which was downloaded from FlyBase
 
 ## Visualization of NPs, NPRs, and TFs Network
 
-Ten NP and 13 NPR required for the TF network experiment were selected. In the Fly Cell Atlas, 
+10 NPs and 13 NPRs required for the TF network experiment were selected. In the Fly Cell Atlas, 
 TF-related information is organized using the AUCell algorithm. We used the relational data between these genes and TFs.
 1) To maximize the difference between NP and NPR, cells where NP and NPR are co-expressed were excluded.
 2) Cells where TF is co-expressed in cells where NP and NPR are expressed separately were extracted.
